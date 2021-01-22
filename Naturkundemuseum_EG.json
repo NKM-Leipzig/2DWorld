@@ -1121,10 +1121,6 @@
         }, 
         {
          "firstgid":609,
-         "source":"stopped0005.tsx"
-        }, 
-        {
-         "firstgid":609,
          "source":"trees-and-bushes.tsx"
         }, 
         {
@@ -1403,7 +1399,7 @@
         {
          "columns":16,
          "firstgid":3382,
-         "image":"2D-Welt-thueringen-main\/maschinenraum\/SF_Inside_B.png",
+         "image":"SF_Inside_B.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1525,7 +1521,7 @@
         {
          "columns":32,
          "firstgid":3638,
-         "image":"2D-Welt-thueringen-main\/maschinenraum\/terrain_atlas.png",
+         "image":"terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1538,7 +1534,7 @@
         {
          "columns":70,
          "firstgid":4662,
-         "image":"2D-Welt-thueringen-main\/garten\/poke.png",
+         "image":"poke.png",
          "imageheight":2400,
          "imagewidth":2240,
          "margin":0,
@@ -1551,7 +1547,7 @@
         {
          "columns":31,
          "firstgid":9912,
-         "image":"2D-Welt-thueringen-main\/bytespeicher\/Makerspace.png",
+         "image":"Makerspace.png",
          "imageheight":768,
          "imagewidth":1008,
          "margin":0,
