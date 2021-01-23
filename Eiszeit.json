@@ -66,7 +66,7 @@
         {
          "draworder":"topdown",
          "id":7,
-         "name":"floorlayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
