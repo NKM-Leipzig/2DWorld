@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html">
+    <link rel="stylesheet" href="nkml.css">
+  </head>
+  <body>
+    <div class="header">
+      <img src="img/logo_naturkundemuseum.png" />
+      <h2>Das Naturkundemuseum Leipzig präsentiert</h2>
+    </div>
+    <div class="yt">
+      <iframe id="ytframe" width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="footer">
+      <footer>
+        <ul>
+          <li><a href="http://www.leipzig.de/impressum/">Impressum</a></li>
+          <li><a href="http://www.leipzig.de/datenschutzerklaerung/">Datenschutzerklärung</a></li>
+          <li><a href="https://www.leipzig.de/kontakt/">Kontakt</a></li>
+        </ul>
+      </footer>
+    </div>
+    <script>
+        var urlParams;
+        (window.onpopstate = function () {
+            var match,
+                pl     = /\+/g,  // Regex for replacing addition symbol with a space
+                search = /([^&=]+)=?([^&]*)/g,
+                decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+                query  = window.location.search.substring(1);
+    
+            urlParams = {};
+            while (match = search.exec(query))
+            urlParams[decode(match[1])] = decode(match[2]);
+        })();
+    
+        let ytframe = document.getElementById("ytframe");
+        let adsURL = "https://www.youtube-nocookie.com/embed/"+urlParams["ytvideoid"];
+        console.log(adsURL);
+        ytframe.src = adsURL;
+        </script>
+  </body>
+</html>
