@@ -1331,7 +1331,7 @@
         {
          "columns":32,
          "firstgid":857,
-         "image":"LPC_Terrain\/terrain.png",
+         "image":"tiles\/LPC_Terrain\/terrain.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1344,7 +1344,7 @@
         {
          "columns":8,
          "firstgid":1881,
-         "image":"adventu.re-main\/fantasy.png",
+         "image":"tiles\/adventu.re-main\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1880,7 +1880,7 @@
         {
          "columns":16,
          "firstgid":2945,
-         "image":"adventu.re-main\/tilesets_deviant_milkian_3.png",
+         "image":"tiles\/adventu.re-main\/tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,

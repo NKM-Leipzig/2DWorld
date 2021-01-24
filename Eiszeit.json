@@ -132,7 +132,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"LPC_Terrain\/terrain.png",
+         "image":"tiles\/LPC_Terrain\/terrain.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -513,7 +513,7 @@
         {
          "columns":8,
          "firstgid":1049,
-         "image":"adventu.re-main\/floortileset.png",
+         "image":"tiles\/adventu.re-main\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -526,7 +526,7 @@
         {
          "columns":8,
          "firstgid":1113,
-         "image":"adventu.re-main\/fantasy.png",
+         "image":"tiles\/adventu.re-main\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
