@@ -358,7 +358,7 @@
         {
          "columns":6,
          "firstgid":1025,
-         "image":"LPCsnowTrees.png",
+         "image":"tiles\/LPCsnowTrees.png",
          "imageheight":128,
          "imagewidth":192,
          "margin":0,
@@ -894,7 +894,7 @@
         {
          "columns":70,
          "firstgid":2177,
-         "image":"poke.png",
+         "image":"tiles\/poke.png",
          "imageheight":2400,
          "imagewidth":2240,
          "margin":0,
@@ -1025,7 +1025,7 @@
         {
          "columns":4,
          "firstgid":7427,
-         "image":"Shark1.png",
+         "image":"tiles\/Shark1.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -1038,7 +1038,7 @@
         {
          "columns":1,
          "firstgid":7431,
-         "image":"Stern.png",
+         "image":"tiles\/Stern.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1051,7 +1051,7 @@
         {
          "columns":16,
          "firstgid":7432,
-         "image":"Bubbles.png",
+         "image":"tiles\/Bubbles.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -1064,7 +1064,7 @@
         {
          "columns":8,
          "firstgid":7560,
-         "image":"Ocean_SpriteSheet.png",
+         "image":"tiles\/Ocean_SpriteSheet.png",
          "imageheight":64,
          "imagewidth":256,
          "margin":0,

@@ -336,7 +336,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -1115,7 +1115,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"tiles\/floortileset.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":1,
@@ -1137,12 +1137,12 @@
         }, 
         {
          "firstgid":321,
-         "source":"mountain_landscape.tsx"
+         "source":"tiles\/mountain_landscape.tsx"
         }, 
         {
          "columns":16,
          "firstgid":577,
-         "image":"LPC_house_interior\/LPC_house_interior\/interior.png",
+         "image":"tiles\/LPC_house_interior\/LPC_house_interior\/interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1318,7 +1318,7 @@
         {
          "columns":6,
          "firstgid":833,
-         "image":"LPCsnowTrees.png",
+         "image":"tiles\/LPCsnowTrees.png",
          "imageheight":128,
          "imagewidth":192,
          "margin":0,
@@ -1921,7 +1921,7 @@
         {
          "columns":16,
          "firstgid":3201,
-         "image":"SF_Inside_B.png",
+         "image":"tiles\/SF_Inside_B.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2043,7 +2043,7 @@
         {
          "columns":32,
          "firstgid":3457,
-         "image":"terrain_atlas.png",
+         "image":"tiles\/terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2273,7 +2273,7 @@
         {
          "columns":70,
          "firstgid":4481,
-         "image":"poke.png",
+         "image":"tiles\/poke.png",
          "imageheight":2400,
          "imagewidth":2240,
          "margin":0,
@@ -2377,7 +2377,7 @@
         {
          "columns":31,
          "firstgid":9731,
-         "image":"Makerspace.png",
+         "image":"tiles\/Makerspace.png",
          "imageheight":768,
          "imagewidth":1008,
          "margin":0,
@@ -9087,7 +9087,7 @@
         {
          "columns":4,
          "firstgid":10475,
-         "image":"Shark1.png",
+         "image":"tiles\/Shark1.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -9100,7 +9100,7 @@
         {
          "columns":1,
          "firstgid":10479,
-         "image":"fedora.png",
+         "image":"tiles\/fedora.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -9113,7 +9113,7 @@
         {
          "columns":21,
          "firstgid":10480,
-         "image":"preview0.png",
+         "image":"tiles\/preview0.png",
          "imageheight":704,
          "imagewidth":672,
          "margin":0,
@@ -9126,7 +9126,7 @@
         {
          "columns":12,
          "firstgid":10942,
-         "image":"otters.png",
+         "image":"tiles\/otters.png",
          "imageheight":384,
          "imagewidth":384,
          "margin":0,
@@ -9139,7 +9139,7 @@
         {
          "columns":2,
          "firstgid":11086,
-         "image":"bernie.png",
+         "image":"tiles\/bernie.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,

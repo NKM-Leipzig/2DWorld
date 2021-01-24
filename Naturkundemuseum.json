@@ -204,7 +204,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"terrain_atlas.png",
+         "image":"tiles\/terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -376,7 +376,7 @@
         {
          "columns":70,
          "firstgid":2089,
-         "image":"poke.png",
+         "image":"tiles\/poke.png",
          "imageheight":2400,
          "imagewidth":2240,
          "margin":0,
@@ -480,7 +480,7 @@
         {
          "columns":16,
          "firstgid":7339,
-         "image":"mountain_landscape.png",
+         "image":"tiles\/mountain_landscape.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -619,7 +619,7 @@
         {
          "columns":17,
          "firstgid":8875,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":0,
@@ -632,7 +632,7 @@
         {
          "columns":32,
          "firstgid":9164,
-         "image":"base_out_atlas.png",
+         "image":"tiles\/base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -961,7 +961,7 @@
         {
          "columns":2,
          "firstgid":10188,
-         "image":"lpc-doors-animated-2.png",
+         "image":"tiles\/lpc-doors-animated-2.png",
          "imageheight":576,
          "imagewidth":64,
          "margin":0,
@@ -1065,7 +1065,7 @@
         {
          "columns":2,
          "firstgid":10224,
-         "image":"bernie.png",
+         "image":"tiles\/bernie.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -1088,7 +1088,7 @@
         {
          "columns":8,
          "firstgid":10228,
-         "image":"StreetSpriteBright.png",
+         "image":"tiles\/StreetSpriteBright.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
@@ -1101,7 +1101,7 @@
         {
          "columns":32,
          "firstgid":10260,
-         "image":"chaos_zone_shared.png",
+         "image":"tiles\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1691,7 +1691,7 @@
         {
          "columns":7,
          "firstgid":12308,
-         "image":"spider.png",
+         "image":"tiles\/spider.png",
          "imageheight":128,
          "imagewidth":224,
          "margin":0,
