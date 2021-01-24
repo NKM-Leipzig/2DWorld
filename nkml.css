@@ -4,6 +4,10 @@ body {
   margin: auto;
 }
 
+.close-btn {
+  background: black !important;
+}
+
 .header img {
   padding-top: 12px;
 }
