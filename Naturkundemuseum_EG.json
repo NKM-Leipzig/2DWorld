@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=-ia9pO3pAiY"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=RF-4gEU84iU"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -183,6 +183,12 @@
          "id":25,
          "name":"Vorlesen\/Buchtipp",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=-ia9pO3pAiY"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
