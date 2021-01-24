@@ -87,6 +87,12 @@
          "id":8,
          "name":"Bubbeln",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=seifenblase.mp4"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":27,
