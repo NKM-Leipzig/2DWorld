@@ -71,9 +71,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openURL",
+                 "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/naturkundemuseum.leipzig.de\/detailansicht-news\/news\/museumsquiz-vom-sofa-aus\/"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Museumsstars.html"
                 }],
          "type":"tilelayer",
          "visible":true,
