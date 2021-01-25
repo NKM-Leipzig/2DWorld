@@ -363,6 +363,12 @@
          "id":28,
          "name":"Klaviermusik",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=777teD7gQo"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
