@@ -463,7 +463,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"videos\/Huete.m4a"
+                 "value":"videos\/Huete.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -19,7 +19,7 @@
                 {
                  "name":"openAudio",
                  "type":"file",
-                 "value":"videos\/Schnarch.m4a"
+                 "value":"videos\/schnarch.ogg"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -89,6 +89,7 @@ body {
 
 .header img {
   padding-top: 12px;
+  height: 150px;
 }
 
 .header h2 {
@@ -103,12 +104,10 @@ p {
 .footer {
     position: relative;
     margin: 1em;
-    width: 50%;
     overflow: hidden;
     font-size: x-small;
 }
 .footer ul {
-    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -120,8 +119,7 @@ p {
     flex-basis: auto;
     margin: .25em 0;
     padding: 0 1em;
-    text-align: center;
-    border-left: 1px solid #ccc;
+    text-align: right;
 }
 
 .footer li:first-child {
