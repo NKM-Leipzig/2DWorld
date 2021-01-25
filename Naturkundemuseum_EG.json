@@ -43,7 +43,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"video\/Toilette.m4a"
+                 "value":"videos\/Toilette.m4a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -441,6 +441,12 @@
          "id":41,
          "name":"Fedora",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"file",
+                 "value":"videos\/Hut.m4a"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -453,6 +459,12 @@
          "id":42,
          "name":"H\u00fcte",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"file",
+                 "value":"videos\/Huete.m4a"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
