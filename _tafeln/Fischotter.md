@@ -11,10 +11,4 @@ Zum Leben brauchen Fischotter saubere, fischreiche Gewässer und natürliches Uf
 
 Während der Dämmerung und nachts gehen Otter auf Jagd. Sie können bis zu 7 Stundenkilometer schnell schwimmen und bis zu 8 Minuten unter Wasser bleiben. Beim Tauchen verschließen sie Ohren und Nase und spüren ihre Beute mit den Tasthaaren an der Schnauze auf. Kleine Beutetiere essen Otter direkt im Wasser auf dem Rücken schwimmend. Größere Beutetiere bringen sie an Land. Besonders gerne fressen Fischotter natürlich Fisch, aber auch Frösche, Muscheln, Vögel, Insekten und kleine Säugetiere.
 
-<<<<<<< HEAD
 Inzwischen stehen Fischotter in vielen Ländern unter Schutz. Die Otterzahlen erholen sich auch in Deutschland. Letztes Jahr wurde ein Otter zwischen Luppe und Weißer Elster bei Merseburg gesichtet. Auf dem aktuellen Stand über Fischottervorkommen bleibst du mit dem [Otterspotter](https://www.otterspotter.de/uber-otterspotter){:target="_blank"}. Dort kannst du dich auch als Otterspotter beteiligen! Also nichts wie raus an die Flüsse und Seen in und um Leipzig!
-=======
-An Land wandern die Otter bis zu 15km. Sie schlängeln sich mit ihren langen Körpern durch das Gras und stellen sich auf die Hinterbeine, um sich zu orientieren.
-
-Inzwischen stehen Fischotter in vielen Ländern unter Schutz und die Otterzahlen erholen sich auch in Deutschland. Letztes Jahr wurde ein Otter zwischen Luppe und Weißer Elster bei Merseburg gesichtet. Auf dem aktuellen Stand über Fischottervorkommen bleibst du mit [dieser Seite](https://www.otterspotter.de/uber-otterspotter){:target="_blank"} Dort kannst du dich auch als Otterspotter beteiligen! Also nichts wie raus an die Flüsse und Seen in und um Leipzig!
->>>>>>> 61b41804cb486f4a659fa10ad9e1a251c8982f2b
