@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Das Tier des Jahres 2021: Der Eurasische Fischotter"
 layout: single
 classes: wide
@@ -13,4 +13,4 @@ Während der Dämmerung und nachts gehen Otter auf die Jagd. Sie können bis zu 
 
 An Land wandern die Otter bis zu 15km. Sie schlängeln sich mit ihren langen Körpern durch das Gras und stellen sich auf die Hinterbeine, um sich zu orientieren.
 
-Inzwischen stehen Fischotter in vielen Ländern unter Schutz und die Otterzahlen erholen sich auch in Deutschland. Letztes Jahr wurde ein Otter zwischen Luppe und Weißer Elster bei Merseburg gesichtet. Auf dem aktuellen Stand über Fischottervorkommen bleibst du mit dieser Seite: https://www.otterspotter.de/uber-otterspotter Dort kannst du dich auch als Otterspotter beteiligen! Also nichts wie raus an die Flüsse und Seen in und um Leipzig!
+Inzwischen stehen Fischotter in vielen Ländern unter Schutz und die Otterzahlen erholen sich auch in Deutschland. Letztes Jahr wurde ein Otter zwischen Luppe und Weißer Elster bei Merseburg gesichtet. Auf dem aktuellen Stand über Fischottervorkommen bleibst du mit [dieser Seite](https://www.otterspotter.de/uber-otterspotter){:target="_blank"} Dort kannst du dich auch als Otterspotter beteiligen! Also nichts wie raus an die Flüsse und Seen in und um Leipzig!

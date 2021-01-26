@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Wie gefällt es euch bei uns?"
 layout: single
 classes: wide
