@@ -529,7 +529,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"tafeln\/Impressum"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Impressum"
                 }],
          "type":"tilelayer",
          "visible":true,
