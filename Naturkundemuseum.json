@@ -139,7 +139,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"BaenkeRechts"
+                 "value":"BankRechts"
                 }],
          "type":"tilelayer",
          "visible":true,
