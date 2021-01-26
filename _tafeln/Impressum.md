@@ -9,7 +9,7 @@ classes: wide
 
 **Idee und Realisation** Monika Hegenberg (Bildung und Vermittlung)
 
-**Mitarbeit und Recherche* Stephan Dietze (Anders Drehen), Benjamin Hößelbarth (Bildung und Vermittlung) und Marike Nachtigal (Sammlungsmanagement)
+**Mitarbeit und Recherche** Stephan Dietze (Anders Drehen), Benjamin Hößelbarth (Bildung und Vermittlung) und Marike Nachtigal (Sammlungsmanagement)
 
 **Tilesets** Mit freundlichem Dank bes. entliehen bei den Thüringer Freifunkern, im Maschinenraum und in der Chaoszone.
 
