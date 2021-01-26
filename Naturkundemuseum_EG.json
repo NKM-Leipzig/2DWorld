@@ -193,7 +193,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Treppe.html"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Treppe"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,7 +247,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Fischotter.html"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Fischotter"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -445,7 +445,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Vogel.html"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Vogel"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -511,7 +511,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Weltkarte.html"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Weltkarte"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -529,7 +529,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"tafeln\/Impressum.html"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Impressum"
                 }],
          "type":"tilelayer",
          "visible":true,

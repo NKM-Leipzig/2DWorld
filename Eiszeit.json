@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Museumsstars.html"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Museumsstars"
                 }],
          "type":"tilelayer",
          "visible":true,
