@@ -1,18 +1,19 @@
----
+﻿---
 title: "Impressum"
 layout: single
 classes: wide
 ---
 ## Ferienprogramm für die Winterferien 2021
 
-**Veranstalter** Naturkundemuseum Leipzig
+**Veranstalter** [Naturkundemuseum Leipzig](https://naturkundemuseum.leipzig.de/){:target="_blank"}
 
-**Idee und Realisation** Monika Hegenberg (Bildung und Vermittlung)
+**Idee und Realisation** Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
 
-**Mitarbeit und Recherche** Stephan Dietze (Anders Drehen), Benjamin Hößelbarth (Bildung und Vermittlung) und Marike Nachtigal (Sammlungsmanagement)
+**Mitarbeit** [Stephan Dietze (Anders Drehen)](https://www.anders-drehen.de/){:target="_blank"}, Benjamin Hößelbarth (Naturkundemusuem Leipzig, Bildung und Vermittlung), Robert Klesser (Naturkundemuseum Leipzig, Wirbellosenzoologie), Dr. Ronny Maik Leder (Naturkundemuseum Leipzig, Direktor) und Marike Nachtigal (Naturkundemuseum Leipzig, Sammlungsmanagement)
 
-**Tilesets** Mit freundlichem Dank bes. entliehen bei den Thüringer Freifunkern, im Maschinenraum und in der Chaoszone.
+**Tilesets** Mit freundlichem Dank bes. entliehen bei den [Thüringer Freifunkern](https://freifunk.net/){:target="_blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"} und in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de)https://twitter.com/chaosz0ne?lang=de.
 
 ♥ Allen Beteiligten herzlichen Dank für Mitarbeit, Unterstützung sowie Rat und Tat. ♥
 
-Für die Inhalte verlinkter externer Seiten wird keine Haftung übernommen.
+
+Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
