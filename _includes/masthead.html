@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
-    <img src="/img/logo_nkm_weiss_neu.png" />
+    <img src="{{ '/img/logo_nkm_weiss_neu.png'| relative_url }}" />
 
   </div>
 </header>
