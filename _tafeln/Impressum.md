@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Impressum"
-layout: single
+layout: archive
 classes: wide
 ---
 ## Ferienprogramm für die Winterferien 2021

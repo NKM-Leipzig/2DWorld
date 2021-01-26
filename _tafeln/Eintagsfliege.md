@@ -1,6 +1,6 @@
 ---
 title: "Insekt des Jahres 2021: Die Dänische Eintagsfliege"
-layout: single
+layout: archive
 classes: wide
 ---
 Die Dänische Eintagsfliege hat ihren Namen von ihrem Entdecker: dem dänischen Zoologen und Naturforscher Otto Friedrich Müller. Er entdeckte das Insekt 1764.

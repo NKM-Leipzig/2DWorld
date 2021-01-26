@@ -1,6 +1,6 @@
 ---
 title: "Ihr habt die geheime Schneewelt gefunden!"
-layout: single
+layout: archive
 classes: wide
 ---
 Wenn ihr mehr über die Überlebensstrategien von Tieren in Schnee und Eis erfahren wollt, oder wie die Tiere bei uns im Winter überleben, dann klickt euch mal bei [Museumsstars](https://www.fluxguide.com/portfolio/museumstars/){:target="_blank"} rein. Das ist eine App mit vielen Challenges verschiedener Museen.

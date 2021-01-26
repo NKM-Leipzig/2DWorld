@@ -1,6 +1,6 @@
 ---
 title: "Das Tier des Jahres 2021: Der Eurasische Fischotter"
-layout: single
+layout: archive
 classes: wide
 ---
 Eurasische Fischotter (lat. *Lutra lutra*) gehören zu den Landraubtieren. Sie fühlen sich aber an Land und im Wasser wohl. Durch den Einfluss vom Menschen – wie Jagd, Straßenbau, Verschmutzung oder Kanalisierung von Flüssen – gibt es heute weniger Fischotter als noch vor 100 Jahren. Deshalb ist es wichtig auf die Tiere und die Erhaltung ihres Lebensraumes aufmerksam zu machen.

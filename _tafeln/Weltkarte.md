@@ -1,6 +1,6 @@
 ---
 title: "Wie gefällt es euch bei uns?"
-layout: single
+layout: archive
 classes: wide
 ---
 Wollt ihr uns etwas mitteilen oder Screenshot von eurem Besuch schicken? Auch Fotos von euren Bastelergebnissen nehmen wir gern!

@@ -1,6 +1,6 @@
 ---
 title: "Willkommen am Naturkundemuseum Leipzig"
-layout: single
+layout: archive
 classes: wide
 ---
 
