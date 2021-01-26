@@ -277,7 +277,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/eingang.md"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/eingang"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -335,12 +335,6 @@
  "nextlayerid":24,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"openWebsite",
-         "type":"file",
-         "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/eingang"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
