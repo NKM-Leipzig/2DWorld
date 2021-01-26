@@ -1,0 +1,17 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import "nkmlfonts";
+$sans-serif : Lato, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$background-color: #ccc;
+$footer-background-color: mix(#000, $background-color, 40%);
+$muted-text-color: #fff;
+
+.site-header img {
+  padding-top: 12px;
+  height: 150px;
+}
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

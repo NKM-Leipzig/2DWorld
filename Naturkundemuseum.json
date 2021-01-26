@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/eingang.html"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/eingang"
                 }],
          "type":"tilelayer",
          "visible":true,
