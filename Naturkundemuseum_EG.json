@@ -229,7 +229,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Eintagsfliege.html"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Eintagsfliege"
                 }],
          "type":"tilelayer",
          "visible":true,
