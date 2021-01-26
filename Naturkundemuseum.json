@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"videos\/Eimer.mp4"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=seifenblase.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -339,7 +339,7 @@
         {
          "name":"openWebsite",
          "type":"file",
-         "value":"_tafeln\/eingang.md"
+         "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/eingang"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
