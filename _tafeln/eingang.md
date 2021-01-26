@@ -1,12 +1,13 @@
----
+﻿---
 title: "Willkommen am Naturkundemuseum Leipzig"
 layout: single
 classes: wide
 ---
 
-Wir freuen uns, dass ihr hier seid. Noch haben wir aber leider auch virtuell geschlossen. Das ändert sich am 1. Februar!
+Wir freuen uns, dass ihr hier seid. Noch haben wir leider auch virtuell geschlossen. Das ändert sich am 1. Februar!
 
-Bis dahin schaut euch hier draußen um (ihr bewegt euch mit den Pfeiltasten). Vielleicht könnt ihr schon etwas Spannendes entdecken...?
+Bis dahin schaut euch hier draußen um. Vielleicht könnt ihr schon etwas Spannendes entdecken...?
+
 
 Ein paar Tipps möchten wir euch noch mit auf den Weg geben:
 

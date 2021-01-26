@@ -1,9 +1,9 @@
----
-title: "Das Tier des Jahres 2021: Der Eurasische Fischotter (lat. Lutra lutra)"
+﻿---
+title: "Das Tier des Jahres 2021: Der Eurasische Fischotter"
 layout: single
 classes: wide
 ---
-Eurasische Fischotter gehören zu den Landraubtieren. Sie fühlen sich aber an Land und im Wasser wohl. Man findet sie in Europa, Asien und Nordafrika. Durch den Einfluss vom Menschen – wie Jagd, Straßenbau, Verschmutzung oder Kanalisierung von Flüssen – gibt es heute weniger Fischotter als noch vor 100 Jahren. Deshalb ist es wichtig auf die Tiere und die Erhaltung ihres Lebensraumes aufmerksam zu machen.
+Eurasische Fischotter (lat. *Lutra lutra*) gehören zu den Landraubtieren. Sie fühlen sich aber an Land und im Wasser wohl. Man findet sie in Europa, Asien und Nordafrika. Durch den Einfluss vom Menschen – wie Jagd, Straßenbau, Verschmutzung oder Kanalisierung von Flüssen – gibt es heute weniger Fischotter als noch vor 100 Jahren. Deshalb ist es wichtig auf die Tiere und die Erhaltung ihres Lebensraumes aufmerksam zu machen.
 
 Fischotter haben einen langen schlanken Körper mit kurzen Beinen. Sie können bis zu 1,30 m groß und bis zu 12 kg schwer werden. Besonders ist das dichte, dunkelbraune Fell der Tiere. Denn aus einer Haarwurzel wachsen gleich mehrere Haare. Im Wasser verhaken sich diese ineinander und lassen das kalte Wasser nicht an die Haut. So bleiben Otter auch im kalten Wasser warm und trocken. Besonders niedlich wirkt das Gesicht der Otter mit der kurzen Schnauze und vielen Tasthaaren sowie kleinen dunklen Knopfaugen. Auch die Ohren sind klein und vollständig mit Fell bedeckt – fast wie bei einem Teddybären. Fischotter haben Schwimmhäute zwischen den Zehen, damit sie besser und schneller schwimmen können – so wie du mit Schwimmflossen.
 

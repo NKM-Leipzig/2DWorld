@@ -207,6 +207,12 @@
          "id":13,
          "name":"Eimer",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Eimer.mp4"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
