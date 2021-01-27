@@ -4,10 +4,12 @@ layout: archive
 classes: wide
 gallery:
   - url: /img/Chef.jpg
-    image_path: /img/Chef_thumb.jpg
+    image_path: /img/Chef.jpg
     alt: "Dr. Ronny Maik Leder"
     title: "Zeichnung Dr. Ronny Maik Leder"
 ---
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 Wer ist denn da auf dem Gemälde? 
 
