@@ -613,7 +613,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"_tafeln\/BildChef.md"
+                 "value":"_tafeln\/Gemaelde.md"
                 }],
          "type":"tilelayer",
          "visible":true,
