@@ -341,6 +341,12 @@
  "nextlayerid":24,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"playAudio",
+         "type":"file",
+         "value":"videos\/Klingel.m4a"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
