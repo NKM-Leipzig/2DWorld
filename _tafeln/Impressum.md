@@ -1,4 +1,4 @@
----
+﻿---
 title: "Impressum"
 layout: archive
 classes: wide
@@ -11,7 +11,7 @@ classes: wide
 
 **Mitarbeit** [Stephan Dietze (Anders Drehen)](https://www.anders-drehen.de/){:target="_blank"}, Benjamin Hößelbarth (Naturkundemusuem Leipzig, Bildung und Vermittlung), Robert Klesser (Naturkundemuseum Leipzig, Wirbellosenzoologie), Dr. Ronny Maik Leder (Naturkundemuseum Leipzig, Direktor) und Marike Nachtigal (Naturkundemuseum Leipzig, Sammlungsmanagement)
 
-**Tilesets** Mit freundlichem Dank entliehen bei den [Thüringer Freifunkern](https://freifunk.net/){:target="_blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"} und in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de)https://twitter.com/chaosz0ne?lang=de){:target="blank"}.
+**Tilesets** Mit freundlichem Dank entliehen bei den [Thüringer Freifunkern](https://freifunk.net/){:target="_blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"} und in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de){:target="blank"}.
 
 ♥ Allen Beteiligten herzlichen Dank für Mitarbeit, Unterstützung sowie Rat und Tat. ♥
 
