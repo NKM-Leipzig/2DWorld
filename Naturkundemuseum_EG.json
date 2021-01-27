@@ -321,6 +321,12 @@
          "id":24,
          "name":"Sperrgebiete",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"tafeln\/Sperrgebiete"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -333,6 +339,12 @@
          "id":36,
          "name":"Spinne - Frau Schmidt",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"tafeln\/Frau Schmidt"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -495,6 +507,12 @@
          "id":30,
          "name":"Durchblickvitrine 1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"tafeln\/Vitrine1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -511,7 +529,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/learningapps.org\/13451180"
+                 "value":"tafeln\/Vitrine2"
                 }],
          "type":"tilelayer",
          "visible":true,
