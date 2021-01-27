@@ -4,7 +4,7 @@ layout: archive
 classes: wide
 gallery:
   - url: /img/Chef.jpg
-    image_path: /img/Chef.jpg
+    image_path: /img/Gemaelde.jpg
     alt: "Dr. Ronny Maik Leder"
     title: "Zeichnung Dr. Ronny Maik Leder"
 ---
