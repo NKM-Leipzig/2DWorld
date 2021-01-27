@@ -529,7 +529,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"<iframe scrolling=\"no\" src=\"https:\/www.nabu.de\/downloads\/legespiel\/batnight\/legespiel2010.html\" width=\"680\" height=\"650\" frameborder=\"0\"><\/iframe>"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Schrank"
                 }],
          "type":"tilelayer",
          "visible":true,
