@@ -609,6 +609,12 @@
          "id":53,
          "name":"BildChef",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/jigex.com\/ozL5"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
