@@ -1,20 +1,20 @@
----
+﻿---
 title: "Das Tier des Jahres 2021: Der Eurasische Fischotter"
 layout: archive
 classes: wide
 gallery:
   - url: /img/Fischotter1.jpg
     image_path: /img/Fischotter1_thumb.jpg
-    alt: "Fischotter 1"
-    title: "Titel für Fischotter 1"
+    alt: "Fischotterpärchen"
+    title: "Zwei Fischotter auf einem Baumstamm"
   - url: /img/Fischotter2.jpg
     image_path: /img/Fischotter2_thumb.jpg
-    alt: "Fischotter 2"
-    title: "Titel für Fischotter 2"
+    alt: "Fischotter im Wasser"
+    title: "fressender Otter im Wasser"
   - url: /img/Fischotter3.jpg
     image_path: /img/Fischotter3_thumb.jpg
-    alt: "Fischotter 3"
-    title: "Titel für Fischotter 3"
+    alt: "Fischotter"
+    title: "Fischotter auf einem Baum"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}

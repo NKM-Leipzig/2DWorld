@@ -1,4 +1,4 @@
----
+﻿---
 title: "Insekt des Jahres 2021: Die Dänische Eintagsfliege"
 layout: archive
 classes: wide
@@ -6,11 +6,11 @@ gallery:
   - url: /img/Eintagsfliege1.jpg
     image_path: /img/Eintagsfliege1_thumb.jpg
     alt: "Eintagsfliege 1"
-    title: "Titel für Eintagsfliege 1"
+    title: "Eintagsfliege auf einem gelben Blütenblatt"
   - url: /img/Eintagsfliege2.jpg
     image_path: /img/Eintagsfliege2_thumb.jpg
     alt: "Eintagsfliege 2"
-    title: "Titel für Eintagsfliege 2"
+    title: "Eintagsfliege auf einem Grashalm"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
