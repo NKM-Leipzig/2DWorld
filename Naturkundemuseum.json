@@ -239,7 +239,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openAudio",
+                 "name":"playAudio",
                  "type":"file",
                  "value":"videos\/Klingel.m4a"
                 }],
