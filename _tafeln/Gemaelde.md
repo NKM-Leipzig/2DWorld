@@ -9,3 +9,4 @@ classes: wide
 Wer ist denn da auf dem Gemälde?
 
 Ihr seid der [Lösung](https://jigex.com/qgW7){:target="_blank"} schon ganz nah!
+
