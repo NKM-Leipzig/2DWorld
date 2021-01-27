@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Das Tier des Jahres 2021: Der Eurasische Fischotter"
 layout: archive
 classes: wide

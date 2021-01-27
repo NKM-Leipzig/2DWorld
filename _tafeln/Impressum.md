@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Impressum"
 layout: archive
 classes: wide

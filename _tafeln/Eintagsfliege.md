@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Insekt des Jahres 2021: Die Dänische Eintagsfliege"
 layout: archive
 classes: wide
