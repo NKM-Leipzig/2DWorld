@@ -1,5 +1,5 @@
 ---
-title: "Durchblickvitrine"
+title: "Wer fliegt denn da?"
 layout: archive
 classes: wide
 ---

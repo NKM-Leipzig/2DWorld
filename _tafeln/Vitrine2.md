@@ -1,10 +1,10 @@
 ---
-title: "Durchblickvitrine"
+title: "Suchbild"
 layout: archive
 classes: wide
 gallery:
-  - url: /img/Suchbild.jpg
-    image_path: /img/Vitrine1_thumb.jpg
+  - url: /img/Suchbild.JPG
+    image_path: /img/Suchbild.JPG
     alt: "Suchbild"
     title: "Käfer, Schmetterling und Grashüpfer - wen könnt ihr finden?"
 ---
