@@ -4,16 +4,16 @@ layout: archive
 classes: wide
 gallery:
   - url: /img/FrauSchmidt1.jpg
-    image_path: /img/FrauSchmidt.jpg
-    alt: "Frau Schmidt"
+    image_path: /img/FrauSchmidt1.JPG
+    alt: "Vogelspinne Frau Schmidt"
     title: "Mexikanische Rotknie-Vogelspinne"
   - url: /img/FrauSchmidt2.jpg
-    image_path: /img/FrauSchmidt2.jpg
-    alt: "Frau Schmidt"
-    title: "Brachypelma smithi"
+    image_path: /img/FrauSchmidt2.JPG
+    alt: "Haut von der Vogelspinne Frau Schmidt"
+    title: "Haut einer Brachypelma smithi"
   - url: /img/FrauSchmidt3.jpg
-    image_path: /img/FrauSchmidt3.jpg
-    alt: "Fischotter"
+    image_path: /img/FrauSchmidt3.JPG
+    alt: "Vogelspinne Frau Schmidt"
     title: "Frau Schmidt"
 ---
 
