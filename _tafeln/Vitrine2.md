@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Durchblickvitrine"
 layout: archive
 classes: wide

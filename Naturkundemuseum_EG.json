@@ -343,7 +343,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"tafeln\/Frau Schmidt"
+                 "value":"tafeln\/FrauSchmidt"
                 }],
          "type":"tilelayer",
          "visible":true,

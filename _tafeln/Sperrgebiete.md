@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sperrgebiete"
 layout: archive
 classes: wide
