@@ -6,11 +6,11 @@ gallery:
   - url: /img/FrauSchmidt1.jpg
     image_path: /img/FrauSchmidt.jpg
     alt: "Frau Schmidt"
-    title: "Zwei Fischotter auf einem Baumstamm"
+    title: "Mexikanische Rotknie-Vogelspinne"
   - url: /img/FrauSchmidt2.jpg
     image_path: /img/FrauSchmidt2.jpg
     alt: "Frau Schmidt"
-    title: "fressender Otter im Wasser"
+    title: "Brachypelma smithi"
   - url: /img/FrauSchmidt3.jpg
     image_path: /img/FrauSchmidt3.jpg
     alt: "Fischotter"
