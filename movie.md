@@ -25,7 +25,7 @@ classes: wide
         while (match = search.exec(query))
         urlParams[decode(match[1])] = decode(match[2]);
     })();
-    player.src = "https://kunstpixel.github.io/2DWorld/videos/"+urlParams["media"];
+    player.src = "https://cdn.media.freifunk.net/nklm/"+urlParams["media"];
     player.focus();
     player.onloadeddata = function() {
         player.play();
