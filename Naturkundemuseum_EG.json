@@ -369,6 +369,12 @@
          "id":32,
          "name":"Basteln 1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Basteln1.mp4"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,

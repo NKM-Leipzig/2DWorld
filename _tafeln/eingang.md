@@ -11,9 +11,9 @@ Bis dahin schaut euch hier draußen um. Vielleicht könnt ihr schon etwas Spanne
 
 Ein paar Tipps möchten wir euch noch mit auf den Weg geben:
 
-Wenn ihr euch anderen Besucher:innen nähert, dann könnt ihr per Audio und Video mit ihnen sprechen. Das klappt mit bis zu vier Personen. Für mehr Personen müsst ihr euch in einen Aufenthaltsbereich begeben. Hier draußen sind das die Bänke zwischen den Beeten. Wenn ihr nicht sprechen wollt, könnt ihr unten rechts unter eurem Bild Ton und Kamera ausstellen. Jetzt kann euch niemand hören oder sehen - ausgenommen von eurem Avatar. Der bleibt natürlich sichtbar!
+Wenn ihr euch anderen Besucher*innen nähert, dann könnt ihr per Audio und Video mit ihnen sprechen. Das klappt mit bis zu vier Personen. Für mehr Personen müsst ihr euch in einen Aufenthaltsbereich begeben. Hier draußen sind das die Bänke zwischen den Beeten. Wenn ihr nicht sprechen wollt, könnt ihr unten rechts unter eurem Bild Ton und Kamera ausstellen. Jetzt kann euch niemand hören oder sehen - ausgenommen von eurem Avatar. Der bleibt natürlich sichtbar!
 
-Wenn ihr in etwas hineinlauf und sich - wie hier - ein Fenster öffnet, dann findet ihr oben rechts ein kleines weißes Kreuz, um es nach dem Lesen, Anschauen und Spielen wieder zu schließen. Manchmal ist es etwas versteckt, aber immer da! Oft könnt ihr auch einfach mit den Pfeiltasten weiterlaufen.
+Wenn ihr in etwas hineinlauft und sich - wie hier - ein Fenster öffnet, dann findet ihr oben rechts ein kleines weißes Kreuz, um es nach dem Lesen, Anschauen und Spielen wieder zu schließen. Manchmal ist es etwas versteckt, aber immer da! Oft könnt ihr auch einfach mit den Pfeiltasten weiterlaufen.
 
 Ansonsten gilt: freundlich bleiben und Spaß haben. Wenn ihr Probleme mit der Seite oder anderen Museumsbesucher*innen habt, meldet euch bei **[uns](mailto:service.naturkundemuseum@leipzig.de)**!
 
