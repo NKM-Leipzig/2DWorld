@@ -49,8 +49,11 @@ footer:
   links:
     - label: "Impressum"
       url: "/tafeln/Impressum"
+<<<<<<< HEAD
     - label: "Datenschutz"
       url: "/tafeln/datenschutz"
+=======
+>>>>>>> 129dfb5 (Update _config.yml)
     - label: "Kontakt"
       url: "/tafeln/kontakt"
 
