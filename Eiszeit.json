@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"Naturkundemuseum_EG.json"
+                 "value":"Naturkundemuseum_EG.json#EingangWaschbecken"
                 }],
          "type":"tilelayer",
          "visible":true,
