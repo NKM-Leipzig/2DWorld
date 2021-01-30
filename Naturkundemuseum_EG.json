@@ -83,9 +83,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"Naturkundemuseum.json"
+                 "value":"Naturkundemuseum.json#EingangNachAusgang"
                 }],
          "type":"tilelayer",
          "visible":true,
