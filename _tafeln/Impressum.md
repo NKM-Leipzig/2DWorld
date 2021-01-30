@@ -7,7 +7,7 @@ classes: wide
 
 **Veranstalter** [Naturkundemuseum Leipzig](https://naturkundemuseum.leipzig.de/){:target="_blank"}
 
-**Idee und Realisation** Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
+**Idee und Realisation** Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung), Andreas Bräu (Berlin, Leipzig und Weimar)
 
 **Mitarbeit** [Stephan Dietze (Anders Drehen)](https://www.anders-drehen.de/){:target="_blank"}, Benjamin Hößelbarth (Naturkundemusuem Leipzig, Bildung und Vermittlung), Robert Klesser (Naturkundemuseum Leipzig, Wirbellosenzoologie), Dr. Ronny Maik Leder (Naturkundemuseum Leipzig, Direktor) und Marike Nachtigal (Naturkundemuseum Leipzig, Sammlungsmanagement)
 
