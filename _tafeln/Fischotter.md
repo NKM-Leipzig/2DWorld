@@ -4,15 +4,15 @@ layout: archive
 classes: wide
 gallery:
   - url: /img/Fischotter1.jpg
-    image_path: /img/Fischotter1_thumb.jpg
+    image_path: /img/thumbs/Fischotter1_thumb.jpg
     alt: "Fischotterpärchen"
     title: "Zwei Fischotter auf einem Baumstamm"
   - url: /img/Fischotter2.jpg
-    image_path: /img/Fischotter2_thumb.jpg
+    image_path: /img/thumbs/Fischotter2_thumb.jpg
     alt: "Fischotter im Wasser"
     title: "Fressender Otter im Wasser"
   - url: /img/Fischotter3.jpg
-    image_path: /img/Fischotter3_thumb.jpg
+    image_path: /img/thumbs/Fischotter3_thumb.jpg
     alt: "Fischotter"
     title: "Fischotter auf einem Baum"
 ---

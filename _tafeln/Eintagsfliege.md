@@ -4,11 +4,11 @@ layout: archive
 classes: wide
 gallery:
   - url: /img/Eintagsfliege1.jpg
-    image_path: /img/Eintagsfliege1_thumb.jpg
+    image_path: /img/thumbs/Eintagsfliege1_thumb.jpg
     alt: "Eintagsfliege 1"
     title: "Eintagsfliege auf einem gelben Blütenblatt"
   - url: /img/Eintagsfliege2.jpg
-    image_path: /img/Eintagsfliege2_thumb.jpg
+    image_path: /img/thumbs/Eintagsfliege2_thumb.jpg
     alt: "Eintagsfliege 2"
     title: "Eintagsfliege auf einem Grashalm"
 ---

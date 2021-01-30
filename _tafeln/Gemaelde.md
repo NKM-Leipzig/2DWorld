@@ -4,7 +4,7 @@ layout: archive
 classes: wide
 ---
 
-<a href="https://jigex.com/qgW7" target="_blank"><figure><img src="/2DWorld/img/Gemaelde.jpg" alt="this is a placeholder image"></figure></a>
+<a href="https://jigex.com/qgW7" target="_blank"><figure><img src="/2DWorld/img/thumbs/Gemaelde_thumb.jpg" alt="this is a placeholder image"></figure></a>
 
 Wer ist denn da auf dem Gemälde?
 

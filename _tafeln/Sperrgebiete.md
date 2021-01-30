@@ -3,56 +3,56 @@ title: "Sperrgebiete"
 layout: archive
 classes: wide
 gallery:
-  - url: /img/Sperrgebiete1.JPG
-    image_path: /img/Sperrgebiete1_thumb.jpg
+  - url: /img/Sperrgebiete1.jpg
+    image_path: /img/thumbs/Sperrgebiete1_thumb.jpg
     alt: "Ausstellungsbanner Sperrgebiete"
     title: "Ausstellungsbanner der Sonderausstellung Sperrgebiete"
-  - url: /img/Sperrgebiete2.JPG
-    image_path: /img/Sperrgebiete2_thumb.jpg
+  - url: /img/Sperrgebiete2.jpg
+    image_path: /img/thumbs/Sperrgebiete2_thumb.jpg
     alt: "Sperrgebiete"
     title: "NAchbbildung einer Mülldeponie"  
-  - url: /img/Sperrgebiete3.JPG
-    image_path: /img/Sperrgebiete3_thumb.jpg
+  - url: /img/Sperrgebiete3.jpg
+    image_path: /img/thumbs/Sperrgebiete3_thumb.jpg
     alt: "Sperrgebiete"
     title: "Einblick in die Museumsmagazine"
-  - url: /img/Sperrgebiete4.JPG
-    image_path: /img/Sperrgebiete4_thumb.jpg
+  - url: /img/Sperrgebiete4.jpg
+    image_path: /img/thumbs/Sperrgebiete4_thumb.jpg
     alt: "Sperrgebiete"
     title: "Der Wolf"
-  - url: /img/Sperrgebiete5.JPG
-    image_path: /img/Sperrgebiete5_thumb.jpg
+  - url: /img/Sperrgebiete5.jpg
+    image_path: /img/thumbs/Sperrgebiete5_thumb.jpg
     alt: "Sperrgebiete"
     title: "Der Luchs"
-  - url: /img/Sperrgebiete6.JPG
-    image_path: /img/Sperrgebiete6_thumb.jpg
+  - url: /img/Sperrgebiete6.jpg
+    image_path: /img/thumbs/Sperrgebiete6_thumb.jpg
     alt: "Sperrgebiete"
     title: "Der Bartgeier"  
-  - url: /img/Sperrgebiete7.JPG
-    image_path: /img/Sperrgebiete7_thumb.jpg
+  - url: /img/Sperrgebiete7.jpg
+    image_path: /img/thumbs/Sperrgebiete7_thumb.jpg
     alt: "Sperrgebiete"
     title: "Der Waschbär"
-  - url: /img/Sperrgebiete8.JPG
-    image_path: /img/Sperrgebiete8_thumb.jpg
+  - url: /img/Sperrgebiete8.jpg
+    image_path: /img/thumbs/Sperrgebiete8_thumb.jpg
     alt: "Sperrgebiete"
     title: "Einblicke in die Durchblickvitrinen der Sonderausstellung"
-  - url: /img/Sperrgebiete9.JPG
-    image_path: /img/Sperrgebiete9_thumb.jpg
+  - url: /img/Sperrgebiete9.jpg
+    image_path: /img/thumbs/Sperrgebiete9_thumb.jpg
     alt: "Sperrgebiete"
     title: "Falter in der Sonderausstellung"
-  - url: /img/Sperrgebiete10.JPG
-    image_path: /img/Sperrgebiete10_thumb.jpg
+  - url: /img/Sperrgebiete10.jpg
+    image_path: /img/thumbs/Sperrgebiete10_thumb.jpg
     alt: "Sperrgebiete"
     title: "Schrecke auf einem Totholz"
-  - url: /img/Sperrgebiete11.JPG
-    image_path: /img/Sperrgebiete11_thumb.jpg
+  - url: /img/Sperrgebiete11.jpg
+    image_path: /img/thumbs/Sperrgebiete11_thumb.jpg
     alt: "Sperrgebiete"
     title: "Schrecken im Flug"
-  - url: /img/Sperrgebiete12.JPG
-    image_path: /img/Sperrgebiete12_thumb.jpg
+  - url: /img/Sperrgebiete12.jpg
+    image_path: /img/thumbs/Sperrgebiete12_thumb.jpg
     alt: "Sperrgebiete"
     title: "Einblicke in die Durchblickvitrinen der Sonderausstellung"
-  - url: /img/Sperrgebiete13.JPG
-    image_path: /img/Sperrgebiete13_thumb.jpg
+  - url: /img/Sperrgebiete13.jpg
+    image_path: /img/thumbs/Sperrgebiete13_thumb.jpg
     alt: "Sperrgebiete"
     title: "Kröte im Sand"
 
