@@ -48,9 +48,7 @@ collections:
 footer:
   links:
     - label: "Impressum"
-      url: "http://www.leipzig.de/impressum/"
-    - label: "Datenschutz"
-      url: "http://www.leipzig.de/datenschutzerklaerung/"
+      url: "/2DWorld/tafeln/Impressum"
     - label: "Kontakt"
       url: "https://www.leipzig.de/buergerservice-und-verwaltung/aemter-und-behoerdengaenge/behoerden-und-dienstleistungen/dienststelle/buchung-und-beratung-4174/"
 
