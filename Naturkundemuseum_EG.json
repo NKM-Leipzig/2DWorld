@@ -413,9 +413,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=777teD7gQoI"
+                 "value":"videos\/klavier.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
