@@ -15,6 +15,12 @@
          "id":25,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/ferien-im-museum.ishalt.so"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
