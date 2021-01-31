@@ -4,7 +4,7 @@ layout: archive
 classes: wide
 ---
 
-<a href="https://jigex.com/qgW7" target="_blank"><figure><img src="/2DWorld/img/thumbs/Gemaelde_thumb.jpg" alt="this is a placeholder image"></figure></a>
+<a href="https://jigex.com/qgW7" target="_blank"><figure><img src="{{ '/img/thumbs/Gemaelde_thumb.jpg'|relative_url }}" alt="Ein ungeordnetes Puzzle"></figure></a>
 
 Wer ist denn da auf dem Gemälde?
 
