@@ -5,19 +5,19 @@ classes: wide
 ---
 ## Ferienprogramm für die Winterferien 2021
 
-**Veranstalter** [Naturkundemuseum Leipzig](https://naturkundemuseum.leipzig.de/){:target="_blank"}
+Dieses Angebot wird gemeinsam bereitgestellt vom 
+
+* [Naturkundemuseum Leipzig](https://naturkundemuseum.leipzig.de/){:target="_blank"}, Lortzingstraße 3, 04105 Leipzig 
+* [dezentrale e.V.](https://dezentrale.space/impressum){:target="_blank"}, Dreilindenstraße 19, 04177 Leipzig
 
 **Idee** Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
 
-**Realisation** Andreas Bräu (Berlin, Leipzig und Weimar) und Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
+**Realisation** Andreas Bräu (Berlin, Leipzig und [Weimar](https://weimarnetz.de){:target="_blank"}) und Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
 
 **Mitarbeit** [Stephan Dietze (Anders Drehen)](https://www.anders-drehen.de/){:target="_blank"}, Benjamin Hößelbarth (Naturkundemusuem Leipzig, Bildung und Vermittlung), Robert Klesser (Naturkundemuseum Leipzig, Wirbellosenzoologie), Dr. Ronny Maik Leder (Naturkundemuseum Leipzig, Direktor) und Marike Nachtigal (Naturkundemuseum Leipzig, Sammlungsmanagement)
 
-**Tilesets** Mit freundlichem Dank entliehen in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de){:target="blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"}  und bei den [Thüringer Freifunkern](https://freifunk.net/){:target="_blank"}.
+**Tilesets** Mit freundlichem Dank entliehen in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de){:target="blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"}, beim [krautspace Jena](https://kraut.space/){:target="_blank"} und vielen anderen.
 
-**Special Thanks** Für die unentbehrliche Unterstützung in letzter Minute danken wir der [dezentrale e. V.](https://dezentrale.space){:target="_blank"} und [Weimarnetz](https://weimarnetz.de){:target="_blank"}, im Besonderen Katrin Linke.
+**Special Thanks** Für die unentbehrliche Unterstützung bei der Bereitstellung dieser Seiten danken wir den Vereinen [dezentrale e. V.](https://dezentrale.space){:target="_blank"} und [weimarnetz e.V.](https://weimarnetz.de){:target="_blank"}.
 
 ♥ Allen Beteiligten herzlichen Dank für Mitarbeit, Unterstützung sowie Rat und Tat. ♥
-
-
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
