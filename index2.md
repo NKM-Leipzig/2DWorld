@@ -9,4 +9,4 @@ Eine Baustelle vor dem Museum verändert die Verkehrsführung.
 
 <a href="https://ferien-im-museum.ishalt.so" target="_parent"><figure><img src="{{ '/img/umleitung_klein.jpg'|relative_url }}" alt="Umleitungsschild"></figure></a>
 
-**Hier gelant ihr zum** [richtigen Eingang](https://ferien-im-museum.ishalt.so){:target="_parent" .btn .btn--warning .btn--x-large}
+**Hier gelangt ihr zum** [richtigen Eingang](https://ferien-im-museum.ishalt.so){:target="_parent" .btn .btn--warning .btn--x-large}
