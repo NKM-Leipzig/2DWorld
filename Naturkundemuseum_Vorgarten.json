@@ -229,7 +229,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Eimer.mp4"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/movie.html?media=Eimer.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,7 +301,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/eingang"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/eingang"
                 }],
          "type":"tilelayer",
          "visible":true,
