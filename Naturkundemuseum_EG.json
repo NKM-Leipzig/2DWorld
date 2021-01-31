@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=tJSGIUCi4N4"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=tJSGIUCi4N4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,7 +247,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Treppe"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Treppe"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -265,7 +265,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=RF-4gEU84iU"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=RF-4gEU84iU"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,7 +283,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Eintagsfliege"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Eintagsfliege"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,7 +301,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Fischotter"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Fischotter"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -319,7 +319,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=_qYq6ihZH4s"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=_qYq6ihZH4s"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -337,7 +337,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=-ia9pO3pAiY"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=-ia9pO3pAiY"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -355,7 +355,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Sperrgebiete\/"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Sperrgebiete\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -373,7 +373,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/FrauSchmidt\/"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/FrauSchmidt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -475,7 +475,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=DQWAyqDDNeA"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=DQWAyqDDNeA"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -547,7 +547,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Vitrine1\/"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Vitrine1\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -565,7 +565,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Vitrine2\/"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Vitrine2\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -583,7 +583,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Schrank"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Schrank"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -601,7 +601,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Vogel"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Vogel"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -667,7 +667,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Gemaelde\/"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Gemaelde\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -685,7 +685,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/videos\/Uhr.m4a"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/videos\/Uhr.m4a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -703,7 +703,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Weltkarte"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Weltkarte"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -721,7 +721,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Impressum"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Impressum"
                 }],
          "type":"tilelayer",
          "visible":true,
