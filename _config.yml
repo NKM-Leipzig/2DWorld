@@ -49,8 +49,10 @@ footer:
   links:
     - label: "Impressum"
       url: "/tafeln/Impressum"
+    - label: "Datenschutz"
+      url: "/tafeln/datenschutz"
     - label: "Kontakt"
-      url: "https://www.leipzig.de/buergerservice-und-verwaltung/aemter-und-behoerdengaenge/behoerden-und-dienstleistungen/dienststelle/buchung-und-beratung-4174/"
+      url: "/tafeln/kontakt"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
