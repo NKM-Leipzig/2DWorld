@@ -7,11 +7,15 @@ classes: wide
 
 **Veranstalter** [Naturkundemuseum Leipzig](https://naturkundemuseum.leipzig.de/){:target="_blank"}
 
-**Idee und Realisation** Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung), Andreas Bräu (Berlin, Leipzig und Weimar)
+**Idee** Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
+
+**Realisation** Andreas Bräu (Berlin, Leipzig und Weimar) und Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
 
 **Mitarbeit** [Stephan Dietze (Anders Drehen)](https://www.anders-drehen.de/){:target="_blank"}, Benjamin Hößelbarth (Naturkundemusuem Leipzig, Bildung und Vermittlung), Robert Klesser (Naturkundemuseum Leipzig, Wirbellosenzoologie), Dr. Ronny Maik Leder (Naturkundemuseum Leipzig, Direktor) und Marike Nachtigal (Naturkundemuseum Leipzig, Sammlungsmanagement)
 
-**Tilesets** Mit freundlichem Dank entliehen bei den [Thüringer Freifunkern](https://freifunk.net/){:target="_blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"} und in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de){:target="blank"}.
+**Tilesets** Mit freundlichem Dank entliehen in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de){:target="blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"}  und bei den [Thüringer Freifunkern](https://freifunk.net/){:target="_blank"}.
+
+**Special Thanks** Für die unentbehrliche Unterstützung in letzter Minute an [Weimarnetz](https://weimarnetz.de){:target="_blank"}, im Besonderen an Katrin und an die [dezentrale e. V.](https://dezentrale.space){:target="_blank"}.
 
 ♥ Allen Beteiligten herzlichen Dank für Mitarbeit, Unterstützung sowie Rat und Tat. ♥
 
