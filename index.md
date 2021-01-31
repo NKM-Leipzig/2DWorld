@@ -18,7 +18,7 @@ Bevor es weitergeht ein paar kurze Worte:
 * Ansonsten gilt: freundlich bleiben und Spaß haben! Wenn ihr Probleme mit der Seite oder anderen Museumsbesucher*innen habt, meldet euch bei [uns](mailto:service.naturkundemuseum@leipzig.de).
 
 
-**Hier geht es endlich weiter zum** [Naturkundemuseum 1.0](https://play.world.dezentrale.cloud/_/global/ferien-im-museum.ishalt.so/Naturkundemuseum_Vorgarten.json){: .btn .btn--success .btn--x-large}
+**Hier geht es endlich weiter zum** [Naturkundemuseum 1.0](https://play.world.dezentrale.cloud/_/global/ferien-im-museum.ishalt.so/Naturkundemuseum_Vorgarten.json){: .btn .btn--warning .btn--x-large}
 
 Viele Grüße,
 
