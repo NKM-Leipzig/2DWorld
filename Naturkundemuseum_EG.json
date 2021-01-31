@@ -403,7 +403,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Schneeflocken_legen_lang.mp4"
+                 "value":"https:\/\/cdnmaster.media.freifunk.net\/nklm\/Schneeflocken_legen_lang.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -421,7 +421,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Schneeflocken_basteln.mp4"
+                 "value":"https:\/\/cdnmaster.media.freifunk.net\/nklm\/Schneeflocken_basteln.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -439,7 +439,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Meisenknoedel.mp4"
+                 "value":"https:\/\/cdnmaster.media.freifunk.net\/nklm\/Meisenknoedel.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
