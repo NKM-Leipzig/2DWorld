@@ -75,8 +75,14 @@
          "id":47,
          "name":"Waschbecken Video",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/youtu.be\/tJSGIUCi4N4"
+                }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -400,7 +406,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Schneeflocken_legen_lang.mp4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -418,7 +424,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Schneeflocken_basteln.mp4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -436,7 +442,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Meisenknoedel.mp4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
