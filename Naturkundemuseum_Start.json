@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/_\/"
                 }],
          "type":"tilelayer",
          "visible":true,
