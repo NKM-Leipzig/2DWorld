@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"Naturkundemuseum_EG.json#EingangWaschbecken"
+                 "name":"exitUrl",
+                 "type":"file",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/kunstpixel.github.io\/2DWorld\/Naturkundemuseum_EG.json#EingangWaschbecken"
                 }],
          "type":"tilelayer",
          "visible":true,

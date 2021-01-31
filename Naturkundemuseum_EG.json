@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Naturkundemuseum.json#EingangNachAusgang"
+                 "value":"Naturkundemuseum_Vorgarten.json#EingangNachAusgang"
                 }],
          "type":"tilelayer",
          "visible":true,
