@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kunstpixel.github.io\/2DWorld\/Naturkundemuseum_EG.json"
+                 "value":"..\/..\/..\/..\/..\/_\/global\/kunstpixel.github.io\/2DWorld\/Naturkundemuseum_EG.json"
                 }],
          "type":"tilelayer",
          "visible":true,
