@@ -28,7 +28,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
                  "value":"videos\/Waschbecken.m4a"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
                  "value":"videos\/Toilette.m4a"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
          "name":"Waschbecken Video",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
                  "value":"Naturkundemuseum.json#EingangNachAusgang"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
                  "value":"Eiszeit.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -142,7 +142,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
          "name":"Spezialb\u00f6den",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
          "name":"Halbe Wand",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -178,7 +178,7 @@
          "name":"W\u00e4nde",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -190,7 +190,7 @@
          "name":"Borde",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
          "name":"\u00dcbergang Klo",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -214,7 +214,7 @@
          "name":"M\u00f6bel ohne Funktion",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -226,7 +226,7 @@
          "name":"Treppe 1OG",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -244,7 +244,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Treppe"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -262,7 +262,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=RF-4gEU84iU"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -280,7 +280,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Eintagsfliege"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -298,7 +298,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Fischotter"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -316,7 +316,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=_qYq6ihZH4s"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -334,7 +334,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=-ia9pO3pAiY"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -352,7 +352,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Sperrgebiete\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -370,7 +370,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/FrauSchmidt\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -382,7 +382,7 @@
          "name":"Raum 4",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -454,7 +454,7 @@
                  "value":"videos\/klavier.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -472,7 +472,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=DQWAyqDDNeA"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -490,7 +490,7 @@
                  "value":"https:\/\/naturkundemuseum.leipzig.de\/zukunft-des-museums\/jugendaufsichtsrat\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -502,7 +502,7 @@
          "name":"Garderobe",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -514,7 +514,7 @@
          "name":"Jitsi - Sonderausstellung",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -526,7 +526,7 @@
          "name":"Jitsi - Flur",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -544,7 +544,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Vitrine1\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -562,7 +562,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Vitrine2\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -580,7 +580,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Schrank"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -598,7 +598,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Vogel"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -616,7 +616,7 @@
                  "value":"videos\/Hut.m4a"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -634,7 +634,7 @@
                  "value":"videos\/Huete.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -646,7 +646,7 @@
          "name":"Accessoires",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -664,7 +664,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Gemaelde\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -682,7 +682,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/videos\/Uhr.m4a"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -700,7 +700,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Weltkarte"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -718,7 +718,7 @@
                  "value":"https:\/\/kunstpixel.github.io\/2DWorld\/tafeln\/Impressum"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -730,7 +730,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -741,7 +741,7 @@
          "name":"On top of the world",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
