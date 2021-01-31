@@ -75,6 +75,12 @@
          "id":47,
          "name":"Waschbecken Video",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/youtube.html?ytvideoid=tJSGIUCi4N4"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -397,7 +403,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Basteln1.mp4"
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Schneeflocken_legen_lang.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -411,6 +417,12 @@
          "id":33,
          "name":"Basteln 2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Schneeflocken_basteln.mp4"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -423,6 +435,12 @@
          "id":37,
          "name":"Basteln 3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/kunstpixel.github.io\/2DWorld\/movie.html?media=Meisenknoedel.mp4"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -501,12 +519,6 @@
          "id":29,
          "name":"Jitsi - Sonderausstellung",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Sonderausstellung"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -519,12 +531,6 @@
          "id":39,
          "name":"Jitsi - Flur",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"SofasimFlur"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
