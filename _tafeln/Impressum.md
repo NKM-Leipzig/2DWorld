@@ -15,7 +15,7 @@ classes: wide
 
 **Tilesets** Mit freundlichem Dank entliehen in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de){:target="blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"}  und bei den [Thüringer Freifunkern](https://freifunk.net/){:target="_blank"}.
 
-**Special Thanks** Für die unentbehrliche Unterstützung in letzter Minute danken wir [Weimarnetz](https://weimarnetz.de){:target="_blank"}, im Besonderen Katrin Linke und der [dezentrale e. V.](https://dezentrale.space){:target="_blank"}.
+**Special Thanks** Für die unentbehrliche Unterstützung in letzter Minute danken wir der [dezentrale e. V.](https://dezentrale.space){:target="_blank"} und [Weimarnetz](https://weimarnetz.de){:target="_blank"}, im Besonderen Katrin Linke.
 
 ♥ Allen Beteiligten herzlichen Dank für Mitarbeit, Unterstützung sowie Rat und Tat. ♥
 
