@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kunstpixel.github.io\/2DWorld\/Naturkundemuseum_EG.json#EingangWaschbecken"
+                 "value":"Naturkundemuseum_EG.json#EingangWaschbecken"
                 }],
          "type":"tilelayer",
          "visible":true,
