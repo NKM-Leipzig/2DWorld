@@ -10,7 +10,7 @@ gallery:
   - url: /img/Sperrgebiete2.jpg
     image_path: /img/thumbs/Sperrgebiete2_thumb.jpg
     alt: "Sperrgebiete"
-    title: "NAchbbildung einer Mülldeponie"  
+    title: "Nachbildung einer Mülldeponie"  
   - url: /img/Sperrgebiete3.jpg
     image_path: /img/thumbs/Sperrgebiete3_thumb.jpg
     alt: "Sperrgebiete"

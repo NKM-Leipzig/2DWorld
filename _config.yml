@@ -16,9 +16,9 @@
 title: Naturkundemuseum 1.0 - Retro World
 logo: /img/logo_nkm_weiss_neu.png
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Die Winterferien sind in diesem Jahr anders als gewohnt.
+  Das Gleiche gilt für unser Ferienprogramm. 
+  Weil wir euch aber gerne mal wieder im Haus hätten und manchmal gerne an vergangene Zeiten denken, haben wir das Naturkundemuseum als Retrowelt erbaut.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ferien-im-museum.ishalt.so" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kunstp1xel
