@@ -4,7 +4,7 @@ layout: archive
 classes: wide
 ---
 
-<a href="https://jigex.com/qgW7" target="_blank"><figure><img src="{{ '/img/thumbs/Gemaelde_thumb.jpg'|relative_url }}" alt="Ein ungeordnetes Puzzle"></figure></a>
+[![Ein Gemälde als Puzzle]({{ site.url }}{{ site.baseurl }}/img/thumbs/Gemaelde_thumb.jpg){: .align-center}](https://jigex.com/qgW7){:target="_blank"}
 
 Wer ist denn da auf dem Gemälde?
 
