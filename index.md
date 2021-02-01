@@ -11,7 +11,6 @@ header:
 
 Schön, dass ihr den Weg zu uns gefunden habt. In dieser Welt ist der Eintritt frei und es gibt keine Coronabeschränkungen! Kommt mit euren Großeltern, mit Freunden oder allein und erkundet das Museum!
 
-
 Bevor es weitergeht ein paar kurze Worte:
 
 * Die nächsten Seiten sind **nur** mit einer Tastatur nutzbar, da ihr die Pfeiltasten zur Steuerung benötigt. Am besten werden sie euch mit Chrome (Chromium) und Firefox angezeigt. In wie weit andere Browser funktionieren, müsst ihr ausprobieren.
@@ -21,6 +20,8 @@ Bevor es weitergeht ein paar kurze Worte:
 
 
 **Hier geht es endlich weiter zum** [Naturkundemuseum 1.0](https://play.world.dezentrale.cloud/_/global/ferien-im-museum.ishalt.so/Naturkundemuseum_Vorgarten.json){: .btn .btn--warning .btn--x-large}
+
+![Vorschau der Retrowelt]({{ site.url }}{{ site.baseurl }}/img/preview-retrowelt.png){: .align-center}
 
 Viele Grüße,
 

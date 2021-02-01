@@ -3,7 +3,8 @@ title: "Wer fliegt denn da?"
 layout: archive
 classes: wide
 ---
-<a href="https://jigex.com/41P5" target="_blank"><figure><img src="{{ '/img/thumbs/Puzzle_thumb.jpg'| relative_url }}" width="500px" alt="Ein ungeordnetes Puzzle"></figure></a>
+
+[![Ein ungeordnetes Puzzle]({{ site.url }}{{ site.baseurl }}/img/thumbs/Puzzle_thumb.jpg){: .align-center}](https://jigex.com/41P5){:target="_blank"}
 
 Die Durchblickvitrine präsentiert euch ein Tier aus der aktuellen Sonderausstellung. Könnt ihr es zusammenpuzzlen? Was kann es nur sein?
 
