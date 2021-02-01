@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 class: wide
+header:
+    og_image: /img/preview-retrowelt.png
 ---
 <br/>
 # Willkommen beim Ferienprogramm des Naturkundemuseums Leipzig
