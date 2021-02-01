@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"..\/..\/..\/..\/..\/_\/global\/kunstpixel.github.io\/2DWorld\/Naturkundemuseum_EG.json"
+                 "value":"Naturkundemuseum_EG.json"
                 }],
          "type":"tilelayer",
          "visible":true,
