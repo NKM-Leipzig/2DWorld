@@ -7,6 +7,10 @@ gallery:
     image_path: /img/feedback_pfalzmuseum.png
     alt: "Grüße aus dem Pfalzmuseum für Naturkunde"
     title: "Grüße aus dem Pfalzmuseum für Naturkunde"
+  - url: /img/feedback_gameboy.png
+    image_path: /img/feedback_gameboy.png
+    alt: "Gameboy-Version?"
+    title: "Grüße von Christian"
   - url: /img/feedback_teaser.png
     image_path: /img/feedback_teaser.png
     alt: "Weitere Grüße"
