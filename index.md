@@ -6,7 +6,6 @@ class: wide
 header:
     og_image: /img/preview-retrowelt.png
 title: "Willkommen beim Ferienprogramm des Naturkundemuseums Leipzig"
-layout: home
 ---
 {::options parse_block_html="true" /}
 <br/>
