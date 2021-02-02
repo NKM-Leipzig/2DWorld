@@ -21,7 +21,7 @@ Schön, dass ihr den Weg zu uns gefunden habt. In dieser Welt ist der Eintritt f
 </details>
 <br/>
 
-**Und hier geht es weiter zum** [Naturkundemuseum 1.0](https://play.world.dezentrale.cloud/_/global/ferien-im-museum.ishalt.so/Naturkundemuseum_Vorgarten.json){: .btn .btn--warning .btn--x-large}
+**Und hier geht es weiter zum**<br/> [Naturkundemuseum 1.0](https://play.world.dezentrale.cloud/_/global/ferien-im-museum.ishalt.so/Naturkundemuseum_Vorgarten.json){: .btn .btn--warning .btn--x-large}
 {: style="text-align: center;"}
 
 [![Vorschau der Retrowelt]({{ site.url }}{{ site.baseurl }}/img/preview-retrowelt.png){: .align-center}](https://play.world.dezentrale.cloud/_/global/ferien-im-museum.ishalt.so/Naturkundemuseum_Vorgarten.json)
