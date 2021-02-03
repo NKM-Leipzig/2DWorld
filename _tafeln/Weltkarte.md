@@ -11,6 +11,10 @@ gallery:
     image_path: /img/feedback_gameboy.png
     alt: "Gameboy-Version?"
     title: "Grüße von Christian"
+  - url: /img/feedback_schemenkabinett.png
+    image_path: /img/feedback_schemenkabinett.png
+    alt: "Grüße aus dem Schemenkabinett"
+    title: "Grüße aus dem Schemenkabinett"
   - url: /img/feedback_teaser.png
     image_path: /img/feedback_teaser.png
     alt: "Weitere Grüße"
