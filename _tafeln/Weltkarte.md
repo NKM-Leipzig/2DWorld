@@ -15,6 +15,14 @@ gallery:
     image_path: /img/feedback_schemenkabinett.png
     alt: "Grüße aus dem Schemenkabinett"
     title: "Grüße aus dem Schemenkabinett"
+  - url: /img/feedback_vogelfutter.png
+    image_path: /img/feedback_vogelfutter.png
+    alt: "Grüße von Anne, Axel und Christina"
+    title: "Grüße von Anne, Axel und Christina"
+  - url: /img/feedback_vogelfutter_ergebnis.jpg
+    image_path: /img/feedback_vogelfutter_ergebnis.jpg
+    alt: "Und hier das Ergebnis"
+    title: "Und hier das Ergebnis"
   - url: /img/feedback_teaser.png
     image_path: /img/feedback_teaser.png
     alt: "Weitere Grüße"
