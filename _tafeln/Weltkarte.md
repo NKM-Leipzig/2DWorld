@@ -20,7 +20,7 @@ gallery:
     alt: "Grüße von Anne, Axel und Christina"
     title: "Grüße von Anne, Axel und Christina"
   - url: /img/feedback_vogelfutter_ergebnis.jpg
-    image_path: /img/feedback_vogelfutter_ergebnis.jpg
+    image_path: /img/thumbs/feedback_vogelfutter_ergebnis_thumb.png
     alt: "Und hier das Ergebnis"
     title: "Und hier das Ergebnis"
   - url: /img/feedback_teaser.png
