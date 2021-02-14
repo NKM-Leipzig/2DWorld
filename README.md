@@ -44,8 +44,6 @@ If you are new to Git, cloning the map means downloading the map to your compute
 To do this, you will need Git, or a Git compatible tool. Our advice is to use
 [GitHub Desktop](https://desktop.github.com/).
 
-TODO: test and continue
-
 ### Loading the map in Tiled
 
 The sample map is in the file `map.json`.
