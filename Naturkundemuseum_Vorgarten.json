@@ -329,8 +329,8 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
-                 "type":"file",
+                 "name":"exitUrl",
+                 "type":"string",
                  "value":"https:\/\/play.world.dezentrale.cloud\/_\/global\/maps.world.dezentrale.cloud\/main.json"
                 }],
          "type":"tilelayer",
