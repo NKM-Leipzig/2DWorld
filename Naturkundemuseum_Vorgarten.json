@@ -331,7 +331,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.live.linux-tage.de\/_\/global\/maps.live.linux-tage.de\/maps\/ZHSG\/EG.json"
+                 "value":"https:\/\/play.live.linux-tage.de\/_\/global\/maps.live.linux-tage.de\/maps\/ZHSG\/EG.json#start_live_HWFF"
                 }],
          "type":"tilelayer",
          "visible":true,
