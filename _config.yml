@@ -1,0 +1,67 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Naturkundemuseum 1.0 - Retro World
+logo: /img/logo_nkm_weiss_neu.png
+description: >- # this means to ignore newlines until "baseurl:"
+  Die Winterferien sind in diesem Jahr anders als gewohnt.
+  Das Gleiche gilt für unser Ferienprogramm. 
+  Weil wir euch aber gerne mal wieder im Haus hätten und manchmal gerne an vergangene Zeiten denken, haben wir das Naturkundemuseum als Retrowelt erbaut.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ferien-im-museum.ishalt.so" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: kunstp1xel
+github_username:  kunstpixel
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.14.1"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "dirt"
+
+defaults:
+  - scope:
+      path: ""
+      type: tafeln
+    values:
+      layout: page
+
+collections:
+  tafeln:
+    output: true
+    permalink: /:collection/:path/
+
+footer:
+  links:
+    - label: "Impressum"
+      url: "/tafeln/Impressum"
+    - label: "Datenschutz"
+      url: "/tafeln/datenschutz"
+    - label: "Kontakt"
+      url: "/tafeln/kontakt"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

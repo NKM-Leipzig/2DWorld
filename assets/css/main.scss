@@ -1,0 +1,71 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+/* lato-regular - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url("{{ '/assets/fonts/lato-v17-latin-regular.eot'|relative_url }}"); /* IE9 Compat Modes */
+  src: local(''),
+       url("{{ '/assets/fonts/lato-v17-latin-regular.eot?#iefix'|relative_url }}") format('embedded-opentype'), /* IE6-IE8 */
+       url("{{ '/assets/fonts/lato-v17-latin-regular.woff2'|relative_url }}") format('woff2'), /* Super Modern Browsers */
+       url("{{ '/assets/fonts/lato-v17-latin-regular.woff'|relative_url }}") format('woff'), /* Modern Browsers */
+       url("{{ '/assets/fonts/lato-v17-latin-regular.ttf'|relative_url }}") format('truetype'), /* Safari, Android, iOS */
+       url("{{ '/assets/fonts/lato-v17-latin-regular.svg#Lato'|relative_url }}") format('svg'); /* Legacy iOS */
+}
+/* lato-italic - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: url("{{ '/assets/fonts/lato-v17-latin-italic.eot'|relative_url }}"); /* IE9 Compat Modes */
+  src: local(''),
+       url("{{ '/assets/fonts/lato-v17-latin-italic.eot?#iefix'|relative_url }}") format('embedded-opentype'), /* IE6-IE8 */
+       url("{{ '/assets/fonts/lato-v17-latin-italic.woff2'|relative_url }}") format('woff2'), /* Super Modern Browsers */
+       url("{{ '/assets/fonts/lato-v17-latin-italic.woff'|relative_url }}") format('woff'), /* Modern Browsers */
+       url("{{ '/assets/fonts/lato-v17-latin-italic.ttf'|relative_url }}") format('truetype'), /* Safari, Android, iOS */
+       url("{{ '/assets/fonts/lato-v17-latin-italic.svg#Lato'|relative_url }}") format('svg'); /* Legacy iOS */
+}
+/* lato-700 - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url("{{ '/assets/fonts/lato-v17-latin-700.eot'|relative_url }}"); /* IE9 Compat Modes */
+  src: local(''),
+       url("{{ '/assets/fonts/lato-v17-latin-700.eot?#iefix'|relative_url }}") format('embedded-opentype'), /* IE6-IE8 */
+       url("{{ 'assets/fonts/lato-v17-latin-700.woff2'|relative_url }}") format('woff2'), /* Super Modern Browsers */
+       url("{{ '/assets/fonts/lato-v17-latin-700.woff'|relative_url }}") format('woff'), /* Modern Browsers */
+       url("{{ '/assets/fonts/lato-v17-latin-700.ttf'|relative_url }}") format('truetype'), /* Safari, Android, iOS */
+       url("{{ '/assets/fonts/lato-v17-latin-700.svg#Lato'|relative_url }}") format('svg'); /* Legacy iOS */
+}
+
+/* lato-700italic - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: url("{{ '/assets/fonts/lato-v17-latin-700italic.eot'|relative_url }}"); /* IE9 Compat Modes */
+  src: local(''),
+       url("{{ '/assets/fonts/lato-v17-latin-700italic.eot?#iefix'|relative_url }}") format('embedded-opentype'), /* IE6-IE8 */
+       url("{{ '/assets/fonts/lato-v17-latin-700italic.woff2'|relative_url }}") format('woff2'), /* Super Modern Browsers */
+       url("{{ '/assets/fonts/lato-v17-latin-700italic.woff'|relative_url }}") format('woff'), /* Modern Browsers */
+       url("{{ '/assets/fonts/lato-v17-latin-700italic.ttf'|relative_url }}") format('truetype'), /* Safari, Android, iOS */
+       url("{{ '/assets/fonts/lato-v17-latin-700italic.svg#Lato'|relative_url }}") format('svg'); /* Legacy iOS */
+}
+
+
+$sans-serif : Lato, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$background-color: #ccc;
+$footer-background-color: mix(#000, $background-color, 40%);
+$muted-text-color: #fff;
+
+.site-header img {
+  padding-top: 12px;
+  height: 150px;
+}
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
