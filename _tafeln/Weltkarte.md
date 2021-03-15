@@ -23,6 +23,14 @@ gallery:
     image_path: /img/thumbs/feedback_vogelfutter_ergebnis_thumb.png
     alt: "Und hier das Ergebnis"
     title: "Und hier das Ergebnis"
+  - url: /img/feedback_clt.png
+    image_path: /img/feedback_clt.png
+    alt: "Grüße von den Chemnitzer Linuxtagen"
+    title: "Grüße von den Chemnitzer Linuxtagen"
+  - url: /img/feedback_clt_eiswelt_screenshot.png
+    image_path: /img/feedback_clt_eiswelt.png
+    alt: "Bild aus der Eiswelt"
+    title: "Bild aus der Eiswelt"
   - url: /img/feedback_teaser.png
     image_path: /img/feedback_teaser.png
     alt: "Weitere Grüße"
