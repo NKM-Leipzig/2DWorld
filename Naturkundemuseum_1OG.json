@@ -329,9 +329,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebSite",
-                 "type":"string",
-                 "value":"C:\/Users\/HegenbergMo\/Desktop\/GitHub\/2DWorld\/_tafeln\/Rotkehlchen.md"
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"_tafeln\/Rotkehlchen.md"
                 }],
          "type":"tilelayer",
          "visible":true,
