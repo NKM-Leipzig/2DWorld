@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Vogel des Jahres 2021: Das Rotkehlchen"
 layout: archive
 classes: wide
