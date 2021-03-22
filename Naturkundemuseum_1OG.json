@@ -313,7 +313,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"_tafeln\/Gestein"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Gestein"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -331,7 +331,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"_tafeln\/Rotkehlchen"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Rotkehlchen"
                 }],
          "type":"tilelayer",
          "visible":true,
