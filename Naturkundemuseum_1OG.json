@@ -309,6 +309,12 @@
          "id":26,
          "name":"Gestein des Jahres",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"_tafeln\/Gestein.md"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -321,6 +327,12 @@
          "id":28,
          "name":"Vogel des Jahres",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"_tafeln\/Rotkehlchen.md"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
