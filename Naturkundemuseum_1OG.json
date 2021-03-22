@@ -313,7 +313,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"Gestein"
+                 "value":"_tafeln\/Gestein"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -331,7 +331,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"Rotkehlchen"
+                 "value":"_tafeln\/Rotkehlchen"
                 }],
          "type":"tilelayer",
          "visible":true,
