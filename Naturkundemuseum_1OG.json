@@ -27,6 +27,12 @@
          "id":22,
          "name":"Ausgang_EG",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"Naturkundemuseum_EG.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
