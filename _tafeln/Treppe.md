@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Schön, dass es dir bei uns so gut gefällt!"
 layout: archive
 classes: wide

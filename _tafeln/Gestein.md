@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gestein der Jahre 2020/2021: Der Andesit"
 layout: archive
 classes: wide
