@@ -357,6 +357,12 @@
          "id":19,
          "name":"Hut_Poeppig",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"file",
+                 "value":"videos\/Hut_Poeppig.m4a"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,

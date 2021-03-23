@@ -2,14 +2,10 @@
 title: "Gestein der Jahre 2020/2021: Der Andesit"
 layout: archive
 classes: wide
-gallery:
-  - url: /img/Andesit.jpg
-    image_path: /img/thumbs/Andesit_thumb.jpg
-    alt: "Andesit"
-    title: "Detailansicht eines Andesit"
+
 ---
 
-{% include gallery caption="Detailansicht eines Andesit" %}
+[![Detailansicht eines Andesit](/img/thumbs/Andesit_thumb.jpg)
 
 Andesit (auch Islandit genannt) ist ein vulkanisches Gestein. Es entsteht durch schnelle Abkühlung einer Gesteinsschmelze an der Erdoberfläche. Deshalb zählt das Gestein zu den Vulkaniten.
 
