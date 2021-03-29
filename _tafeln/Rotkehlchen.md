@@ -17,7 +17,11 @@ gallery:
 
 Bis vor Kurzem konntet ihr noch abstimmen, jetzt ist es entschieden: Das Rotkehlchen ist der Vogel des Jahres 2021!
 
-Das Rotkehlchen (lat. *Erithacus rubecula*) zählt zu den bekanntesten und beliebtesten Vögeln Deutschlands. Es ist von Nordafrika bis ins nördliche Europa verbreitet.
+Unterfamilie: *Cossyphinae*
+Gattung: *Erithacus*
+Art: Rotkehlchen (*Erithacus rubecula*)
+
+Das Rotkehlchen zählt zu den bekanntesten und beliebtesten Vögeln Deutschlands. Es ist von Nordafrika bis ins nördliche Europa verbreitet.
 
 Mit seiner rotorangenen Brust und Stirn ist es leicht zu erkennen. Das restliche Gefieder ist oben dunkelbraun und am Bauch hellbraun bis beigefarben. Die Tiere werden nur rund 14cm groß und bis zu 18g schwer. Rotkehlchen ernähren sich vor allem von Insekten, kleinen Spinnen, Schnecken und Würmern.
 

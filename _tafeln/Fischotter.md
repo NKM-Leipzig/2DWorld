@@ -19,7 +19,11 @@ gallery:
 
 {% include gallery caption="Eurasische Fischotter an Land und zu Wasser" %}
 
-Eurasische Fischotter (lat. *Lutra lutra*) gehören zu den Landraubtieren. Sie fühlen sich an Land und im Wasser wohl. Durch den Einfluss vom Menschen – wie Jagd, Straßenbau, Verschmutzung oder Kanalisierung von Flüssen – gibt es heute weniger Fischotter als noch vor 100 Jahren. Deshalb ist es wichtig auf die Tiere und die Erhaltung ihres Lebensraumes aufmerksam zu machen.
+Unterfamilie: Otter (*Lutrinae*)
+Gattung: Altweltotter (*Lutra*)
+Art: Eurasischer Fischotter (*Lutra lutra*)
+
+Eurasische Fischotter gehören zu den Landraubtieren. Sie fühlen sich an Land und im Wasser wohl. Durch den Einfluss vom Menschen – wie Jagd, Straßenbau, Verschmutzung oder Kanalisierung von Flüssen – gibt es heute weniger Fischotter als noch vor 100 Jahren. Deshalb ist es wichtig auf die Tiere und die Erhaltung ihres Lebensraumes aufmerksam zu machen.
 
 Fischotter werden bis zu 1,30 m groß und bis zu 12 kg schwer. Besonders ist ihr dichtes, dunkelbraunes Fell. Aus jeder Haarwurzel wachsen gleich mehrere Haare. Im Wasser verhaken sie sich und bilden ein Luftpolster auf der Haut. So bleiben Otter auch im Wasser warm und trocken. Fischotter haben zudem Schwimmhäute zwischen den Zehen, damit sie schneller schwimmen können – so wie du mit Schwimmflossen.
 

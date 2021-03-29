@@ -15,8 +15,11 @@ gallery:
 
 {% include gallery caption="Eintagsfliegen leben viel länger als nur einen Tag!" %}
 
+Familie: *Ephemeridae*
+Gattung: *Ephemera*
+Art: Dänische Eintagsfliege (*Ephemera danica*)
 
-Die dänische Eintagsfliege (lat. *Ephemera danica*) verdankt ihren Namen einem dänischen Wissenschaftler, der sie zuerst beschrieben hat. Aber warum ist sie Insekt des Jahres?
+Die dänische Eintagsfliege verdankt ihren Namen einem dänischen Wissenschaftler, der sie zuerst beschrieben hat. Aber warum ist sie Insekt des Jahres?
 
 Kurz gesagt: Eintagsfliegen sind eine steinalte Art. Eintagsfliegen existieren seit 355 Millionen Jahren, somit lebten sie schon vor den Dinosauriern. In Mitteleuropa gibt es heute etwa 140 bekannte Arten. Sie sind Spezialisten in Sachen Häutung mit einem interessanten Lebenszyklus.
 
