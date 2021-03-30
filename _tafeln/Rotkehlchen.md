@@ -5,12 +5,16 @@ classes: wide
 gallery:
   - url: /img/Rotkehlchen1.jpg
     image_path: /img/thumbs/Rotkehlchen1_thumb.jpg
-    alt: "Rotkehlchen 1"
-    title: "Rotkehlchen auf einem Drahtzaun"
+    alt: "adultes Rotkehlchen"
+    title: "Rotkehlchen an einer Futterstelle"
   - url: /img/Rotkehlchen2.jpg
     image_path: /img/thumbs/Rotkehlchen2_thumb.jpg
-    alt: "Rotkehlchen 2"
+    alt: "Rotkehlchen im Nest"
     title: "Nest mit Rotkehlchenjungvögeln"
+    - url: /img/Rotkehlchen3.jpg
+      image_path: /img/thumbs/Rotkehlchen3_thumb.jpg
+      alt: "Detailansicht"
+      title: "Das rote Gefieder bedeckt das Gesicht und die Brust der Rotkehlchen"
 ---
 
 {% include gallery caption="Rotkehlchen fühlen sich auch in unserer Nähe wohl" %}
