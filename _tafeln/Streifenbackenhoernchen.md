@@ -5,7 +5,8 @@ classes: wide
 
 ---
 
-[Präparat eines Streifenbackenhörnchens](/img/thumbs/Streifenbackenhoernchen_thumb.jpg)
+[![](/img/thumbs/Streifenbackenhoernchen_thumb.jpg)](/img/Streifenbackenhoernchen.jpg)
+*<br>*Präparat eines Streifenbackenhörnchens*
 
 Familie: Hörnchen (*Sciuridae*)
 Gattung: Streifenhörnchen (*Tamias*)

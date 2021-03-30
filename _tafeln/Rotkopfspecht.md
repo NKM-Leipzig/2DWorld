@@ -5,7 +5,8 @@ classes: wide
 
 ---
 
-[Präparat eines Rotkopfspechts](/img/thumbs/Rotkopfspecht_thumb.jpg)
+[![](/img/thumbs/Rotkopfspecht_thumb.jpg)](/img/Rotkopfspecht.jpg)
+*<br>*Präparat eines Rotkopfspechts*
 
 Unterfamilie: Echte Spechte (*Picinae*)
 Gattung: *Melanerpes*
