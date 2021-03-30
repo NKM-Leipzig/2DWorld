@@ -6,7 +6,7 @@ classes: wide
 ---
 
 [![](/img/thumbs/Stachelnuesschen_thumb.jpg)](/img/Stachelnuesschen.jpg)
-*Früchte eines Stachelnüsschens*
+*<br>Früchte eines Stachelnüsschens*
 
 Familie: Rosengewächse (*Rosacea*)
 Gattung: Stachelnüsschen (*Acaena*)
