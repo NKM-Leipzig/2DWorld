@@ -5,7 +5,8 @@ classes: wide
 
 ---
 
-[![Der Puma wird auch als Löwe der Anden bezeichnet](/img/thumbs/Puma_thumb.jpg)](/img/Puma.jpg)
+[![](/img/thumbs/Puma_thumb.jpg)](/img/Puma.jpg)
+*<br>Der Puma wird auch als Löwe der Anden bezeichnet*
 
 Unterfamilie: Kleinkatzen (*Felinae*)
 Gattung: Pumas (*Puma*)
