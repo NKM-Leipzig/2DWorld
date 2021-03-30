@@ -6,7 +6,7 @@ classes: wide
 ---
 
 [![](/img/thumbs/Andesit_thumb.jpg)](/img/Andesit.jpg)
-*<br>*Detailansicht eines Andesit*
+*<br>Detailansicht eines Andesit*
 
 Andesit (auch Islandit genannt) ist ein vulkanisches Gestein. Es entsteht durch schnelle Abkühlung einer Gesteinsschmelze an der Erdoberfläche. Deshalb zählt das Gestein zu den Vulkaniten.
 

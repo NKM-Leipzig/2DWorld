@@ -6,7 +6,7 @@ classes: wide
 ---
 
 [![](/img/thumbs/Liebestaube_thumb.jpg)](/img/Liebestaube.jpg)
-*<br>*Diese Küsten- oder Liebestaube lebte vor über 100 Jahren.*
+*<br>Diese Küsten- oder Liebestaube lebte vor über 100 Jahren.*
 
 Familie: Taubenvögel (*Columbidae*)
 Gattung: Trauertauben (*Zenaida*)
