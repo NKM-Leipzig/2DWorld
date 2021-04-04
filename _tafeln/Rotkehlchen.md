@@ -11,10 +11,10 @@ gallery:
     image_path: /img/thumbs/Rotkehlchen2_thumb.jpg
     alt: "Rotkehlchen im Nest"
     title: "Nest mit Rotkehlchenjungvögeln"
-    - url: /img/Rotkehlchen3.jpg
-      image_path: /img/thumbs/Rotkehlchen3_thumb.jpg
-      alt: "Detailansicht"
-      title: "Das rote Gefieder bedeckt das Gesicht und die Brust der Rotkehlchen"
+  - url: /img/Rotkehlchen3.jpg
+    image_path: /img/thumbs/Rotkehlchen3_thumb.jpg
+    alt: "Detailansicht"
+    title: "Das rote Gefieder bedeckt das Gesicht und die Brust der Rotkehlchen"
 ---
 
 {% include gallery caption="Rotkehlchen fühlen sich auch in unserer Nähe wohl" %}

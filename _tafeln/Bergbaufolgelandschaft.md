@@ -3,10 +3,6 @@ title: "Bergbaufolgelandschaft"
 layout: archive
 classes: wide
 gallery:
-- url: /img/Ferro0.jpg
-  image_path: /img/thumbs/Ferro0_thumb.jpg
-  alt: "Blick auf einen Tagebau"
-  title: "Hier wird oberflächennah Kohle abgebaut"
   - url: /img/Ferro1.jpg
     image_path: /img/thumbs/Ferro1_thumb.jpg
     alt: "Ortseingangschild"
@@ -23,6 +19,10 @@ gallery:
     image_path: /img/thumbs/Ferro4_thumb.jpg
     alt: "Maschinendetail"
     title: "Die Ketten der Fahrzeuge sind gewaltig"
+  - url: /img/Ferro0.jpg
+    image_path: /img/thumbs/Ferro0_thumb.jpg
+    alt: "Blick auf einen Tagebau"
+    title: "Hier wird oberflächennah Kohle abgebaut"
 
 ---
 
