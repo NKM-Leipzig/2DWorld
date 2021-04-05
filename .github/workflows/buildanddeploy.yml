@@ -49,4 +49,4 @@ jobs:
           ssh-add - <<< "${SSH_KEY}"
           mkdir ~/.ssh
           ssh-keyscan -H ${SSH_HOST}  >> ~/.ssh/known_hosts
-          rsync -avz '-e ssh -o StrictHostKeyChecking=no' _site/ "${SSH_USER}@${SSH_HOST}:/world.naturkunde.museum"
+          rsync -avz '-e ssh -o StrictHostKeyChecking=no' _site/ ${SSH_USER}@${SSH_HOST}:/world.naturkunde.museum
