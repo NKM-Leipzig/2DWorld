@@ -45,5 +45,6 @@ jobs:
         run: |
           eval "$(ssh-agent -s)"
           ssh-add - <<< "${SSH_KEY}"
+          mkdir ~/.ssh
           ssh-keyscan -H ${SSH_HOST}  >> ~/.ssh/known_hosts
           rsync -avz '-e ssh -o StrictHostKeyChecking=no' _site/ "${SSH_USER}@${SSH_HOST}:/world.naturkunde.museum"
