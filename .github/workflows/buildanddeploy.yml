@@ -27,11 +27,23 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
+      - name: Optimize map
+        uses: thecodingmachine/map-optimizer-action@master
+
       # Build jekyll page
       - run: |
           bundle config path vendor/bundle
           bundle install
           bundle exec jekyll build
 
-      - name: Optimize map
-        uses: thecodingmachine/map-optimizer-action@master          
+      - name: upload
+        if: github.event_name == 'push'
+        env:
+          SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+        run: |
+          eval "$(ssh-agent -s)"
+          ssh-add - <<< "${SSH_KEY}"
+          ssh-keyscan -H ${SSH_HOST}  >> ~/.ssh/known_hosts
+          rsync -avz '-e ssh -o StrictHostKeyChecking=no' _site/ "${SSH_USER}@${SSH_HOST}:/world.naturkunde.museum"
