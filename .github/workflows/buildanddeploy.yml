@@ -28,4 +28,7 @@ jobs:
             ${{ runner.os }}-gems-
 
       # Build jekyll page
-      - run:  ls -al
+      - run: |
+          bundle config path vendor/bundle
+          bundle install
+          bundle exec jekyll build
