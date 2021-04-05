@@ -18,6 +18,8 @@ jobs:
       - name: setup environment
         run: |
           sudo gem install bundler:2.2.6
+          sudo apt update
+          sudo apt install rsync
 
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
       - uses: actions/cache@v1
