@@ -15,6 +15,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - name: setup environment
+        run: |
+          sudo gem install bundler:2.2.6
 
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
       - uses: actions/cache@v1
@@ -25,4 +28,4 @@ jobs:
             ${{ runner.os }}-gems-
 
       # Build jekyll page
-      - uses:  lemonarc/jekyll-action@1.0.0
+      - run:  ls -al
