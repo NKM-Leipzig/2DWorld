@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.doppelherz.de\/gesundheitsratgeber\/gehirnjogging\/merkspiel\/"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Sandbank"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -277,7 +277,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.spielaffe.de\/Spiel\/Tier-Mahjongg-HTML54"
+                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Mahjongg"
                 }],
          "type":"tilelayer",
          "visible":true,

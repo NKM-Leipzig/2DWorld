@@ -1,5 +1,5 @@
 ---
-title: "Willkommen zum Ferienprogramm des Naturkundemuseums Leipzig"
+title: "Willkommen in der Retrowelt des Naturkundemuseums Leipzig"
 layout: archive
 classes: wide
 
