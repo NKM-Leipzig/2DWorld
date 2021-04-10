@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Naturkundesmuseum_EG.json#Ausgang_EG"
+                 "value":"Naturkundemuseum_EG.json#Ausgang_EG"
                 }],
          "type":"tilelayer",
          "visible":true,

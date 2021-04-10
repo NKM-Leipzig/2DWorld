@@ -156,7 +156,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"Naturkundemuseum_1OG.json#EingangvonDchungel"
+                 "value":"Naturkundemuseum_1OG.json#EingangvonDschungel"
                 }],
          "type":"tilelayer",
          "visible":true,
