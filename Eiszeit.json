@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":15,
  "infinite":false,
  "layers":[
@@ -40,7 +33,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":27,
          "x":0,
          "y":0
@@ -58,7 +51,7 @@
                  "value":"Naturkundemuseum_EG.json#EingangWaschbecken"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":27,
          "x":0,
          "y":0
@@ -70,7 +63,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":27,
          "x":0,
          "y":0
@@ -82,7 +75,7 @@
          "name":"Baum2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":27,
          "x":0,
          "y":0
@@ -118,7 +111,7 @@
                  "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Museumsstars"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":27,
          "x":0,
          "y":0
@@ -136,7 +129,7 @@
                  "value":"https:\/\/ferien-im-museum.ishalt.so\/movie.html?media=seifenblase.mp4"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":27,
          "x":0,
          "y":0
@@ -148,7 +141,7 @@
          "name":"Accessoires",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":27,
          "x":0,
          "y":0
@@ -198,7 +191,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1275,7 +1268,7 @@
          "firstgid":7556,
          "image":"tiles\/polar_bear.png",
          "imageheight":256,
-         "imagewidth":229,
+         "imagewidth":224,
          "margin":0,
          "name":"polar_bear",
          "spacing":0,
@@ -1412,6 +1405,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":27
 }
