@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":15,
  "infinite":false,
  "layers":[
@@ -163,7 +156,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"Naturkundemuseum_Vorgarten.json"
+                 "value":"Naturkundemuseum_1OG.json#EingangvonDchungel"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -324,7 +317,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1192,6 +1185,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":27
 }
