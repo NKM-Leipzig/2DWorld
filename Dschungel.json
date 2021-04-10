@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/movie.html?media=Text3-Ertrinken.mp4"
+                 "value":"https:\/\/world.naturkunde.museum\/movie.html?media=Text3-Ertrinken.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -174,7 +174,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/movie.html?media=Text2-Forscherleben-Gefahren-Poeppig_Marcus-Moetz_Naturkundemuseum_V2.mp4"
+                 "value":"https:\/\/world.naturkunde.museum\/movie.html?media=Text2-Forscherleben-Gefahren-Poeppig_Marcus-Moetz_Naturkundemuseum_V2.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,

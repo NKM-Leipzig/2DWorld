@@ -229,7 +229,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/movie.html?media=Eimer.mp4"
+                 "value":"https:\/\/world.naturkunde.museum\/movie.html?media=Eimer.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,7 +301,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/eingang"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/eingang"
                 }],
          "type":"tilelayer",
          "visible":true,

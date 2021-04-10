@@ -7,9 +7,9 @@ layout: archive
 
 Eine Baustelle vor dem Museum verändert die Verkehrsführung.
 
-[![Umleitungsschild]({{ site.url }}{{ site.baseurl }}/img/umleitung_klein.jpg){: .align-center}](https://ferien-im-museum.ishalt.so){:target="_parent"}
+[![Umleitungsschild]({{ site.url }}{{ site.baseurl }}/img/umleitung_klein.jpg){: .align-center}](https://world.naturkunde.museum){:target="_parent"}
 
-**Hier gelangt ihr zum**<br/> [richtigen Eingang](https://ferien-im-museum.ishalt.so){:target="_parent" .btn .btn--warning .btn--x-large}
+**Hier gelangt ihr zum**<br/> [richtigen Eingang](https://world.naturkunde.museum){:target="_parent" .btn .btn--warning .btn--x-large}
 {: style="text-align: center;"}
 
 

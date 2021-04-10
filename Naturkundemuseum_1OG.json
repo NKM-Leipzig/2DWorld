@@ -144,7 +144,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Treppe"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/Treppe"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -162,7 +162,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=1tkfI2KQ-W0"
+                 "value":"https:\/\/world.naturkunde.museum\/youtube.html?ytvideoid=1tkfI2KQ-W0"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -180,7 +180,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=nJX9dPluJhE"
+                 "value":"https:\/\/world.naturkunde.museum\/youtube.html?ytvideoid=nJX9dPluJhE"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -198,7 +198,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=vwiVW3md9v8"
+                 "value":"https:\/\/world.naturkunde.museum\/youtube.html?ytvideoid=vwiVW3md9v8"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -216,7 +216,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=xYUjqIkaiQI"
+                 "value":"https:\/\/world.naturkunde.museum\/youtube.html?ytvideoid=xYUjqIkaiQI"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -234,7 +234,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=https:\/\/kinder.wdr.de\/tv\/neuneinhalb\/mehrwissen\/lexikon\/lexikon-video100.html"
+                 "value":"https:\/\/world.naturkunde.museum\/youtube.html?ytvideoid=https:\/\/kinder.wdr.de\/tv\/neuneinhalb\/mehrwissen\/lexikon\/lexikon-video100.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -288,7 +288,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Sandbank"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/Sandbank"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -306,7 +306,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Mahjongg"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/Mahjongg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -336,7 +336,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/movie.html?media=Text4-Botanisieren.mp4"
+                 "value":"https:\/\/world.naturkunde.museum\/movie.html?media=Text4-Botanisieren.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -426,7 +426,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Gestein"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/Gestein"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -444,7 +444,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Rotkehlchen"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/Rotkehlchen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -552,7 +552,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Bergbaufolgelandschaft"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/Bergbaufolgelandschaft"
                 }],
          "type":"tilelayer",
          "visible":true,

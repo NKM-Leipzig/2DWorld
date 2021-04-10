@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/tafeln\/Museumsstars"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/Museumsstars"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -126,7 +126,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/movie.html?media=seifenblase.mp4"
+                 "value":"https:\/\/world.naturkunde.museum\/movie.html?media=seifenblase.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -156,7 +156,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ferien-im-museum.ishalt.so\/youtube.html?ytvideoid=vwiVW3md9v8"
+                 "value":"https:\/\/world.naturkunde.museum\/youtube.html?ytvideoid=vwiVW3md9v8"
                 }],
          "type":"tilelayer",
          "visible":true,
