@@ -600,7 +600,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Dino.ogg"
+                 "value":"https:\/\/world.naturkunde.museum\/videos\/Dino.ogg"
                 }],
          "type":"tilelayer",
          "visible":true,
