@@ -5,11 +5,11 @@ layout: splash
 class: wide
 header:
     og_image: /img/preview-retrowelt.png
-title: "Willkommen beim Ferienprogramm des Naturkundemuseums Leipzig"
+title: "Willkommen in der Retrowelt des Naturkundemuseums Leipzig"
 ---
 {::options parse_block_html="true" /}
 <br/>
-# Willkommen beim Ferienprogramm des Naturkundemuseums Leipzig
+# Willkommen in der Retrowelt des Naturkundemuseums Leipzig
 
 Schön, dass ihr den Weg zu uns gefunden habt. In dieser Welt ist der Eintritt frei und es gibt keine Coronabeschränkungen! Kommt mit euren Großeltern, mit Freunden oder allein und erkundet das Museum!
 
