@@ -599,8 +599,8 @@
          "properties":[
                 {
                  "name":"playAudio",
-                 "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/videos\/Dino.ogg"
+                 "type":"file",
+                 "value":"videos\/Dino.ogg"
                 }],
          "type":"tilelayer",
          "visible":true,
