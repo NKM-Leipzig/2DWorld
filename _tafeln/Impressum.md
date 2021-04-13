@@ -15,7 +15,8 @@ Dieses Angebot wird gemeinsam bereitgestellt von
 **Realisation** Andreas Bräu (Berlin, Leipzig und [Weimar](https://weimarnetz.de){:target="_blank"}) und Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
 
 **Inhalte**
-Nadine Baum (Naturkundemuseum Leipzig, Sammlungsmanagement), Stefanie Grzybek (Naturkundemusuem Leipzig, Bildung und Vermittlung), Monika Hegenberg (Naturkundemusuem Bildung und Vermittlung), Benjamin Hößelbarth (Naturkundemusuem Leipzig, Bildung und Vermittlung), Henriette Joseph (Naturkundemuseum Leipzig, Lektorat), Robert Klesser (Naturkundemuseum Leipzig, Wirbellosenzoologie), Dr. Ronny Maik Leder (Naturkundemuseum Leipzig, Direktor) und Marike Nachtigal (Naturkundemuseum Leipzig, Sammlungsmanagement)
+Naturkundemuseum Leipzig 
+Nadine Baum (Sammlungsmanagement), Stefanie Grzybek (Bildung und Vermittlung), Monika Hegenberg (Bildung und Vermittlung), Benjamin Hößelbarth (Bildung und Vermittlung), Henriette Joseph (Lektorat), Robert Klesser (Wirbellosenzoologie), Dr. Ronny Maik Leder (Direktor) und Marike Nachtigal (Sammlungsmanagement)
 
 **Tilesets** Mit freundlichem Dank entliehen in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de){:target="blank"}, beim [krautspace Jena](https://kraut.space/){:target="_blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"} und vielen anderen.
 
