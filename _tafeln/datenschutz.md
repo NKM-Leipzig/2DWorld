@@ -8,11 +8,12 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 *Verantwortlicher*
 
-Andreas Bräu
-Streustr. 54
+Andreas Bräu<br/>
+Streustr. 54<br/>
 13086 Berlin
 
 *Kontakt*
+
 E-Mail: ab+naturkundemuseum(at)andi95.de
 
 Arten der verarbeiteten Daten:
@@ -37,8 +38,8 @@ Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Gewährleistung d
 
 Der Hostingprovider ist
 
-netcup GmbH
-Daimlerstr. 25
+netcup GmbH<br/>
+Daimlerstr. 25<br/>
 76185 Karlsruhe
 
 ## Links
