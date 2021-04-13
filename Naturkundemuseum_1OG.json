@@ -270,7 +270,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/HomoNeandertalensis"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/HomoNeanderthalensis"
                 }],
          "type":"tilelayer",
          "visible":true,
