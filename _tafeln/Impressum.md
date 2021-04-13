@@ -3,7 +3,7 @@ title: "Impressum"
 layout: archive
 classes: wide
 ---
-## Naturkundemuseum 1.0 - Retro World 2021
+## Naturkundemuseum 1.0 - Retro World
 
 Dieses Angebot wird gemeinsam bereitgestellt von
 
@@ -14,13 +14,9 @@ Dieses Angebot wird gemeinsam bereitgestellt von
 
 **Realisation** Andreas Bräu (Berlin, Leipzig und [Weimar](https://weimarnetz.de){:target="_blank"}) und Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
 
-**Mitarbeit** [Stephan Dietze (Anders Drehen)](https://www.anders-drehen.de/){:target="_blank"}, Dr. Ronny Maik Leder (Naturkundemuseum Leipzig, Direktor)
-
 **Inhalte**
- Monika Hegenberg (Naturkundemusuem Bildung und Vermittlung), Benjamin Hößelbarth (Naturkundemusuem Leipzig, Bildung und Vermittlung), Robert Klesser (Naturkundemuseum Leipzig, Wirbellosenzoologie) und Marike Nachtigal (Naturkundemuseum Leipzig, Sammlungsmanagement)
+ Monika Hegenberg (Naturkundemusuem Bildung und Vermittlung), Benjamin Hößelbarth (Naturkundemusuem Leipzig, Bildung und Vermittlung), Robert Klesser (Naturkundemuseum Leipzig, Wirbellosenzoologie), Dr. Ronny Maik Leder (Naturkundemuseum Leipzig, Direktor) und Marike Nachtigal (Naturkundemuseum Leipzig, Sammlungsmanagement)
 
 **Tilesets** Mit freundlichem Dank entliehen in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de){:target="blank"}, beim [krautspace Jena](https://kraut.space/){:target="_blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"} und vielen anderen.
 
-**Special Thanks** Für die unentbehrliche Unterstützung bei der Bereitstellung dieser Seiten danken wir den Vereinen [dezentrale e. V.](https://dezentrale.space){:target="_blank"} und [weimarnetz e.V.](https://weimarnetz.de){:target="_blank"}.
-
-♥ Allen Beteiligten herzlichen Dank für Mitarbeit, Unterstützung sowie Rat und Tat. ♥
+**Special Thanks** ♥ Für die unentbehrliche Unterstützung bei der Bereitstellung dieser Seiten danken wir den Vereinen [dezentrale e. V.](https://dezentrale.space){:target="_blank"} und [weimarnetz e.V.](https://weimarnetz.de){:target="_blank"}. Für die zusätzliche Zeit und Mühe beim Schneiden unserer Filme herzlichen Dank an [Stephan Dietze (Anders Drehen)](https://www.anders-drehen.de/){:target="_blank"}. ♥

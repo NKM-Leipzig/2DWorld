@@ -40,7 +40,7 @@ Wollt ihr uns etwas mitteilen oder Screenshot von eurem Besuch schicken? Auch Fo
 
 {% include gallery %}
 
-Schickt alles an **[unsere E-Mailadresse](mailto:service.naturkundemuseum@leipzig.de)** und wir pinnen es hier an die Weltkarte.
+Schickt alles an **[unsere E-Mailadresse](mailto:service.naturkundemuseum@leipzig.de)** und wir pinnen es an die Weltkarte.
 
 Viele Grüße,
 euer Team des Naturkundemuseums Leipzig
