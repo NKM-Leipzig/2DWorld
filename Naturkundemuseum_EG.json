@@ -28,7 +28,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
                  "value":"videos\/Waschbecken.m4a"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
                  "value":"videos\/Toilette.m4a"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
                  "value":"https:\/\/world.naturkunde.museum\/youtube.html?ytvideoid=tJSGIUCi4N4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":"Naturkundemuseum_1OG.json#my-entry-point"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
