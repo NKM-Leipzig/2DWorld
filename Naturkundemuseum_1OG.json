@@ -522,7 +522,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"videos\/Hut_Poeppig.m4a"
+                 "value":"videos\/Hut_Poeppig.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
