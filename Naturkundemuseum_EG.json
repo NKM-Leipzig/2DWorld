@@ -727,7 +727,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"https:\/\/world.naturkunde.museum\/videos\/Uhr.m4a"
+                 "value":"videos\/Uhr.m4a"
                 }],
          "type":"tilelayer",
          "visible":true,
