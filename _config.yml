@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Naturkundemuseum 1.0 - Retro World
+locale: "de_DE"
 logo: /img/logo_nkm_weiss_neu.png
 description: >- # this means to ignore newlines until "baseurl:"
   Schön, dass ihr den Weg zu uns gefunden habt.
@@ -26,7 +27,7 @@ github_username:  kunstpixel
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.14.1"
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
