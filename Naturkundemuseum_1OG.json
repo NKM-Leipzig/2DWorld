@@ -198,7 +198,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/youtube.html?ytvideoid=https:\/\/world.naturkunde.museum\/tafeln\/HomoNeanderthalensis"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/HomoNeanderthalensis"
                 }],
          "type":"tilelayer",
          "visible":true,
