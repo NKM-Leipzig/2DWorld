@@ -1,11 +1,9 @@
 ---
-title: "Meerestiere-Merkspiel von Doppelherz"
+title: "Meerestiere-Lernspiel"
 layout: archive
 classes: wide
 ---
 
-Trainert eure grauen Zellen mit dem fischigen Merkspiel von [Doppelherz](https://www.doppelherz.de/gesundheitsratgeber/gehirnjogging/merkspiel#c3925){:target="_blank"}
+Trainert eure grauen Zellen mit dem fischigen Lernspiel von Lorax auf [LerningApps](https://learningapps.org/){:target="_blank"}
 
-[![Vorschau Fischmemory]({{ site.url }}{{ site.baseurl }}/img/fisch-memory.png){: .align-center}](https://www.doppelherz.de/gesundheitsratgeber/gehirnjogging/merkspiel#c3925){:target="_blank"}
-
-<sub>Für dieses Spiel gelangt ihr auf eine externe Webseite. Für die Inhalte ist der Anbieter verantwortlich.</sub>
+<iframe src="https://learningapps.org/watch?app=7664823" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>

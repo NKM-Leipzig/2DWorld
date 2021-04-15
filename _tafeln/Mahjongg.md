@@ -1,11 +1,9 @@
 ---
-title: "Mahjongg von SpielAffe"
+title: "Tiere im Karton"
 layout: archive
 classes: wide
 ---
 
-Über maximal zwei Ecken müssen doppelte Steine zu verbinden sein. Schaffst du es alle Steine zu entfernen? Tierisches Vergnügen von [SpielAffe](https://www.spielaffe.de/Spiel/Tier-Mahjongg-HTML5){:target="_blank"}
+Schaffst du es alle Tiere in den Kartons zu finden? Ein tierisches Vergnügen mit [LerningApps](https://learningapps.org/){:target="_blank"}
 
-[![Vorschau Mahjongg]({{ site.url }}{{ site.baseurl }}/img/tier-mahjongg.png){: .align-center}](https://www.spielaffe.de/Spiel/Tier-Mahjongg-HTML5){:target="_blank"}
-
-<sub>Für dieses Spiel gelangt ihr auf eine externe Webseite. Für die Inhalte ist der Anbieter verantwortlich.</sub>
+<iframe src="https://learningapps.org/watch?v=p85t2hiia21" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
