@@ -12,7 +12,7 @@ Dieses Angebot wird gemeinsam bereitgestellt von
 
 **Idee** Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
 
-**Realisation** Andreas Bräu (Berlin, Leipzig und [Weimar](https://weimarnetz.de){:target="_blank"}) und Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
+**Realisation** Andreas Bräu ([Softwareentwickler](https://blog.andi95.de){:target="_blank"}) und Monika Hegenberg (Naturkundemuseum Leipzig, Bildung und Vermittlung)
 
 **Inhalte**
 *Naturkundemuseum Leipzig* 
