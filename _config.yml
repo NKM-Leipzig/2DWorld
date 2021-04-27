@@ -27,7 +27,7 @@ github_username:  kunstpixel
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+theme: "minimal-mistakes-jekyll"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
