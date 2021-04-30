@@ -671,13 +671,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
          "columns":70,
          "firstgid":1,
-         "image":"tiles\/poke.png",
+         "image":"tiles\/1OG\/poke.png",
          "imageheight":2400,
          "imagewidth":2240,
          "margin":0,
@@ -700,7 +700,7 @@
         {
          "columns":16,
          "firstgid":5251,
-         "image":"tiles\/adventu.re-main\/tilesets_deviant_milkian_3.png",
+         "image":"tiles\/1OG\/tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -831,7 +831,7 @@
         {
          "columns":8,
          "firstgid":5507,
-         "image":"tiles\/adventu.re-main\/fantasy.png",
+         "image":"tiles\/1OG\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1745,7 +1745,7 @@
         {
          "columns":11,
          "firstgid":6571,
-         "image":"tiles\/bskonf.png",
+         "image":"tiles\/1OG\/bskonf.png",
          "imageheight":512,
          "imagewidth":352,
          "margin":0,
@@ -2614,7 +2614,7 @@
         {
          "columns":16,
          "firstgid":6747,
-         "image":"tiles\/SF_Inside_B.png",
+         "image":"tiles\/1OG\/SF_Inside_B.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2627,7 +2627,7 @@
         {
          "columns":32,
          "firstgid":7003,
-         "image":"tiles\/terrain_atlas.png",
+         "image":"tiles\/1OG\/terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -3334,7 +3334,7 @@
         {
          "columns":4,
          "firstgid":8027,
-         "image":"tiles\/headgear-OCAL.png",
+         "image":"tiles\/1OG\/headgear-OCAL.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -3456,7 +3456,7 @@
         {
          "columns":4,
          "firstgid":8043,
-         "image":"tiles\/Shark1.png",
+         "image":"tiles\/1OG\/Shark1.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -3469,7 +3469,7 @@
         {
          "columns":32,
          "firstgid":8047,
-         "image":"tiles\/chaos_zone_shared.png",
+         "image":"tiles\/1OG\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -3618,7 +3618,7 @@
         {
          "columns":3,
          "firstgid":10095,
-         "image":"tiles\/bird_3_robin.png",
+         "image":"tiles\/1OG\/bird_3_robin.png",
          "imageheight":256,
          "imagewidth":96,
          "margin":0,
@@ -3631,7 +3631,7 @@
         {
          "columns":5,
          "firstgid":10119,
-         "image":"tiles\/deer male calciumtrice.png",
+         "image":"tiles\/1OG\/deer male calciumtrice.png",
          "imageheight":160,
          "imagewidth":160,
          "margin":0,
@@ -3644,7 +3644,7 @@
         {
          "columns":12,
          "firstgid":10144,
-         "image":"tiles\/Fox_Idle.png",
+         "image":"tiles\/1OG\/Fox_Idle.png",
          "imageheight":64,
          "imagewidth":384,
          "margin":0,
@@ -3657,7 +3657,7 @@
         {
          "columns":3,
          "firstgid":10168,
-         "image":"tiles\/reindeer-m-run.png",
+         "image":"tiles\/1OG\/reindeer-m-run.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -3670,7 +3670,7 @@
         {
          "columns":5,
          "firstgid":10180,
-         "image":"tiles\/Panda.png",
+         "image":"tiles\/1OG\/Panda.png",
          "imageheight":256,
          "imagewidth":160,
          "margin":0,
@@ -3683,7 +3683,7 @@
         {
          "columns":5,
          "firstgid":10220,
-         "image":"tiles\/deer female calciumtrice.png",
+         "image":"tiles\/1OG\/deer female calciumtrice.png",
          "imageheight":160,
          "imagewidth":160,
          "margin":0,
@@ -3696,7 +3696,7 @@
         {
          "columns":8,
          "firstgid":10245,
-         "image":"tiles\/nkm_tiles.png",
+         "image":"tiles\/1OG\/nkm_tiles.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -3853,6 +3853,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":46
 }

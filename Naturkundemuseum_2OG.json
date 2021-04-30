@@ -113,13 +113,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
          "columns":11,
          "firstgid":1,
-         "image":"tiles\/bskonf.png",
+         "image":"tiles\/2OG\/bskonf.png",
          "imageheight":512,
          "imagewidth":352,
          "margin":0,
@@ -1438,7 +1438,7 @@
         {
          "columns":8,
          "firstgid":177,
-         "image":"tiles\/adventu.re-main\/fantasy.png",
+         "image":"tiles\/2OG\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1451,7 +1451,7 @@
         {
          "columns":70,
          "firstgid":1241,
-         "image":"tiles\/poke.png",
+         "image":"tiles\/2OG\/poke.png",
          "imageheight":2400,
          "imagewidth":2240,
          "margin":0,
@@ -1464,7 +1464,7 @@
         {
          "columns":32,
          "firstgid":6491,
-         "image":"tiles\/chaos_zone_shared.png",
+         "image":"tiles\/2OG\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1476,6 +1476,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":46
 }

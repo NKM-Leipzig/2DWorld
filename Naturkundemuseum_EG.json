@@ -798,13 +798,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
          "columns":16,
          "firstgid":1,
-         "image":"tiles\/tilesets_deviant_milkian_1.png",
+         "image":"tiles\/EG\/tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -1583,7 +1583,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"tiles\/floortileset.png",
+         "image":"tiles\/EG\/floortileset.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":1,
@@ -1606,7 +1606,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"tiles\/mountain_landscape.png",
+         "image":"tiles\/EG\/mountain_landscape.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1619,7 +1619,7 @@
         {
          "columns":16,
          "firstgid":577,
-         "image":"tiles\/LPC_house_interior\/LPC_house_interior\/interior.png",
+         "image":"tiles\/EG\/interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1795,7 +1795,7 @@
         {
          "columns":32,
          "firstgid":833,
-         "image":"tiles\/LPC_Terrain\/terrain.png",
+         "image":"tiles\/EG\/terrain.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2097,7 +2097,7 @@
         {
          "columns":8,
          "firstgid":1857,
-         "image":"tiles\/adventu.re-main\/fantasy.png",
+         "image":"tiles\/EG\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -2678,7 +2678,7 @@
         {
          "columns":16,
          "firstgid":2921,
-         "image":"tiles\/adventu.re-main\/tilesets_deviant_milkian_3.png",
+         "image":"tiles\/EG\/tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2719,7 +2719,7 @@
         {
          "columns":16,
          "firstgid":3177,
-         "image":"tiles\/SF_Inside_B.png",
+         "image":"tiles\/EG\/SF_Inside_B.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2859,7 +2859,7 @@
         {
          "columns":32,
          "firstgid":3433,
-         "image":"tiles\/terrain_atlas.png",
+         "image":"tiles\/EG\/terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -3089,7 +3089,7 @@
         {
          "columns":70,
          "firstgid":4457,
-         "image":"tiles\/poke.png",
+         "image":"tiles\/EG\/poke.png",
          "imageheight":2400,
          "imagewidth":2240,
          "margin":0,
@@ -3211,7 +3211,7 @@
         {
          "columns":32,
          "firstgid":9707,
-         "image":"tiles\/Makerspace.png",
+         "image":"tiles\/EG\/Makerspace.png",
          "imageheight":768,
          "imagewidth":1024,
          "margin":0,
@@ -9921,7 +9921,7 @@
         {
          "columns":12,
          "firstgid":10475,
-         "image":"tiles\/otters.png",
+         "image":"tiles\/EG\/otters.png",
          "imageheight":384,
          "imagewidth":384,
          "margin":0,
@@ -9934,7 +9934,7 @@
         {
          "columns":7,
          "firstgid":10619,
-         "image":"tiles\/spider.png",
+         "image":"tiles\/EG\/spider.png",
          "imageheight":128,
          "imagewidth":224,
          "margin":0,
@@ -9947,7 +9947,7 @@
         {
          "columns":11,
          "firstgid":10647,
-         "image":"tiles\/bskonf.png",
+         "image":"tiles\/EG\/bskonf.png",
          "imageheight":512,
          "imagewidth":352,
          "margin":0,
@@ -10096,7 +10096,7 @@
         {
          "columns":8,
          "firstgid":10823,
-         "image":"tiles\/nkm_tiles.png",
+         "image":"tiles\/EG\/nkm_tiles.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -10109,7 +10109,7 @@
         {
          "columns":32,
          "firstgid":10887,
-         "image":"tiles\/chaos_zone_shared.png",
+         "image":"tiles\/EG\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -10121,6 +10121,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":46
 }

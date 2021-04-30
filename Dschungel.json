@@ -359,13 +359,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
          "columns":70,
          "firstgid":1,
-         "image":"tiles\/poke.png",
+         "image":"tiles\/Dschungel\/poke.png",
          "imageheight":2400,
          "imagewidth":2240,
          "margin":0,
@@ -433,7 +433,7 @@
         {
          "columns":8,
          "firstgid":5251,
-         "image":"tiles\/adventu.re-main\/fantasy.png",
+         "image":"tiles\/Dschungel\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -726,7 +726,7 @@
         {
          "columns":32,
          "firstgid":6315,
-         "image":"tiles\/LPC_Terrain\/terrain.png",
+         "image":"tiles\/Dschungel\/terrain.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -929,7 +929,7 @@
         {
          "columns":3,
          "firstgid":7339,
-         "image":"tiles\/pigeon-NESW.png",
+         "image":"tiles\/Dschungel\/pigeon-NESW.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -970,7 +970,7 @@
         {
          "columns":1,
          "firstgid":7351,
-         "image":"tiles\/bone.png",
+         "image":"tiles\/Dschungel\/bone.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -989,7 +989,7 @@
         {
          "columns":5,
          "firstgid":7352,
-         "image":"tiles\/chestnut-002.png",
+         "image":"tiles\/Dschungel\/chestnut-002.png",
          "imageheight":160,
          "imagewidth":160,
          "margin":0,
@@ -1030,7 +1030,7 @@
         {
          "columns":9,
          "firstgid":7377,
-         "image":"tiles\/lpccatratdog.png",
+         "image":"tiles\/Dschungel\/lpccatratdog.png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
@@ -1071,7 +1071,7 @@
         {
          "columns":3,
          "firstgid":7449,
-         "image":"tiles\/bird_2_red.png",
+         "image":"tiles\/Dschungel\/bird_2_red.png",
          "imageheight":256,
          "imagewidth":96,
          "margin":0,
@@ -1084,7 +1084,7 @@
         {
          "columns":1,
          "firstgid":7473,
-         "image":"tiles\/sultana.png",
+         "image":"tiles\/Dschungel\/sultana.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1097,7 +1097,7 @@
         {
          "columns":13,
          "firstgid":7474,
-         "image":"tiles\/plant repack.png",
+         "image":"tiles\/Dschungel\/plant repack.png",
          "imageheight":416,
          "imagewidth":416,
          "margin":0,
@@ -1318,7 +1318,7 @@
         {
          "columns":16,
          "firstgid":7643,
-         "image":"tiles\/mountain_landscape.png",
+         "image":"tiles\/Dschungel\/mountain_landscape.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1350,7 +1350,7 @@
         {
          "columns":1,
          "firstgid":7899,
-         "image":"tiles\/squirrels-1.png",
+         "image":"tiles\/Dschungel\/squirrels-1.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1362,6 +1362,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":27
 }
