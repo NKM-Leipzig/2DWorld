@@ -27,8 +27,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      #- name: Optimize map
-      #  uses: thecodingmachine/map-optimizer-action@master
+      - name: Optimize map
+        uses: thecodingmachine/map-optimizer-action@master
 
       # Build jekyll page
       - run: |
