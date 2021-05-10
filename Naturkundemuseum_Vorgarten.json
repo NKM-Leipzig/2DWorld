@@ -324,7 +324,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.world.dezentrale.cloud\/_\/global\/maps.world.dezentrale.cloud\/main.json#entry_nkl"
+                 "value":"..\/maps.world.dezentrale.cloud\/main.json#entry_nkl"
                 }],
          "type":"tilelayer",
          "visible":true,
