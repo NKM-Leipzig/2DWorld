@@ -320,6 +320,12 @@
          "id":26,
          "name":"AusgangDezentrale",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"..\/maps.world.dezentrale.cloud\/main.json#entry_nkl"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
