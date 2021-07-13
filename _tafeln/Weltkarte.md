@@ -31,6 +31,10 @@ gallery:
     image_path: /img/feedback_clt_eiswelt.png
     alt: "Bild aus der Eiswelt"
     title: "Bild aus der Eiswelt"
+  - url: /img/feedback_goetheinstitut_mx.png
+    image_path: /img/feedback_goetheinstitut_mx.png
+    alt: "Grüße vom Goethe-Institut Mexiko-Stadt"
+    title: "Grüße vom Goethe-Institut Mexiko-Stadt"
   - url: /img/feedback_teaser.png
     image_path: /img/feedback_teaser.png
     alt: "Weitere Grüße"
