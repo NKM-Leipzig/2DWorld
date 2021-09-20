@@ -481,7 +481,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/world.naturkunde.museum\/movie.html?media=Schneeflocken_basteln.mp4"
+                 "value":"videos\/Samenkugeln.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -798,7 +798,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -10310,6 +10310,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":46
 }
