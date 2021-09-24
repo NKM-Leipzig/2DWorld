@@ -67,5 +67,13 @@ $muted-text-color: #fff;
   height: 150px;
 }
 
+div.fragfinn {
+  float: right;
+}
+
+div.page__footer-follow {
+  display: inline-block;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
