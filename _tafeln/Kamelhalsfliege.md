@@ -1,5 +1,5 @@
 ---
-title: "Insekt des Jahres 2021: Die Dänische Eintagsfliege"
+title: "Insekt des Jahres 2022: Die Schwarzhalsige Kamelhalsfliege"
 layout: archive
 classes: wide
 gallery:
@@ -17,7 +17,7 @@ gallery:
 
 Familie: *Ephemeridae*
 Gattung: *Ephemera*
-Art: Dänische Eintagsfliege (*Ephemera danica*)
+Art: Schwarzhalsige Kamelhalsfliege (*Venustoraphidia nigricollis*)
 
 Die dänische Eintagsfliege verdankt ihren Namen einem dänischen Wissenschaftler, der sie zuerst beschrieben hat. Aber warum ist sie Insekt des Jahres?
 

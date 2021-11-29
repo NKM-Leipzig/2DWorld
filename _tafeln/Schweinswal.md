@@ -1,5 +1,5 @@
 ---
-title: "Das Tier des Jahres 2021: Der Eurasische Fischotter"
+title: "Das Tier des Jahres 2022: Der Gewöhnliche Schweinswal"
 layout: archive
 classes: wide
 gallery:
@@ -19,9 +19,9 @@ gallery:
 
 {% include gallery caption="Eurasische Fischotter an Land und zu Wasser" %}
 
-Unterfamilie: Otter (*Lutrinae*)
-Gattung: Altweltotter (*Lutra*)
-Art: Eurasischer Fischotter (*Lutra lutra*)
+Familie: Schweinswale (*Phocoenidae*)
+Gattung: *Phocoena*
+Art: Gewöhnlicher Schweinswal (*Phocoena phocoena*)
 
 Eurasische Fischotter gehören zu den Landraubtieren. Sie fühlen sich an Land und im Wasser wohl. Durch den Einfluss vom Menschen – wie Jagd, Straßenbau, Verschmutzung oder Kanalisierung von Flüssen – gibt es heute weniger Fischotter als noch vor 100 Jahren. Deshalb ist es wichtig auf die Tiere und die Erhaltung ihres Lebensraumes aufmerksam zu machen.
 

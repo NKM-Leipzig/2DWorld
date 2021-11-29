@@ -1,5 +1,5 @@
 ---
-title: "Vogel des Jahres 2021: Das Rotkehlchen"
+title: "Vogel des Jahres 2022: Der Wiedehopf"
 layout: archive
 classes: wide
 gallery:
@@ -19,11 +19,11 @@ gallery:
 
 {% include gallery caption="Rotkehlchen fühlen sich auch in unserer Nähe wohl" %}
 
-Bis vor Kurzem konntet ihr noch abstimmen, jetzt ist es entschieden: Das Rotkehlchen ist der Vogel des Jahres 2021!
+Bis vor Kurzem konntet ihr noch abstimmen, jetzt ist es entschieden: Der Wiedehopf ist der Vogel des Jahres 2022!
 
-Unterfamilie: *Cossyphinae*
-Gattung: *Erithacus*
-Art: Rotkehlchen (*Erithacus rubecula*)
+Familie: Wiedehopfe *Upupidae*
+Gattung: Wiedehopfe *Upupa*
+Art: Wiedehopf (*Upupa epops*)
 
 Das Rotkehlchen zählt zu den bekanntesten und beliebtesten Vögeln Deutschlands. Es ist von Nordafrika bis ins nördliche Europa verbreitet.
 
