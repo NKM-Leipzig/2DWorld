@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"_tafeln\/Museumspreis.md"
+                 "value":"_tafeln\/Museumspreis"
                 }],
          "type":"tilelayer",
          "visible":true,
