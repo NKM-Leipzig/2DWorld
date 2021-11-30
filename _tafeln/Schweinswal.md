@@ -2,33 +2,24 @@
 title: "Das Tier des Jahres 2022: Der Gewöhnliche Schweinswal"
 layout: archive
 classes: wide
-gallery:
-  - url: /img/Fischotter1.jpg
-    image_path: /img/thumbs/Fischotter1_thumb.jpg
-    alt: "Fischotterpärchen"
-    title: "Zwei Fischotter auf einem Baumstamm"
-  - url: /img/Fischotter2.jpg
-    image_path: /img/thumbs/Fischotter2_thumb.jpg
-    alt: "Fischotter im Wasser"
-    title: "Fressender Otter im Wasser"
-  - url: /img/Fischotter3.jpg
-    image_path: /img/thumbs/Fischotter3_thumb.jpg
-    alt: "Fischotter"
-    title: "Fischotter auf einem Baum"
+
 ---
 
-{% include gallery caption="Eurasische Fischotter an Land und zu Wasser" %}
+[![](/img/thumbs/Tuemmler_thumb.jpg)](/img/Tuemmler.jpg)
+*<br>Schweinswale leben vor allem in Küstennähe*
 
 Familie: Schweinswale (*Phocoenidae*)
 Gattung: *Phocoena*
 Art: Gewöhnlicher Schweinswal (*Phocoena phocoena*)
 
-Eurasische Fischotter gehören zu den Landraubtieren. Sie fühlen sich an Land und im Wasser wohl. Durch den Einfluss vom Menschen – wie Jagd, Straßenbau, Verschmutzung oder Kanalisierung von Flüssen – gibt es heute weniger Fischotter als noch vor 100 Jahren. Deshalb ist es wichtig auf die Tiere und die Erhaltung ihres Lebensraumes aufmerksam zu machen.
+Gewöhnliche Schweinswale sind kleine Zahnwale, die besonders in Küstengewässern der Nordhalbkugel zuhause sind. Sie leben vor Europa, Nordamerika, Nordwestafrika sowie im Schwarzen Meer und im asiatischen Nordpazifik. Die Raubtiere fressen besonders gerne Fische, Tintenfische, Schnecken und Krebstiere. Täglich brauchen sie ungefähr 4,5 kg Nahrung.
 
-Fischotter werden bis zu 1,30 m groß und bis zu 12 kg schwer. Besonders ist ihr dichtes, dunkelbraunes Fell. Aus jeder Haarwurzel wachsen gleich mehrere Haare. Im Wasser verhaken sie sich und bilden ein Luftpolster auf der Haut. So bleiben Otter auch im Wasser warm und trocken. Fischotter haben zudem Schwimmhäute zwischen den Zehen, damit sie schneller schwimmen können – so wie du mit Schwimmflossen.
+In Nord- und Ostsee sind die kleinen Säuger die häufigste Walart. Jedoch werden es immer weniger Tiere. Auch um auf die Bedrohung für die Schweinswale durch Giftstoffe in den Meeren, Fischernetzeund Lärm durch Schiffe und Windparks aufmerksam zu machen, wählte die [Deutsche Wildtier Stiftung](https://www.deutschewildtierstiftung.de/){:target="_blank"} die Gewöhnlichen Schweinswale zum Tier des Jahres.
 
-Zum Leben brauchen Fischotter saubere, fischreiche Gewässer und natürliches Ufer mit Sträuchern, Bäumen und kleinen Höhlen, die Unterschlupf bieten. Bis zu 40km Uferstreifen beansprucht ein einziges Tier für sich! Deshalb ist es wichtig  viele natürliche Flussläufe zu erhalten oder Flüsse zu renaturieren – also wieder in ihren Ursprungszustand zurückzuführen.
+Schweinswale werden bis zu 185cm lang. Sie wiegen dabei ca. 50 bis 60 kg. Auf dem schwarzen Rücken steht eine kurze, dreieckige Rückenfinne. Die Fluke, also die Schwanzflosse, ist ebenfalls schwarz. Die Unterseite des Tieres ist weiß, sodass es sich vor dem Licht für tiefer schwimmende Angreifer, wie Haie und Schwertwale, nicht abzeichnet.
 
-Während der Dämmerung und nachts gehen Otter auf Jagd. Sie können bis zu 7 Stundenkilometer schnell schwimmen und 8 Minuten unter Wasser bleiben. Beim Tauchen verschließen sie Ohren und Nase und spüren ihre Beute mit den Tasthhaaren sn ihrer Schnauze auf. Kleine Beutetiere essen Otter direkt im Wasser auf dem Rücken schwimmend. Größere Beutetiere bringen sie an Land. Besonders gerne fressen Fischotter natürlich Fisch, aber auch Frösche, Muscheln, Vögel, Insekten und kleine Säugetiere - sie jagen also auch an Land.
+Besonders häufig leben Schweinswale alleine oder in Zweierverbänden. Gruppen, auch Schulen genannt, umfassen maximal sieben Tiere. Zur Paarung oder zur Nahrungssuche treffen sich gelegentlich mehrere Gruppen, sodass bis zu 100 Tiere zusammenkommen. Sie können bis zu 22km/h schnell schwimmen, sind meist aber deutlich langsamer unterwegs. 
 
-Inzwischen stehen Fischotter in vielen Ländern unter Schutz. Die Otterzahlen erholen sich - auch in Deutschland. Letztes Jahr wurde ein Otter zwischen Luppe und Weißer Elster bei Merseburg gesichtet. Auf dem aktuellen Stand über Fischottervorkommen bleibst du mit dem [Otterspotter](https://www.otterspotter.de/uber-otterspotter){:target="_blank"}. Dort kannst du dich als Otterspotter beteiligen! Also nichts wie raus an die Flüsse und Seen in und um Leipzig!
+Zur Kommunikation verwenden Schweinswale unterschiedliche Töne. Sie nutzen diese zur Erkundung udn Orientierung. Sie sind aber auch Laute der Dominanz, Werbung um Partner oder Hilfeleistung sowie Warnung bei Gefahren.
+
+Der Gewöhnliche Schweinswal steht in Europa unter Naturschutz. In der Ostsee leben laut Schätzungen 700 bis 2.000 Tiere, in der Nordsee bis zu 300.000 Gewöhnliche Schweinswale. 
