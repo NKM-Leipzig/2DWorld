@@ -7,7 +7,7 @@ classes: wide
   <video id="theplayer" autoplay="autoplay" height="360px" controls="controls">
     <source id="mediasource" type="video/mp4">
       <p>Schade!</p>
-      Dein Browser unterstützt leider keine Videovidergabe.
+      Dein Browser unterstützt leider keine Videowiedergabe.
   </video>
   <p>Das funktioniert am besten mit Chromium/Chrome. Du kannst hier ein Video erwarten.</p>
 </div>
