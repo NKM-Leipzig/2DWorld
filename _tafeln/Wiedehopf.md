@@ -3,21 +3,21 @@ title: "Vogel des Jahres 2022: Der Wiedehopf"
 layout: archive
 classes: wide
 gallery:
-  - url: /img/Rotkehlchen1.jpg
-    image_path: /img/thumbs/Rotkehlchen1_thumb.jpg
-    alt: "adultes Rotkehlchen"
-    title: "Rotkehlchen an einer Futterstelle"
-  - url: /img/Rotkehlchen2.jpg
-    image_path: /img/thumbs/Rotkehlchen2_thumb.jpg
-    alt: "Rotkehlchen im Nest"
-    title: "Nest mit Rotkehlchenjungvögeln"
-  - url: /img/Rotkehlchen3.jpg
-    image_path: /img/thumbs/Rotkehlchen3_thumb.jpg
-    alt: "Detailansicht"
-    title: "Das rote Gefieder bedeckt das Gesicht und die Brust der Rotkehlchen"
+  - url: /img/Wiedehopf.jpg
+    image_path: /img/thumbs/Wiedehopf_thumb.jpg
+    alt: "adulter Wiedehopf"
+    title: "Der Wiedehopf ist an seinem auffälligen Gefieder gut zu erkennen."
+  - url: /img/Wiedehopffuetterung.jpg
+    image_path: /img/thumbs/Wiedehopffuetterung_thumb.jpg
+    alt: "Fütterung an der Nisthöhle"
+    title: "Fütterung an der Nisthöhle mit Jungvögeln"
+  - url: /img/Wiedehopfputzt.jpg
+    image_path: /img/thumbs/Wiedehopfputzt_thumb.jpg
+    alt: "Die Flügel des Wiedehopfes sind schwarz-weiß gestreift"
+    title: "Bei Erregung stellt der Wiedehopf seinen Federschopf auf"
 ---
 
-{% include gallery caption="Rotkehlchen fühlen sich auch in unserer Nähe wohl" %}
+{% include gallery caption="Wiedehopfe sind besonders im wärmeren Süden Deutschlands zu finden"}
 
 Bis vor Kurzem konntet ihr noch abstimmen, jetzt ist es entschieden: Der Wiedehopf ist der Vogel des Jahres 2022!
 
@@ -25,12 +25,14 @@ Familie: Wiedehopfe *Upupidae*
 Gattung: Wiedehopfe *Upupa*
 Art: Wiedehopf (*Upupa epops*)
 
-Das Rotkehlchen zählt zu den bekanntesten und beliebtesten Vögeln Deutschlands. Es ist von Nordafrika bis ins nördliche Europa verbreitet.
+Dass du den Wiedehopf schon in freier Wildbahn gesehen hast, ist eher unwahrscheinlich. Der rostrote Vogel mit den auffällig schwarz-weißen Flügel-, Rücken- und Schwanzfedern, ist leider nicht mehr häufig bei uns zu finden. Mit den langen Scheitelfedern, die er bei Erregung aufrichtet, ist er leicht zu erkennen. Zudem kennzeichnet ein langer Schnabel von bis zu 6 cm den Vogel. Insgesamt wird der vogel maximal 29 cm lang.
 
-Mit seiner rotorangenen Brust und Stirn ist es leicht zu erkennen. Das restliche Gefieder ist oben dunkelbraun und am Bauch hellbraun bis beigefarben. Die Tiere werden nur rund 14cm groß und bis zu 18g schwer. Rotkehlchen ernähren sich vor allem von Insekten, kleinen Spinnen, Schnecken und Würmern.
+Besonders wohl fühlt der Wiedehopf sich in wärmeren Regionen in Südwesteuropa und Nordwestafrika sowie Vorderasien, In Deutschland lebt er besonders im klimatisch wärmeren Süddeutschland. Den Winter verbringt der Zugvogel in den afrikanischen Tropen, in der Sahelzone oder in Indien.
 
-Schon vor Sonnenaufgang sind die charakteristischen Rufe der Rotkehlchen zu hören. Sie rufen über den ganzen Tag, während sich die Tiere durch Wälder, Parks und Siedlungen bewegen. Viele Rotkehlchen sind sehr zutraulich und kommen nah an den Menschen heran, was zu ihrer Beliebtheit beiträgt. Sind sie nicht in der Brut- oder Aufzuchtphase von Jungvögeln leben sie nicht in Nestern, sondern schlafen in Hecken und dichtem Gebüsch. Während der Brutphase kommen die Männchen und Weibchen in Nestern zusammen. Den Brutplatz bestimmt das Weibchen. Sind die Eier gelegt, beträgt die Brutdauer maximal 15 Tage. Die kleinen Rotkehlchen werden im Anschluss 12 bis 15 Tage von beiden Elternteilen gefüttert. Danach verlassen sie das Nest und werden am Boden noch eine Zeit von den Eltern gefüttert, da sie noch nicht fliegen können. Erst vom 18. Tag an sind die kleinen Rotkehlchen völlig selbstständig und müssen das Revier der Eltern verlassen.
+Am Boden von Weinbergen, Obstgärten und an Böschungen findet der Wiedehopf seine Beute. Sie besteht aus Insekten wie Käfern, Grillen und Heuschrecken. Auch Engerlinge, Raupen und Larven oder Spinnen werden verspeist. Kleine Wirbeltiere wie Eidechsen werden seltener erbeutet.
 
-Im Durchschnitt wird ein Rotkehlchen 3 bis 4 Jahre alt. In Polen wurde aber auch einmal ein 17 Jahre altes Tier gefunden. Das konnten die Forscher*innen über einen Ring am Fuß des Tieres bestimmen.
+Seine Brut zieht der Wiedehopf in verlassenen Hohlräumen, wie Spechthöhlen, Mauerspalten, Steinhaufen oder Nischen auf. Meist benutzt er zum Bau seiner Nester wenig Material und formt lediglich eine Mulde in die er seine Eier legt. Im Mai legt das Weibchen zwischen 5 und 8 Eier aus denen nach rund 15 Tagen die Jungvögel schlüpfen. Jungvögel und Weibchen sondern bei Gefahr ein Sekret aus der Bürzeldrüse ab, das durch seinen Gestank Räuber vom Nest fernhält. Nach 30 Tagen verlassen die jungen Wiedehopfe das Nest.
 
-In Deutschland leben rund 3,4 bis 4,3 Millionen Rotkehlchenbrutpaare. Der Bestand der Tiere ist somit nicht gefährdet. Rotkehlchen sind in Deutschland sogar die sechsthäufigste Brutvogelart. Eine Gefährung für die Tiere geht jedoch von der in Mitteleuropa zunehmenden Abholzung von Wäldern und Schaffung von Freiflächen für die landwirtschaftliche Nutzung aus. Denn Rotkehlchen meiden offene Flächen, da sie bei einer Flucht keine guten Sprinter sind.
+In Deutschland ist der Wiedehopf gefährdet, da es weder ausreichend Nistmöglichkeiten noch ausreichend Lebensräume für die Vögel gibt. In den letzten Jahren wächst die Population wieder, ein Zeichen für den einsetzenden Klimawandel. Noch rund 800 bis 950 Brutpaare sind in Deutschland heimisch.
+
+Der wissenschaftliche Name der Wiedehopf-Gattung *Upupa* ist übrigens dem typischen dreisilbigen Balzruf des Tieres"upupup" nachempfunden.
