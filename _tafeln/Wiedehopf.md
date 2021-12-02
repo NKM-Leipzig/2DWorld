@@ -17,7 +17,7 @@ gallery:
     title: "Bei Erregung stellt der Wiedehopf seinen Federschopf auf"
 ---
 
-{% include gallery caption="Wiedehopfe sind besonders im wärmeren Süden Deutschlands zu finden"}
+{% include gallery caption="Wiedehopfe sind besonders im wärmeren Süden Deutschlands zu finden" %}
 
 Bis vor Kurzem konntet ihr noch abstimmen, jetzt ist es entschieden: Der Wiedehopf ist der Vogel des Jahres 2022!
 
