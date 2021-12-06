@@ -7,6 +7,9 @@
    viewBox="0 0 1083.5 418.5"
    version="1.1"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:export-filename="/home/abraeu/Dokumente/sources/2DWorld/img/keymap-fuer-robby.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,8 +24,8 @@
      inkscape:showpageshadow="false"
      inkscape:zoom="1.2884602"
      borderopacity="0.55686275"
-     inkscape:current-layer="layer7"
-     inkscape:cx="29.492568"
+     inkscape:current-layer="layer8"
+     inkscape:cx="145.9106"
      inkscape:cy="172.68675"
      inkscape:window-maximized="1"
      showgrid="false"
@@ -1174,81 +1177,74 @@
    style="font-size:12.5px;line-height:1.1">F9</tspan>    </text>
     <text
        id="text5366"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        y="39.25008"
        x="630.53979"
-       xml:space="preserve">       <tspan
-   id="tspan5368"
-   y="39.25008"
-   x="630.53979"
-   sodipodi:role="line"
-   style="font-size:12.5px;line-height:1.1">F10</tspan>    </text>
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan9713"
+         x="630.53979"
+         y="39.25008">     F10    </tspan></text>
     <text
        id="text5376"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        xml:space="preserve"
        y="39.25008"
-       x="691.73981">       <tspan
-   id="tspan5378"
-   sodipodi:role="line"
-   x="691.73981"
-   y="39.25008"
-   style="font-size:12.5px;line-height:1.1">F11</tspan>    </text>
+       x="691.73981"><tspan
+         sodipodi:role="line"
+         id="tspan9733"
+         x="691.73981"
+         y="39.25008">     F11    </tspan></text>
     <text
        id="text5386"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        y="39.250103"
        x="752.93982"
-       xml:space="preserve">       <tspan
-   id="tspan5388"
-   y="39.250103"
-   x="752.93982"
-   sodipodi:role="line"
-   style="font-size:12.5px;line-height:1.1">F12</tspan>    </text>
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan9789"
+         x="752.93982"
+         y="39.250103">     F12    </tspan></text>
     <text
        id="text5396"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        xml:space="preserve"
        y="39.25008"
-       x="814.13983">       <tspan
-   id="tspan5398"
-   sodipodi:role="line"
-   x="814.13983"
-   y="39.25008"
-   style="font-size:12.5px;line-height:1.1">NumL</tspan>    </text>
+       x="814.13983"><tspan
+         sodipodi:role="line"
+         id="tspan9849"
+         x="814.13983"
+         y="39.25008">  NumL    </tspan></text>
     <text
        id="text5406"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        y="39.25008"
        x="875.33978"
-       xml:space="preserve">       <tspan
-   id="tspan5408"
-   y="39.25008"
-   x="875.33978"
-   sodipodi:role="line"
-   style="font-size:12.5px;line-height:1.1">PrtSc</tspan>    </text>
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan9869"
+         x="875.33978"
+         y="39.25008">  PrtSc    </tspan></text>
     <text
        id="text5416"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        xml:space="preserve"
        y="39.25008"
-       x="936.53979">       <tspan
-   id="tspan5418"
-   sodipodi:role="line"
-   x="936.53979"
-   y="39.25008"
-   style="font-size:12.5px;line-height:1.1">ScrLk</tspan>    </text>
+       x="936.53979"><tspan
+         sodipodi:role="line"
+         id="tspan9889"
+         x="936.53979"
+         y="39.25008">  ScrLk    </tspan></text>
     <text
        id="text5426"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        y="39.25008"
        x="997.73981"
-       xml:space="preserve">       <tspan
-   id="tspan5428"
-   y="39.25008"
-   x="997.73981"
-   sodipodi:role="line"
-   style="font-size:12.5px;line-height:1.1">Pause</tspan>    </text>
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan9909"
+         x="997.73981"
+         y="39.25008">  Pause    </tspan></text>
     <text
        id="text4402"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:14.6667px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
@@ -1393,26 +1389,24 @@
    style="font-size:15px;line-height:1.1">= +</tspan>    </text>
     <text
        id="text5216"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        xml:space="preserve"
        y="82.859863"
-       x="890.19104">       <tspan
-   id="tspan5218"
-   sodipodi:role="line"
-   x="890.19104"
-   y="82.859863"
-   style="font-size:15px;line-height:1.1">Backspace</tspan>    </text>
+       x="890.19104"><tspan
+         sodipodi:role="line"
+         id="tspan9949"
+         x="890.19104"
+         y="82.859863">Backspace    </tspan></text>
     <text
        id="text4656"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        xml:space="preserve"
        y="82.859848"
-       x="992.79108">       <tspan
-   id="tspan4658"
-   sodipodi:role="line"
-   x="992.79108"
-   y="82.859848"
-   style="font-size:15px;line-height:1.1">Home</tspan>    </text>
+       x="992.79108"><tspan
+         sodipodi:role="line"
+         id="tspan9989"
+         x="992.79108"
+         y="82.859848"> Home    </tspan></text>
     <text
        id="text4394"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:14.6667px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
@@ -1567,15 +1561,14 @@
    style="font-size:15px;line-height:1.1">| \</tspan>    </text>
     <text
        id="text4646"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        y="150.35985"
        x="992.61102"
-       xml:space="preserve">       <tspan
-   id="tspan4648"
-   y="150.35985"
-   x="992.61102"
-   sodipodi:role="line"
-   style="font-size:15px;line-height:1.1">PgUp</tspan>    </text>
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan10009"
+         x="992.61102"
+         y="150.35985"> PgUp    </tspan></text>
     <text
        id="text4386"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:14.6667px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
@@ -1720,15 +1713,14 @@
    style="font-size:15px;line-height:1.1">Enter ↵</tspan>    </text>
     <text
        id="text4636"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        xml:space="preserve"
        y="217.85985"
-       x="992.61102">       <tspan
-   id="tspan4638"
-   sodipodi:role="line"
-   x="992.61102"
-   y="217.85985"
-   style="font-size:15px;line-height:1.1">PgDn</tspan>    </text>
+       x="992.61102"><tspan
+         sodipodi:role="line"
+         id="tspan10049"
+         x="992.61102"
+         y="217.85985"> PgDn    </tspan></text>
     <text
        id="text4378"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:14.6667px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
@@ -1850,19 +1842,16 @@
    style="font-size:15px;line-height:1.1">/ ?</tspan>    </text>
     <text
        id="text4530"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        inkscape:transform-center-x="198.64694"
        inkscape:transform-center-y="182.09302"
        y="285.3385"
        x="840.2901"
-       xml:space="preserve">       <tspan
-   id="tspan4532"
-   y="285.3385"
-   x="840.2901"
-   sodipodi:role="line"
-   style="font-size:15px;line-height:1.1">Shift ⇧<tspan
-   id="tspan6344"
-   style="font-size:15px;line-height:110%;fill:#bababa;stroke:#7e7e7e" /></tspan>    </text>
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan10129"
+         x="840.2901"
+         y="285.3385">  Shift ⇧    </tspan></text>
     <text
        id="text4344"
        style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
@@ -1876,15 +1865,14 @@
    style="font-size:15px;line-height:1.1">↑</tspan>    </text>
     <text
        id="text4626"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        y="285.35983"
        x="992.61102"
-       xml:space="preserve">       <tspan
-   id="tspan4628"
-   y="285.35983"
-   x="992.61102"
-   sodipodi:role="line"
-   style="font-size:15px;line-height:1.1">End</tspan>    </text>
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan10109"
+         x="992.61102"
+         y="285.35983">   End    </tspan></text>
     <text
        id="text4330"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
@@ -1935,26 +1923,24 @@
        x="299.71643">            </text>
     <text
        id="text4586"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        y="352.85983"
        x="587.2511"
-       xml:space="preserve">       <tspan
-   id="tspan4623"
-   y="352.85983"
-   x="587.2511"
-   sodipodi:role="line"
-   style="font-size:15px;line-height:1.1">AltGr</tspan>    </text>
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan10169"
+         x="587.2511"
+         y="352.85983"> AltGr    </tspan></text>
     <text
        id="text4826"
-       style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:16px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#bababa"
        xml:space="preserve"
        y="352.49426"
-       x="654.50885">       <tspan
-   id="tspan4828"
-   sodipodi:role="line"
-   x="654.50885"
-   y="352.49426"
-   style="font-size:15px;line-height:1.1">Menu</tspan>    </text>
+       x="654.50885"><tspan
+         sodipodi:role="line"
+         id="tspan10189"
+         x="654.50885"
+         y="352.49426"> Menu    </tspan></text>
     <text
        id="text4836"
        style="font-weight:bold;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#bababa"
