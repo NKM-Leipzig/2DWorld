@@ -529,7 +529,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.weimarnetz.de\/robbycar\u00b4"
+                 "value":"meet.weimarnetz.de\/robbycar"
                 }],
          "type":"tilelayer",
          "visible":true,
