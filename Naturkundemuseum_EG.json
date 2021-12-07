@@ -157,7 +157,7 @@
                 {
                  "name":"startLayer",
                  "type":"string",
-                 "value":"Naturkundemuseum_1OG.json#geheimgang"
+                 "value":"Naturkundemuseum_EG.json#geheimgang"
                 }],
          "type":"tilelayer",
          "visible":true,
