@@ -527,9 +527,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"robbycar"
+                }, 
+                {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.weimarnetz.de\/robbycar"
+                 "value":"meet.weimarnetz.de"
                 }],
          "type":"tilelayer",
          "visible":true,
