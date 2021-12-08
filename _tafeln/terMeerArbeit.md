@@ -1,5 +1,5 @@
 ---
-title: "Herman ter Meer"
+title: "Herman ter Meer - ein Arbeitstier"
 layout: archive
 classes: wide
 gallery:
@@ -60,6 +60,6 @@ gallery:
 
 {% include gallery caption="Die Bilder zeigen Einblicke in das Arbeitsleben von Herman H. ter Meer" %}
 
-Leider haben wir wieder geschlossen. Und wieder wartet eine Sonderausstellung und ein spannendes Thema auf Besucher*innen.
+Leider haben wir wieder geschlossen. Und wieder warten eine Sonderausstellung und ein spannendes Thema auf Besucher*innen.
 
-Wir wollten euch gerne einen Einblick geben und zeigen deshalb hier Bilder, die zum Teil in der Ausstellung zu sehen sind, zum Teil aber auch exklusiv hier zu entdecken sind. 
+Wir wollten euch gerne einen Einblick geben und zeigen deshalb hier Bilder, die zum Teil in der Ausstellung zu sehen, zum Teil aber auch exklusiv hier zu entdecken sind. Sie zeigen die Arbeit des Präparators Herman H. ter Meer. Er arbeite nach seiner Ausbildung in Leiden (NL) und Stuttgart an der Universität Leipzig. Dort präparierte er zahlreiche heimische und exotische Tiere, von denen inzwischen Viele zur Sammlung des Naturkundemuseums Leipzig gehören.

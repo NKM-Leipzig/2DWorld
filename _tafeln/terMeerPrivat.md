@@ -45,6 +45,8 @@ gallery:
 
 {% include gallery caption="Die Bilder zeigen Einblicke in das Privatleben von Herman H. ter Meer" %}
 
-Leider haben wir wieder geschlossen. Und wieder wartet eine Sonderausstellung und ein spannendes Thema auf Besucher*innen.
+Leider haben wir wieder geschlossen. Und wieder warten eine Sonderausstellung und ein spannendes Thema auf Besucher*innen.
 
-Wir wollten euch gerne einen Einblick geben und zeigen deshalb hier Bilder, die zum Teil in der Ausstellung zu sehen sind, zum Teil aber auch exklusiv hier zu entdecken sind. 
+Wir wollten euch gerne einen Einblick geben und zeigen deshalb hier Bilder, die zum Teil in der Ausstellung zu sehen, zum Teil aber auch exklusiv hier zu entdecken sind. 
+
+Neben seiner Arbeit liebte der Präparator Herman H. ter Meer natürlich auch seine Familie. Seine Frau und seine Tochter Edith lebten mit ihm in der Kochstraße 111 in Leipzig. Die Bilder zeigen die Drei beim Wandern, Schlittschuhlaufen und in ihremm Zuhause.
