@@ -1,61 +1,46 @@
 ---
-title: "Herman ter Meer"
+title: "Herman ter Meer in seinem privaten Umfeld"
 layout: archive
 classes: wide
 gallery:
-  - url: /img/Sperrgebiete1.jpg
-    image_path: /img/thumbs/Sperrgebiete1_thumb.jpg
-    alt: "Ausstellungsbanner Sperrgebiete"
-    title: "Ausstellungsbanner der Sonderausstellung Sperrgebiete"
-  - url: /img/Sperrgebiete2.jpg
-    image_path: /img/thumbs/Sperrgebiete2_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Nachbildung einer Mülldeponie" 
-  - url: /img/Sperrgebiete3.jpg
-    image_path: /img/thumbs/Sperrgebiete3_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Einblick in die Museumsmagazine"
-  - url: /img/Sperrgebiete4.jpg
-    image_path: /img/thumbs/Sperrgebiete4_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Der Wolf"
-  - url: /img/Sperrgebiete5.jpg
-    image_path: /img/thumbs/Sperrgebiete5_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Der Luchs"
-  - url: /img/Sperrgebiete6.jpg
-    image_path: /img/thumbs/Sperrgebiete6_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Der Bartgeier"
-  - url: /img/Sperrgebiete7.jpg
-    image_path: /img/thumbs/Sperrgebiete7_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Der Waschbär"
-  - url: /img/Sperrgebiete8.jpg
-    image_path: /img/thumbs/Sperrgebiete8_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Einblicke in die Durchblickvitrinen der Sonderausstellung"
-  - url: /img/Sperrgebiete9.jpg
-    image_path: /img/thumbs/Sperrgebiete9_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Falter in der Sonderausstellung"
-  - url: /img/Sperrgebiete10.jpg
-    image_path: /img/thumbs/Sperrgebiete10_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Schrecke auf einem Totholz"
-  - url: /img/Sperrgebiete11.jpg
-    image_path: /img/thumbs/Sperrgebiete11_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Schrecken im Flug"
-  - url: /img/Sperrgebiete12.jpg
-    image_path: /img/thumbs/Sperrgebiete12_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Einblicke in die Durchblickvitrinen der Sonderausstellung"
-  - url: /img/Sperrgebiete13.jpg
-    image_path: /img/thumbs/Sperrgebiete13_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Kröte im Sand"
 
+  - url: /img/Herman und Edith ter Meer, 5 Wochen, 6.11.1904.jpg
+    image_path: /img/thumbs/Herman und Edith ter Meer, 5 Wochen, 6.11.1904_thumb.jpg
+    alt: "Herman ter Meer mit seiner Tocher Edith"
+    title: "Herman ter Meer 1904 mit seiner 5 Wochen alten Tochter Edith"
+  - url: /img/Herman und Edith ter Meer, 1913.jpg
+    image_path: /img/thumbs/Herman und Edith ter Meer, 1913_thumb.jpg
+    alt: "Herman und Edith ter Meer"
+    title: "Herman und Edith ter Meer 1913"
+  - url: /img/Familie ter Meer Kochstraße 111.jpg
+    image_path: /img/thumbs/Familie ter Meer Kochstraße 111_thumb.jpg
+    alt: "Herman ter Meer mit seiner Familie"
+    title: "Herman ter Meer mit seiner Familie in der Wohnung Kochstraße 111"
+  - url: /img/Familie ter Meer, Sächsische Schweiz 1916.tif
+    image_path: /img/thumbs/Familie ter Meer, Sächsische Schweiz 1916_thumb.jpg
+    alt:"Familie ter Meer in der Sächsischen Schweiz"
+    title: "Familie ter Meer 1916 beim Wandern in der Sächischen Schweiz"
+  - url: /img/Herman ter Meer, Schlittschulauf auf Pleiße,1920.jpg
+    image_path: /img/thumbs/Herman ter Meer, Schlittschulauf auf Pleiße,1920_thumb.jpg
+    alt: "Herman ter Meer beim Schlittschuhlaufen"
+    title: "Herman ter Meer 1920 beim Schlittschuhlaufen auf der Pleiße"
+  - url: /img/Weihnachten 1927, Kochstraße 111.jpg
+    image_path: /img/thumbs/Weihnachten 1927, Kochstraße 111_thumb.jpg
+    alt: "Herman ter Meer im Kreise seiner Familie"
+    title: "Herman ter Meer im Kreise seiner Familie an Weihnachten 1927"
+  - url: /img/Herman ter Meer, Scheveningen, 1928.tif
+    image_path: /img/thumbs/Herman ter Meer, Scheveningen, 1928_thumb.jpg
+    alt: "Herman ter Meer in Scheveningen"
+    title: "Herman ter Meer 1929 in Scheveningen an der Nordsee"
+  - url: /img/Familie ter Meer, Dolomiten, 1929.jpg
+    image_path: /img/thumbs/Familie ter Meer, Dolomiten, 1929_thumb.jpg
+    alt: "Familie ter Meer in den Dolomiten"
+    title: "Familie ter Meer 1929 in den Dolomiten"
+  - url: /img/Herman ter Meer, 1930.tif
+    image_path: /img/thumbs/Herman ter Meer, 1930_thumb.jpg
+    alt: "Herman ter Meer 1930"
+    title: "Herman ter Meer 1930 beim Wandern" 
+    
 ---
 
 {% include gallery caption="Die Bilder zeigen Einblicke in das Privatleben von Herman H. ter Meer" %}
