@@ -58,7 +58,7 @@ gallery:
 
 ---
 
-{% include gallery caption="Einblicke in die Sonderausstellung "Sperrgebiete" 2021 im Naturkundemuseum Leipzig" %}
+{% include gallery caption="Einblicke in die Sonderausstellung Sperrgebiete 2021 im Naturkundemuseum Leipzig" %}
 
 Im Oktober 2021 wurde die letzte Ausstellung der 4x6-Ausstellungsreihe mit dem Titel "Sperrgebiete" im Naturkundemuseum Leipzig abgebaut. Hier bleibt sie in Bildern weiter erlebbar.
 
