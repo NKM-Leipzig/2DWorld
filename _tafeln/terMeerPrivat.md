@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Herman ter Meer in seinem privaten Umfeld"
 layout: archive
 classes: wide
