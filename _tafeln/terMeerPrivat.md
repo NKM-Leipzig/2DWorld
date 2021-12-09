@@ -3,7 +3,6 @@ title: "Herman ter Meer in seinem privaten Umfeld"
 layout: archive
 classes: wide
 gallery:
-
   - url: /img/Herman_Edith_1904.jpg
     image_path: /img/thumbs/Herman_Edith_1904_thumb.jpg
     alt: "Herman ter Meer mit seiner Tocher Edith"
@@ -40,7 +39,6 @@ gallery:
     image_path: /img/thumbs/Herman_1930_thumb.jpg
     alt: "Herman ter Meer 1930"
     title: "Herman ter Meer 1930 beim Wandern"
-
 ---
 
 {% include gallery caption="Die Bilder zeigen Einblicke in das Privatleben von Herman H. ter Meer" %}
