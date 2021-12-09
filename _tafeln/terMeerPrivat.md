@@ -45,8 +45,8 @@ gallery:
 
 {% include gallery caption="Die Bilder zeigen Einblicke in das Privatleben von Herman H. ter Meer" %}
 
-Leider haben wir wieder geschlossen. Und wieder warten eine Sonderausstellung und ein spannendes Thema auf Besucher*innen.
+Leider hat das Naturkundemuseum Leipzig wieder geschlossen. Und wieder warten eine Sonderausstellung und ein spannendes Thema auf Besucher*innen. Dieses Mal ist es die Sonderausstellung "Mit Haut und Haar - Herman H. ter Meer Tierpräparator aus Leydenschaft".
 
-Wir wollten euch gerne einen Einblick geben und zeigen deshalb hier Bilder, die zum Teil in der Ausstellung zu sehen, zum Teil aber auch exklusiv hier zu entdecken sind.
+Hier bekommt ihr einen Einblick in Originalfotografien aus dem Fotoalbum der Familie ter Meer, die zum Teil in der Ausstellung zu sehen, zum Teil aber auch exklusiv hier zu entdecken sind.
 
-Neben seiner Arbeit liebte der Präparator Herman H. ter Meer natürlich auch seine Familie. Seine Frau und seine Tochter Edith lebten mit ihm in der Kochstraße 111 in Leipzig. Die Bilder zeigen die Drei beim Wandern, Schlittschuhlaufen und in ihremm Zuhause.
+Neben seiner Arbeit liebte der Präparator Herman H. ter Meer besonders seine Familie. Seine Frau und seine Tochter Edith lebten mit ihm in der Kochstraße 111 in Leipzig. Die Bilder zeigen die Drei beim Wandern, Schlittschuhlaufen und in ihrem Zuhause.
