@@ -11,10 +11,6 @@ gallery:
     image_path: /img/thumbs/AtelierZoologischesInstitut_nach1907_thumb.jpg
     alt: "Herman ter Meer im Atelier"
     title: "Herman ter Meer in seinem Atelier im Zoologischen Institut, Aufnahme nach 1907"
-  - url: /img/OrangUtan_1909.jpg
-    image_path: /img/thumbs/OrangUtan_1909_thumb.jpg
-    alt: "Arbeitsschritte Orang Utan-Präparat"
-    title: "Einblick in die Entstehung eines Präparats in vier Schritten am Beispiel eines Orang Utan, 1909"
   - url: /img/LiebkosendeTiger_1913.jpg
     image_path: /img/thumbs/LiebkosendeTiger_1913_thumb.jpg
     alt: "Präparat zweier Tiger"
@@ -23,14 +19,18 @@ gallery:
     image_path: /img/thumbs/Walross_1914_thumb.jpg
     alt: "Walross 1914"
     title: "Die Dermoplastik eines Walrosses, noch ohne Haut, entstand 1914. Heute ist das Präparat wieder zurück im Naturkundemuseum Leipzig."
-  - url: /img/SitzendeLoewin_1916.jpg
-    image_path: /img/thumbs/SitzendeLoewin_1916_thumb.jpg
-    alt: "Präparat einer sitzenden Löwin"
-    title: "Die Löwin Mia lebte im Leipziger Zoo. Nach ihrem Tod 1916 wurde die von ter Meer präapatiert. Heute steht sie im Naturkundemuseum Leipzig."
   - url: /img/Atelier_1924.jpg
     image_path: /img/thumbs/Atelier_1924_thumb.jpg
     alt: "Herman ter Meer im Atelier"
     title: "Herman ter Meer in seinem Atelier, 1924"
+  - url: /img/OrangUtan_1909.jpg
+    image_path: /img/thumbs/OrangUtan_1909_thumb.jpg
+    alt: "Arbeitsschritte Orang Utan-Präparat"
+    title: "Einblick in die Entstehung eines Präparats in vier Schritten am Beispiel eines Orang Utan, 1909"
+  - url: /img/SitzendeLoewin_1916.jpg
+    image_path: /img/thumbs/SitzendeLoewin_1916_thumb.jpg
+    alt: "Präparat einer sitzenden Löwin"
+    title: "Die Löwin Mia lebte im Leipziger Zoo. Nach ihrem Tod 1916 wurde die von ter Meer präapatiert. Heute steht sie im Naturkundemuseum Leipzig."
 
 ---
 

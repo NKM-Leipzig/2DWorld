@@ -16,7 +16,7 @@ gallery:
     alt: "Herman ter Meer mit seiner Familie"
     title: "Herman ter Meer mit seiner Familie in der Wohnung Kochstraße 111"
   - url: /img/Familie_Saechsische_Schweiz_1916.jpg
-    image_path: /img/thumbs/Familie_Saechsische_Schweiz_1916.jpg
+    image_path: /img/thumbs/Familie_Saechsische_Schweiz_1916_thumb.jpg
     alt: "Beim Wandern in der Sächsischen Schweiz"
     title: "Familie ter Meer 1916 beim Wandern in der Sächsischen Schweiz"  
   - url: /img/Herman_Schlittschuhlauf_1920.jpg
