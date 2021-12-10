@@ -560,6 +560,12 @@
          "id":47,
          "name":"Insekt des Jahres 2022",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/Kamelhalsfliege"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -785,7 +791,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -4096,6 +4102,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":46
 }
