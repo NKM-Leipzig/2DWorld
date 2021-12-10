@@ -23,6 +23,10 @@ gallery:
     image_path: /img/thumbs/Atelier_1924_thumb.jpg
     alt: "Herman ter Meer im Atelier"
     title: "Herman ter Meer in seinem Atelier, 1924"
+  - url: /img/Privatatelier_Kochstrasse.jpg
+    image_path: /img/thumbs/Privatatelier_Kochstrasse_thumb.jpg
+    alt: "Herman ter Meer im Atelier"
+    title: "Herman ter Meer in seinem Privatatelier in seinem Wohnhaus Kochstraße 111"  
   - url: /img/OrangUtan_1909.jpg
     image_path: /img/thumbs/OrangUtan_1909_thumb.jpg
     alt: "Arbeitsschritte Orang Utan-Präparat"
