@@ -3,62 +3,38 @@ title: "Herman ter Meer - ein Arbeitstier"
 layout: archive
 classes: wide
 gallery:
-  - url: /img/Sperrgebiete1.jpg
-    image_path: /img/thumbs/Sperrgebiete1_thumb.jpg
-    alt: "Ausstellungsbanner Sperrgebiete"
-    title: "Ausstellungsbanner der Sonderausstellung Sperrgebiete"
-  - url: /img/Sperrgebiete2.jpg
-    image_path: /img/thumbs/Sperrgebiete2_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Nachbildung einer Mülldeponie" 
-  - url: /img/Sperrgebiete3.jpg
-    image_path: /img/thumbs/Sperrgebiete3_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Einblick in die Museumsmagazine"
-  - url: /img/Sperrgebiete4.jpg
-    image_path: /img/thumbs/Sperrgebiete4_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Der Wolf"
-  - url: /img/Sperrgebiete5.jpg
-    image_path: /img/thumbs/Sperrgebiete5_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Der Luchs"
-  - url: /img/Sperrgebiete6.jpg
-    image_path: /img/thumbs/Sperrgebiete6_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Der Bartgeier"
-  - url: /img/Sperrgebiete7.jpg
-    image_path: /img/thumbs/Sperrgebiete7_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Der Waschbär"
-  - url: /img/Sperrgebiete8.jpg
-    image_path: /img/thumbs/Sperrgebiete8_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Einblicke in die Durchblickvitrinen der Sonderausstellung"
-  - url: /img/Sperrgebiete9.jpg
-    image_path: /img/thumbs/Sperrgebiete9_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Falter in der Sonderausstellung"
-  - url: /img/Sperrgebiete10.jpg
-    image_path: /img/thumbs/Sperrgebiete10_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Schrecke auf einem Totholz"
-  - url: /img/Sperrgebiete11.jpg
-    image_path: /img/thumbs/Sperrgebiete11_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Schrecken im Flug"
-  - url: /img/Sperrgebiete12.jpg
-    image_path: /img/thumbs/Sperrgebiete12_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Einblicke in die Durchblickvitrinen der Sonderausstellung"
-  - url: /img/Sperrgebiete13.jpg
-    image_path: /img/thumbs/Sperrgebiete13_thumb.jpg
-    alt: "Sperrgebiete"
-    title: "Kröte im Sand"
+  - url: /img/ZoologischesInstitut_nach1907.jpg
+    image_path: /img/thumbs/ZoologischesInstitut_nach1907_thumb.jpg
+    alt: "Atelier im Zoologischen Institut"
+    title: "Herman ter Meers Atelier im Zoologischen Institut, Aufnahme nach 1907"
+  - url: /img/AtelierZoologischesInstitut_nach1907.jpg
+    image_path: /img/thumbs/AtelierZoologischesInstitut_nach1907_thumb.jpg
+    alt: "Herman ter Meer im Atelier"
+    title: "Herman ter Meer in seinem Atelier im Zoologischen Institut, Aufnahme nach 1907"
+  - url: /img/OrangUtan_1909.jpg
+    image_path: /img/thumbs/OrangUtan_1909_thumb.jpg
+    alt: "Arbeitsschritte Orang Utan-Präparat"
+    title: "Einblick in die Entstehung eines Präparats in vier Schritten am Beispiel eines Orang Utan, 1909"
+  - url: /img/LiebkosendeTiger_1913.jpg
+    image_path: /img/thumbs/LiebkosendeTiger_1913_thumb.jpg
+    alt: "Präparat zweier Tiger"
+    title: "Die liebkosenenden Tigergeschwister fertige ter Meer 1913 an."
+  - url: /img/Walross_1914.jpg
+    image_path: /img/thumbs/Walross_1914_thumb.jpg
+    alt: "Walross 1914"
+    title: "Die Dermoplastik eines Walrosses, noch ohne Haut, entstand 1914. Heute ist das Präparat wieder zurück im Naturkundemuseum Leipzig."
+  - url: /img/SitzendeLoewin_1916.jpg
+    image_path: /img/thumbs/SitzendeLoewin_1916_thumb.jpg
+    alt: "Präparat einer sitzenden Löwin"
+    title: "Die Löwin Mia lebte im Leipziger Zoo. Nach ihrem Tod 1916 wurde die von ter Meer präapatiert. Heute steht sie im Naturkundemuseum Leipzig."
+  - url: /img/Atelier_1924.jpg
+    image_path: /img/thumbs/Atelier_1924_thumb.jpg
+    alt: "Herman ter Meer im Atelier"
+    title: "Herman ter Meer in seinem Atelier, 1924"
 
 ---
 
-{% include gallery caption="Die Bilder zeigen Einblicke in das Arbeitsleben von Herman H. ter Meer" %}
+{% include gallery caption="Die Bilder zeigen Einblicke in das Arbeitsleben und die Präparate von Herman H. ter Meer" %}
 
 Leider haben wir wieder geschlossen. Und wieder warten eine Sonderausstellung und ein spannendes Thema auf Besucher*innen.
 
