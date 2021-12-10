@@ -11,12 +11,12 @@ gallery:
     image_path: /img/thumbs/Herman_Edith_1913_thumb.jpg
     alt: "Herman und Edith ter Meer"
     title: "Herman und Edith ter Meer 1913"
-  - url: /img/Familie_Kochstraße_111.jpg
-    image_path: /img/thumbs/Familie_Kochstraße_111_thumb.jpg
+  - url: /img/Familie_Kochstrasse_111.jpg
+    image_path: /img/thumbs/Familie_Kochstrasse_111_thumb.jpg
     alt: "Herman ter Meer mit seiner Familie"
     title: "Herman ter Meer mit seiner Familie in der Wohnung Kochstraße 111"
-  - url: /img/Familie_Sächsische_Schweiz_1916.tif
-    image_path: /img/thumbs/Familie_Sächsische_Schweiz_1916_thumb.jpg
+  - url: /img/Familie_Saechsische_Schweiz_1916.tif
+    image_path: /img/thumbs/Familie_Saechsische_Schweiz_1916_thumb.jpg
     alt: "Familie ter Meer in der Sächsischen Schweiz"
     title: "Familie ter Meer 1916 beim Wandern in der Sächischen Schweiz"
   - url: /img/Herman_Schlittschuhlauf_1920.jpg

@@ -160,7 +160,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"Naturkundemuseum_1OG.json#EingangvonDschungel"
                 }],
