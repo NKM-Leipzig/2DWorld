@@ -15,10 +15,6 @@ gallery:
     image_path: /img/thumbs/Familie_Kochstrasse_111_thumb.jpg
     alt: "Herman ter Meer mit seiner Familie"
     title: "Herman ter Meer mit seiner Familie in der Wohnung Kochstraße 111"
-  - url: /img/Familie_Saechsische_Schweiz_1916.tif
-    image_path: /img/thumbs/Familie_Saechsische_Schweiz_1916_thumb.jpg
-    alt: "Familie ter Meer in der Sächsischen Schweiz"
-    title: "Familie ter Meer 1916 beim Wandern in der Sächischen Schweiz"
   - url: /img/Herman_Schlittschuhlauf_1920.jpg
     image_path: /img/thumbs/Herman_Schlittschuhlauf_1920_thumb.jpg
     alt: "Herman ter Meer beim Schlittschuhlaufen"
@@ -27,7 +23,7 @@ gallery:
     image_path: /img/thumbs/Weihnachten_1927_thumb.jpg
     alt: "Herman ter Meer im Kreise seiner Familie"
     title: "Herman ter Meer im Kreise seiner Familie an Weihnachten 1927"
-  - url: /img/Herman_Scheveningen_1928.tif
+  - url: /img/Herman_Scheveningen_1928.jpg
     image_path: /img/thumbs/Herman_Scheveningen_1928_thumb.jpg
     alt: "Herman ter Meer in Scheveningen"
     title: "Herman ter Meer 1929 in Scheveningen an der Nordsee"
@@ -35,7 +31,7 @@ gallery:
     image_path: /img/thumbs/Familie_Dolomiten_1929_thumb.jpg
     alt: "Familie ter Meer in den Dolomiten"
     title: "Familie ter Meer 1929 in den Dolomiten"
-  - url: /img/Herman_1930.tif
+  - url: /img/Herman_1930.jpg
     image_path: /img/thumbs/Herman_1930_thumb.jpg
     alt: "Herman ter Meer 1930"
     title: "Herman ter Meer 1930 beim Wandern"
