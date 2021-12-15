@@ -6,7 +6,7 @@ classes: wide
 
 Hallo! Schön, dass du da bist! Ich bin Robby. Ich bin der neuste Mitarbeiter im Naturkundemuseum.
 
-Du kannst gemeinsam mit mir die neue Sonderausstellung "Mit Haut und Haar" entdecken. Wenn du gleich zu mir gehst (ein paar Felder zur Seite), kannst du mich über den Chat steuer. Der Chast versteckt sich hinter der kleinen Sprechblase.
+Du kannst gemeinsam mit mir die neue Sonderausstellung "Mit Haut und Haar" entdecken. Wenn du gleich zu mir gehst (ein paar Felder zur Seite), kannst du mich über den Chat steuern. Der Chat versteckt sich hinter der kleinen Sprechblase.
 
 Schicke mir bitte Nachrichten im Chat:
 
