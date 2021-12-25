@@ -695,7 +695,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/technik_kleinplastiken"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/technikkleinplastiken"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -727,6 +727,12 @@
          "id":75,
          "name":"ter Meer Walross",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"\/home\/moni\/Dokumente\/GitHub\/2DWorld\/videos\/Walross.wav"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,

@@ -20,4 +20,6 @@ Nadine Baum (Sammlungsmanagement), Stefanie Grzybek (Bildung und Vermittlung), M
 
 **Tilesets** Mit freundlichem Dank entliehen in der [Chaoszone](https://twitter.com/chaosz0ne?lang=de){:target="blank"}, beim [krautspace Jena](https://kraut.space/){:target="_blank"}, im [Maschinenraum](https://blog.maschinenraum.tk){:target="_blank"} und vielen anderen.
 
+**Tierstimmen** Walross (CC BY-SA), Copyright Tierstimmenarchiv | Museum für Naturkunde - Leibniz-Institut für Evolutions- und Biodiversitätsforschung
+
 **Special Thanks** ♥ Für die unentbehrliche Unterstützung bei der Bereitstellung dieser Seiten danken wir den Vereinen [dezentrale e. V.](https://dezentrale.space){:target="_blank"} und [weimarnetz e.V.](https://weimarnetz.de){:target="_blank"}. Für die zusätzliche Zeit und Mühe beim Schneiden unserer Filme herzlichen Dank an [Stephan Dietze (Anders Drehen)](https://www.anders-drehen.de/){:target="_blank"}. ♥
