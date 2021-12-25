@@ -1,13 +1,11 @@
 ---
-title: "Präparation"
+title: "Herman ter Meer im Arbeitsleben"
 layout: archive
 classes: wide
 
 ---
 
-Wozu dienten Herman ter Meer die Kleinplastiken, die er in großer Zahl angefertigt hat?
-
-Diese Frage hat sich auch Henriette Joseph gestellt und sie an unseren Präparator René Diebitz weitergegeben. Hier erfahrt ihr mehr dazu:
+Präparator René Diebitz erzählt, was ein Präparator braucht und wie ter Meer im Arbeitsumfeld war.
 
 <div class="video">
   <video id="theplayer" autoplay="autoplay" height="360px" controls="controls" src="https://world.naturkunde.museum/videos/termeer-praeparator.webm">
