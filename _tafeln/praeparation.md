@@ -1,5 +1,5 @@
 ---
-title: "Kleinplastiken"
+title: "Präparation"
 layout: archive
 classes: wide
 

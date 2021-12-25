@@ -695,7 +695,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/technikkleinplastiken"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/technikkleinplastik"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -1,5 +1,5 @@
 ---
-title: "Kleinplastiken"
+title: "Wie entstand eine Kleinplastik?"
 layout: archive
 classes: wide
 
