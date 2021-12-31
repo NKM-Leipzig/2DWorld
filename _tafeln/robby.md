@@ -4,7 +4,7 @@ layout: archive
 classes: wide
 ---
 
-[![Weihnachtsgrüße von Robby](/img/thumbs/WeihnachtenRobby_thumb.png)](/img/WeihnachtenRobby.png){: style="float: right"}
+[![Robby wünscht einen guten Rutsch](/img/thumbs/SilvesterRobby_thumb.png)](/img/SilvesterRobby.png){: style="float: right"}
 
 Hallo! Schön, dass du da bist! Ich bin Robby. Ich bin der neuste Mitarbeiter im Naturkundemuseum.
 
