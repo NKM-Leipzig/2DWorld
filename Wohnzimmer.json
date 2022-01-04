@@ -28,7 +28,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.7
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"videos\/Epic.ogg"
                 }],
