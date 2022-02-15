@@ -18,6 +18,6 @@ Schicke mir bitte Nachrichten im Chat:
 
 Wenn hier richtig viel los ist und alle durcheinander sprechen, dann entscheide ich mich alle drei Sekunden für die am häufigsten gewünschte Fahrtrichtung. Ich kann leider nicht alles gleichzeitig für euch machen!
 
-Bitte sei nicht böse, wenn du mich hier einmal nicht antriffst. Ich bin ziemlich zuverlässig montags bis freitags von 9-17 Uhr im Museum. Danach habe ich Feierabend und rolle schnell nach Hause (ich habe ein bisschen Angst im Dunkeln). Wenn ich zwischendurch einmal nicht da bin, dann habe ich vielleicht schlapp gemacht. Es ist alles noch ganz neu für mich im Museum und super aufregend! Wenn ich mich dann erholt habe, bin ich aber sofort wieder da!
+Bitte sei nicht böse, wenn du mich hier einmal nicht antriffst. Weil das Museum wieder geöffnet ist, bin ich ziemlich zuverlässig von 9-17 Uhr im Museum. Danach habe ich Feierabend und rolle schnell nach Hause (ich habe ein bisschen Angst im Dunkeln). Wenn ich einmal nicht da bin, dann habe ich vielleicht schlapp gemacht. Es ist alles noch ganz neu für mich im Museum und super aufregend! Wenn ich mich dann erholt habe, bin ich aber sofort wieder da! An den anderen Tagen der Woche laufen Besucher*innen durch das Haus, denen möchte ich nicht über die Füße fahren.
 
-Und jetzt lass uns endlich loslegen! 
+Und jetzt lass uns endlich loslegen!
