@@ -373,7 +373,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"C:\/Users\/HegenbergMo\/Desktop\/GitHub\/2DWorld\/videos\/cashier.wav"
+                 "value":"videos\/cashier.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
