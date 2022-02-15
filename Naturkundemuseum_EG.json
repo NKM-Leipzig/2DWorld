@@ -373,11 +373,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-<<<<<<< HEAD
-                 "value":"cashier.wav"
-=======
                  "value":"videos\/cashier.wav"
->>>>>>> bf358b34b6f0e309a29b6f685438753cbbc93a2e
                 }],
          "type":"tilelayer",
          "visible":true,
