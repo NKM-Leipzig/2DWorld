@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-[![](/img/thumbs/Gips.thumb.jpg)](/img/Gips.jpg)
+[![](/img/thumbs/Gips_thumb.jpg)](/img/Gips.jpg)
 *<br>Wenn Gips Sandkörner umschließt, entstehen sogenannte Sandrosen.*
 {% include gallery class="full" layout="" caption="Für eine größere Darstellung klicke bitte auf das Bild." %}
 

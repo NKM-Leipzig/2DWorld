@@ -7,7 +7,6 @@ classes: wide
 
 [![](/img/thumbs/Topas_thumb.jpg)](/img/Topas.jpg)
 *<br>Topaskristall aus einer Fundstätte in Pakistan*
-
 {% include gallery class="full" layout="" caption="Für eine größere Darstellung klicke bitte auf das Bild." %}
 
 Der Topas ist auch unter dem Namen "Sächsischer Diamant" bekannt. Eventuell verdankt er diesen Namen seiner Bruchfläche bei Spaltung: sowohl Diamant als auch Topas brechen mit vollkommen glatten Flächen. Eine andere Theorie findest du weiter unten im Text.
