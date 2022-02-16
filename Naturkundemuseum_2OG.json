@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"tafeln\/Fischotter.md"
+                 "value":"tafeln\/Fischotter"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"tafeln\/Rotkehlchen.md"
+                 "value":"tafeln\/Rotkehlchen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"tafeln\/Gestein.md"
+                 "value":"tafeln\/Gestein"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"tafeln\/Eintagsfliege.md"
+                 "value":"tafeln\/Eintagsfliege"
                 }],
          "type":"tilelayer",
          "visible":true,

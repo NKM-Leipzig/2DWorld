@@ -456,7 +456,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/Gips.md"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/Gips"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -528,7 +528,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"tafeln\/Topas.md"
+                 "value":"tafeln\/Topas"
                 }],
          "type":"tilelayer",
          "visible":true,
