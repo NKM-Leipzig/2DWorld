@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-[![](/img/thumbs/Zettel_thumb.jpg)](/img/Zettel.jpg)
+[![](/img/thumbs/Zettel_thumb.png)](/img/Zettel.png)
 *<br>Der Notizzettel klebt an deiner Hand*
 {% include gallery class="full" layout="" caption="Für eine größere Darstellung klicke bitte auf das Bild." %}
 
