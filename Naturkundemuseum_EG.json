@@ -359,7 +359,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"startLayer",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_NKML\/trixmix.tv\/welt\/trixmix_hell\/bahnsteig.json"
                 }],
