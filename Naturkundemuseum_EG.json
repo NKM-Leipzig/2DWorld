@@ -357,6 +357,12 @@
          "id":78,
          "name":"StopMotionZug",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_NKML\/trixmix.tv\/welt\/trixmix_hell\/bahnsteig.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
