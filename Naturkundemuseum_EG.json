@@ -36,7 +36,7 @@
          "properties":[
                 {
                  "name":"openWebsite",
-                 "type":"file",
+                 "type":"string",
                  "value":"tafeln\/Museumspreis"
                 }],
          "type":"tilelayer",
