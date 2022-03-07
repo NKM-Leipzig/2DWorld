@@ -433,10 +433,10 @@
         {
          "name":"script",
          "type":"string",
-         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
+         "value":"https:\/\/world.naturkunde.museum\/assets\/js\/wa-bundle.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.8.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1980,6 +1980,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.8",
  "width":46
 }
