@@ -605,7 +605,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/naturkundemuseum.leipzig.de\/zukunft-des-museums\/jugendaufsichtsrat\/"
+                 "value":"http:\/\/aufsichtsrat.naturkundemuseum-leipzig.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
