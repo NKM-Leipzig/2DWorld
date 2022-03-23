@@ -358,6 +358,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/kulturlichter-preis.de\/preisverleihung#abstimmen"
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/retrowelt.naturkunde.museumvideos\/Abstimmung-Retrowelt.m4a"
@@ -407,6 +412,11 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "properties":[
+        {
+         "name":"openWebsite",
+         "type":"string",
+         "value":""
+        }, 
         {
          "name":"playAudio",
          "type":"file",
