@@ -413,17 +413,12 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"openWebsite",
-         "type":"string",
-         "value":""
-        }, 
-        {
          "name":"playAudio",
          "type":"file",
          "value":"videos\/Klingel.m4a"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.2",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1957,6 +1952,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":1.5,
  "width":40
 }
