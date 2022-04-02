@@ -342,7 +342,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/maps.world.dezentrale.cloud\/main.json#entry_nkl"
+                 "value":"https:\/\/play.world.dezentrale.cloud\/_\/global\/maps.world.dezentrale.cloud\/dezentrale\/main.json#entry_nkl"
                 }],
          "type":"tilelayer",
          "visible":true,
