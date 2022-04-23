@@ -110,7 +110,7 @@
          "properties":[
                 {
                  "name":"playAudio",
-                 "type":"file",
+                 "type":"string",
                  "value":"videos\/schnarch.ogg"
                 }],
          "type":"tilelayer",
@@ -233,7 +233,7 @@
          "properties":[
                 {
                  "name":"exitUrl",
-                 "type":"file",
+                 "type":"string",
                  "value":"Naturkundemuseum_EG.json"
                 }],
          "type":"tilelayer",
@@ -493,12 +493,6 @@
          "id":1,
          "name":"W\u00e4nde",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -607,7 +601,7 @@
          "properties":[
                 {
                  "name":"openWebsite",
-                 "type":"file",
+                 "type":"string",
                  "value":"https:\/\/world.naturkunde.museum\/movie.html?media=Eimer.mp4"
                 }],
          "type":"tilelayer",
@@ -683,7 +677,7 @@
          "properties":[
                 {
                  "name":"playAudio",
-                 "type":"file",
+                 "type":"string",
                  "value":"videos\/Klingel.m4a"
                 }],
          "type":"tilelayer",
@@ -965,9 +959,24 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"playAudio",
-         "type":"file",
-         "value":"videos\/Klingel.m4a"
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Naturkundemuseum Leipzig\nMonika Hegenberg"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Naturkundemuseum 1.0 - Retrowelt\n\nDieses Projekt macht das Naturkundemuseum Leipzig auf eine ganz andere Art erfahrbar."
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/retrowelt.naturkunde.museum"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Vorgarten Naturkundemuseum Leipzig"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.8.4",
@@ -981,6 +990,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"terrain_atlas",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 by LPC, https:\/\/lpc.opengameart.org\/"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1013,6 +1028,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"fantasy",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset 32x32 by pipoya https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -1153,6 +1174,12 @@
          "imagewidth":2240,
          "margin":0,
          "name":"poke",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ChaoticCherryCake and others, see http:\/\/fav.me\/d6321qy"
+                }],
          "spacing":0,
          "tilecount":5250,
          "tileheight":32,
@@ -1257,6 +1284,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"mountain_landscape",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Daniel Cook's 2d Circle Graphic Archive"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1270,6 +1303,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"terrain",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 by LPC, https:\/\/lpc.opengameart.org\/"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1383,6 +1422,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"By Milkian, Enterbrain and Mack, https:\/\/www.deviantart.com\/milkian"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1396,6 +1441,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"base_out_atlas",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 by LPC, https:\/\/lpc.opengameart.org\/"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1725,6 +1776,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"lpc-doors-animated-2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 by LPC, https:\/\/lpc.opengameart.org\/"
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
@@ -1842,6 +1899,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"chaos_zone_shared",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"By Chaoszone, https:\/\/github.com\/chaosz0ne\/shared"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -2433,6 +2496,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"spider",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 by Tuomo Untinen"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -2446,6 +2515,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"pigeon-NESW",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY 3.0 by Onno Timmerman (Enquest) & Jordan Irwin (AntumDeluge), https:\/\/opengameart.org\/node\/84675"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -2472,6 +2547,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"dezentrale_logo_96x64 (1)",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"dezentrale e.V., https:\/\/dezentrale.cloud"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -2485,21 +2566,14 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by CCCV, https:\/\/git.cccv.de\/rlab\/world-tiles"
+                }],
          "spacing":2,
          "tilecount":9,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":12071,
-         "image":"tiles\/Vorgarten\/kulturlichter.png",
-         "imageheight":128,
-         "imagewidth":512,
-         "margin":0,
-         "name":"kulturlichter",
-         "spacing":0,
-         "tilecount":64,
          "tileheight":32,
          "tilewidth":32
         }],

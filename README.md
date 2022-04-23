@@ -80,6 +80,43 @@ TODO: describe how to push
 
 ### Tiles and tilesets
 
+* fantasy.png: FREE RPG Tileset 32x32 by pipoya https://pipoya.itch.io/pipoya-rpg-tileset-32x32
+* floortileset.png: CC-BY-SA by CERT (cert.ccc.de)
+* mapUtilities.png: CC0 by CCCV, https://git.cccv.de/rlab/world-tiles
+* kulturlichter.png: CC-BY-SA by Andreas Bräu, blog.andi95.de
+* Stern.png: CC-BY-SA by Andreas Bräu, Monika Hegenberg
+* nkm_tiles.png: CC-BY-SA by Andreas Bräu, Monika Hegenberg
+* dezentrale_logo_96x64.png: dezentrale e.V., https://dezentrale.cloud
+* Bowlingtreff_Neubau.png: CC-BY-SA by Monika Hegenberg
+* foto_esszimmer: CC-BY-SA by Monika Hegenberg
+* museumsmenschen.png: CC-BY-SA by Monika Hegenberg
+* museumsmenschen_klein.png: CC-BY-SA by Monika Hegenberg
+* sprechblase.png: CC-BY-SA by Monika Hegenberg
+* terMeer_gezeichnet.png: CC-BY-SA by Monika Hegenberg
+* terMeer.png: CC-BY-SA by Monika Hegenberg
+* poke.png: ChaoticCherryCake and others, see http://fav.me/d6321qy
+* terrain_atlas.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* terrain.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* base_out_atlas.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* LPCsnowTrees.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* interior.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* lpc-doors-animated-1.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* lpc-doors-animated-2.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* tileset_deviant_milkian_2.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
+* tileset_deviant_milkian_3.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
+* office_1.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
+* chaos_zone_shared.png: By Chaoszone, https://github.com/chaosz0ne/shared
+* mountain_landscape.png: Daniel Cook's 2d Circle Graphic Archive
+* lpccatratdog.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/  
+* pigeon-NESW.png: CC-BY 3.0 by Onno Timmerman (Enquest) & Jordan Irwin (AntumDeluge), https://opengameart.org/node/84675
+* SF_Inside_B.png: by PandaMaru
+* Bubbles.png: CC-BY-SA 4.0 by Spring
+* polar_bear.png: CC0, https://opengameart.org/content/bears
+* spider.png: CC-BY-SA 3.0 by Tuomo Untinen
+* bsconf.png: CC0 by Chaos_99
+* Makerspace.png: CC0 by Chaos_99
+
+
 ### Sounds
 
 CC0 from [freesound.org](https://freesound.org)
