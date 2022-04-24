@@ -12865,6 +12865,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Zuege",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 by Hansj\u00f6rg Malthaner, http:\/\/opengameart.org\/users\/varkalandar"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,

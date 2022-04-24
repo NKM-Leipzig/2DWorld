@@ -89,11 +89,15 @@ TODO: describe how to push
 * butterfly.png: CC-BY-SA 4.0 by Jordan Irwin (AntumDeluge), https://opengameart.org/node/79095
 * chaos_zone_shared.png: By Chaoszone, https://github.com/chaosz0ne/shared
 * chestnut-002.png: CC-BY-SA 3.0 by Yar, https://opengameart.org/node/81685
+* deer female calicumtrice.png: CC0 by Calciumtrice & Jordan Irwin (AntumDeluge)
 * dezentrale_logo_96x64.png: dezentrale e.V., https://dezentrale.cloud
 * fantasy.png: FREE RPG Tileset 32x32 by pipoya https://pipoya.itch.io/pipoya-rpg-tileset-32x32
 * floors.png: by bluecarrot16, Lanea Zimmerman (Sharm), William Thompson (William.Thompsonj), Hyptosis, SpiderDave, Cougarmint, Stephen Challener (Redshrike), Bonsaiheldin, Tyler Olsen (Roots), Jetrel, jestan, The Open Surge team (http://opensnc.sourceforge.net), Gaurav Munjal, Reemax, Silveira Neto, bleutailfly, Casper Nilsson, NaRNeRZz, Buch, keith karnage, Arthur Carvalho, Guilherme Vieira (n2liquid), Chris Hamons (maintainer). CC-BY-SA 4.0.
 * floortileset.png: CC-BY-SA by CERT (cert.ccc.de)
 * foto_esszimmer: CC-BY-SA by Monika Hegenberg
+* Fox_idle.png: CC0 by ScratchIO
+* headgear-OCAL.png: CC0 by openclipart.org
+* Insekten.png: CC0 by Uncle_Gart
 * interior.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
 * kulturlichter.png: CC-BY-SA by Andreas Bräu, blog.andi95.de
 * lpc-doors-animated-1.png: CC-BY 3.0 by LPC, https://lpc.opengameart.org/, Original wood and dungeon doors by Lanea Zimmerman (AKA Sharm).
@@ -108,16 +112,20 @@ TODO: describe how to push
 * nkm_tiles.png: CC-BY-SA by Andreas Bräu, Monika Hegenberg
 * office_1.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
 * otters.png: CC0 by Spring
+* Panda.png: CC-BY-SA 3.0, @danielmahon
 * pigeon-NESW.png: CC-BY 3.0 by Onno Timmerman (Enquest) & Jordan Irwin (AntumDeluge), https://opengameart.org/node/84675
 * plant repack.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org
 * poke.png: ChaoticCherryCake and others, see http://fav.me/d6321qy
 * polar_bear.png: CC0, https://opengameart.org/content/bears
+* reindeer-m-run.png: CC0 by Calciumtrice & Jordan Irwin (AntumDeluge)
 * SF_Inside_B.png: by PandaMaru
+* Shark1.png: OGA-BY 3.0 by Pillarist
 * spider.png: CC-BY-SA 3.0 by Tuomo Untinen
 * sprechblase.png: CC-BY-SA by Monika Hegenberg
 * squirrels-1.png: CC0, Squirrels by Dennis Payne based on work by Luis Zuno @ansimuz and 494949
 * Stern.png: CC-BY-SA by Andreas Bräu, Monika Hegenberg
 * StreetSpriteBright.png: CC0 Made by XenonMax
+* sultana.png: CC0 https://opengameart.org/node/12210
 * terMeer.png: CC-BY-SA by Monika Hegenberg
 * terMeer_gezeichnet.png: CC-BY-SA by Monika Hegenberg
 * terrain.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
@@ -125,6 +133,8 @@ TODO: describe how to push
 * tileset_deviant_milkian_2.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
 * tileset_deviant_milkian_3.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
 * Weihnachten1.png: by PandaMaru
+* whale.png: CC0 by Mepavi @ You're Perfect Studio
+* Zuege.png: CC-BY-SA 3.0 by Hansjörg Malthaner, http://opengameart.org/users/varkalandar
 
 ### Sounds
 

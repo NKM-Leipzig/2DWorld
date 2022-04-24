@@ -3412,6 +3412,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"Insekten",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by Uncle_Gart"
+                }],
          "spacing":0,
          "tilecount":90,
          "tileheight":32,
