@@ -132,7 +132,6 @@ TODO: describe how to push
 * terrain_atlas.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
 * tileset_deviant_milkian_2.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
 * tileset_deviant_milkian_3.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
-* Weihnachten1.png: by PandaMaru
 * whale.png: CC0 by Mepavi @ You're Perfect Studio
 * Zuege.png: CC-BY-SA 3.0 by Hansjörg Malthaner, http://opengameart.org/users/varkalandar
 
