@@ -1346,6 +1346,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"chestnut-002",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 by Yar, https:\/\/opengameart.org\/node\/81685"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
@@ -1434,6 +1440,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"bird_2_red",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 4.0, \"[LPC] Birds\" by bluecarrot16, commissioned by castelonia. https:\/\/opengameart.org\/content\/lpc-birds"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -1460,6 +1472,12 @@
          "imagewidth":416,
          "margin":0,
          "name":"plant repack",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 by LPC, https:\/\/lpc.opengameart.org"
+                }],
          "spacing":0,
          "tilecount":169,
          "tileheight":32,
@@ -1719,6 +1737,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"squirrels-1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0, Squirrels by Dennis Payne based on work by Luis Zuno @ansimuz and 494949"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,

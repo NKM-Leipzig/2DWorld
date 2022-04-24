@@ -580,6 +580,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"Weihnachten1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"by PandaMaru"
+                }],
          "spacing":0,
          "tilecount":96,
          "tileheight":32,

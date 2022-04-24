@@ -80,42 +80,51 @@ TODO: describe how to push
 
 ### Tiles and tilesets
 
-* fantasy.png: FREE RPG Tileset 32x32 by pipoya https://pipoya.itch.io/pipoya-rpg-tileset-32x32
-* floortileset.png: CC-BY-SA by CERT (cert.ccc.de)
-* mapUtilities.png: CC0 by CCCV, https://git.cccv.de/rlab/world-tiles
-* kulturlichter.png: CC-BY-SA by Andreas Bräu, blog.andi95.de
-* Stern.png: CC-BY-SA by Andreas Bräu, Monika Hegenberg
-* nkm_tiles.png: CC-BY-SA by Andreas Bräu, Monika Hegenberg
-* dezentrale_logo_96x64.png: dezentrale e.V., https://dezentrale.cloud
+* base_out_atlas.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* bird_2_robin.png: CC-BY-SA 4.0, "[LPC] Birds" by bluecarrot16, commissioned by castelonia. https://opengameart.org/content/lpc-birds
+* bird_3_robin.png: CC-BY-SA 4.0, "[LPC] Birds" by bluecarrot16, commissioned by castelonia. https://opengameart.org/content/lpc-birds
 * Bowlingtreff_Neubau.png: CC-BY-SA by Monika Hegenberg
+* bsconf.png: CC0 by Chaos_99
+* Bubbles.png: CC-BY-SA 4.0 by Spring
+* butterfly.png: CC-BY-SA 4.0 by Jordan Irwin (AntumDeluge), https://opengameart.org/node/79095
+* chaos_zone_shared.png: By Chaoszone, https://github.com/chaosz0ne/shared
+* chestnut-002.png: CC-BY-SA 3.0 by Yar, https://opengameart.org/node/81685
+* dezentrale_logo_96x64.png: dezentrale e.V., https://dezentrale.cloud
+* fantasy.png: FREE RPG Tileset 32x32 by pipoya https://pipoya.itch.io/pipoya-rpg-tileset-32x32
+* floors.png: by bluecarrot16, Lanea Zimmerman (Sharm), William Thompson (William.Thompsonj), Hyptosis, SpiderDave, Cougarmint, Stephen Challener (Redshrike), Bonsaiheldin, Tyler Olsen (Roots), Jetrel, jestan, The Open Surge team (http://opensnc.sourceforge.net), Gaurav Munjal, Reemax, Silveira Neto, bleutailfly, Casper Nilsson, NaRNeRZz, Buch, keith karnage, Arthur Carvalho, Guilherme Vieira (n2liquid), Chris Hamons (maintainer). CC-BY-SA 4.0.
+* floortileset.png: CC-BY-SA by CERT (cert.ccc.de)
 * foto_esszimmer: CC-BY-SA by Monika Hegenberg
+* interior.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* kulturlichter.png: CC-BY-SA by Andreas Bräu, blog.andi95.de
+* lpc-doors-animated-1.png: CC-BY 3.0 by LPC, https://lpc.opengameart.org/, Original wood and dungeon doors by Lanea Zimmerman (AKA Sharm).
+* lpc-doors-animated-2.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/, Original castle door by Daniel Armstrong (AKA HughSpectrum)
+* lpccatratdog.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/  
+* LPCsnowTrees.png: CC-BY-SA 3.0 by Sharm, https://lpc.opengameart.org/
+* Makerspace.png: CC0 by Chaos_99
+* mapUtilities.png: CC0 by CCCV, https://git.cccv.de/rlab/world-tiles
+* mountain_landscape.png: Daniel Cook's 2d Circle Graphic Archive
 * museumsmenschen.png: CC-BY-SA by Monika Hegenberg
 * museumsmenschen_klein.png: CC-BY-SA by Monika Hegenberg
-* sprechblase.png: CC-BY-SA by Monika Hegenberg
-* terMeer_gezeichnet.png: CC-BY-SA by Monika Hegenberg
-* terMeer.png: CC-BY-SA by Monika Hegenberg
+* nkm_tiles.png: CC-BY-SA by Andreas Bräu, Monika Hegenberg
+* office_1.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
+* otters.png: CC0 by Spring
+* pigeon-NESW.png: CC-BY 3.0 by Onno Timmerman (Enquest) & Jordan Irwin (AntumDeluge), https://opengameart.org/node/84675
+* plant repack.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org
 * poke.png: ChaoticCherryCake and others, see http://fav.me/d6321qy
-* terrain_atlas.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* polar_bear.png: CC0, https://opengameart.org/content/bears
+* SF_Inside_B.png: by PandaMaru
+* spider.png: CC-BY-SA 3.0 by Tuomo Untinen
+* sprechblase.png: CC-BY-SA by Monika Hegenberg
+* squirrels-1.png: CC0, Squirrels by Dennis Payne based on work by Luis Zuno @ansimuz and 494949
+* Stern.png: CC-BY-SA by Andreas Bräu, Monika Hegenberg
+* StreetSpriteBright.png: CC0 Made by XenonMax
+* terMeer.png: CC-BY-SA by Monika Hegenberg
+* terMeer_gezeichnet.png: CC-BY-SA by Monika Hegenberg
 * terrain.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
-* base_out_atlas.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
-* LPCsnowTrees.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
-* interior.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
-* lpc-doors-animated-1.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
-* lpc-doors-animated-2.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
+* terrain_atlas.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/
 * tileset_deviant_milkian_2.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
 * tileset_deviant_milkian_3.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
-* office_1.png: By Milkian, Enterbrain and Mack, https://www.deviantart.com/milkian
-* chaos_zone_shared.png: By Chaoszone, https://github.com/chaosz0ne/shared
-* mountain_landscape.png: Daniel Cook's 2d Circle Graphic Archive
-* lpccatratdog.png: CC-BY-SA 3.0 by LPC, https://lpc.opengameart.org/  
-* pigeon-NESW.png: CC-BY 3.0 by Onno Timmerman (Enquest) & Jordan Irwin (AntumDeluge), https://opengameart.org/node/84675
-* SF_Inside_B.png: by PandaMaru
-* Bubbles.png: CC-BY-SA 4.0 by Spring
-* polar_bear.png: CC0, https://opengameart.org/content/bears
-* spider.png: CC-BY-SA 3.0 by Tuomo Untinen
-* bsconf.png: CC0 by Chaos_99
-* Makerspace.png: CC0 by Chaos_99
-
+* Weihnachten1.png: by PandaMaru
 
 ### Sounds
 

@@ -1780,7 +1780,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC-BY-SA 3.0 by LPC, https:\/\/lpc.opengameart.org\/"
+                 "value":"CC-BY-SA 3.0 by LPC, https:\/\/lpc.opengameart.org\/, Original castle door by Daniel Armstrong (AKA HughSpectrum)."
                 }],
          "spacing":0,
          "tilecount":36,
@@ -1886,6 +1886,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"StreetSpriteBright",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 Made by XenonMax"
+                }],
          "spacing":0,
          "tilecount":32,
          "tileheight":32,

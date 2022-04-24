@@ -3220,6 +3220,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"otters",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by Spring"
+                }],
          "spacing":0,
          "tilecount":144,
          "tileheight":32,
@@ -3252,6 +3258,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"bird_3_robin",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 4.0, \"[LPC] Birds\" by bluecarrot16, commissioned by castelonia. https:\/\/opengameart.org\/content\/lpc-birds"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -3265,6 +3277,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"floors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"by bluecarrot16, Lanea Zimmerman (Sharm), William Thompson (William.Thompsonj), Hyptosis, SpiderDave, Cougarmint, Stephen Challener (Redshrike), Bonsaiheldin, Tyler Olsen (Roots), Jetrel, jestan, The Open Surge team (http:\/\/opensnc.sourceforge.net), Gaurav Munjal, Reemax, Silveira Neto, bleutailfly, Casper Nilsson, NaRNeRZz, Buch, keith karnage, Arthur Carvalho, Guilherme Vieira (n2liquid), Chris Hamons (maintainer). CC-BY-SA 4.0."
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -3310,6 +3328,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"butterfly",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 4.0 by Jordan Irwin (AntumDeluge), https:\/\/opengameart.org\/node\/79095"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -3405,7 +3429,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC-BY-SA 3.0 by LPC, https:\/\/lpc.opengameart.org\/"
+                 "value":"CC-BY 3.0 by LPC, https:\/\/lpc.opengameart.org\/, Original wood and dungeon doors by Lanea Zimmerman (AKA Sharm)."
                 }],
          "spacing":0,
          "tilecount":204,

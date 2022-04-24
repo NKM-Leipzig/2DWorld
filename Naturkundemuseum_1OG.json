@@ -5321,6 +5321,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"bird_3_robin",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 4.0, \"[LPC] Birds\" by bluecarrot16, commissioned by castelonia. https:\/\/opengameart.org\/content\/lpc-birds"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -5694,6 +5700,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"otters",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by Spring"
+                }],
          "spacing":0,
          "tilecount":144,
          "tileheight":32,
