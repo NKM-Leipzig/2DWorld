@@ -463,6 +463,12 @@
          "id":33,
          "name":"streamhinweis",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/streamhinweis"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -576,7 +582,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/mediaserver.htwk-leipzig.de\/permalink\/l12561504a0fchoqw7ig\/"
+                         "value":"https:\/\/world.naturkunde.museum\/tafeln\/streamhinweis"
                         }],
                  "rotation":0,
                  "type":"website",
