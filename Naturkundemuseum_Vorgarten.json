@@ -1985,6 +1985,16 @@
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"by Antum Deluge CC0 https:\/\/opengameart.org\/node\/121247"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
