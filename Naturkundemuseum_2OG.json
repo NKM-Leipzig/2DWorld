@@ -125,7 +125,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.world.maschinenraum.tk\/_\/global\/trixmix.tv\/welt\/trixtrain_public\/bahnsteig.json"
                 }],
