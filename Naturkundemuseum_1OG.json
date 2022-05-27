@@ -52,7 +52,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"Naturkundemuseum_2OG.json"
                 }],
