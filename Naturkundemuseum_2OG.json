@@ -678,7 +678,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/mediaserver.htwk-leipzig.de\/permalink\/l12561504a0fchoqw7ig\/"
+                         "value":"https:\/\/mediaserver.htwk-leipzig.de\/permalink\/l12561504a0fchoqw7ig\/iframe\/"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -783,7 +783,7 @@
          "value":"https:\/\/world.naturkunde.museum\/assets\/js\/wa-bundle.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.8.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -2610,6 +2610,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.8",
  "width":46
 }
