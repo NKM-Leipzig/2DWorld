@@ -7,7 +7,7 @@ classes: wide
 
 [![](/img/thumbs/Sprelacart_thumb.jpg)](/img/Sprelacart.jpg)
 *<br>Ein Stück Bowlingbahn in Form einer Bowlingkugel geschnitten*
-{% include gallery class="full" layout="" caption="Für eine größere Darstellung klicke bitte auf das Bild." %}
+{% caption="Für eine größere Darstellung klicke bitte auf das Bild." %}
 
 Der Bowlingtreff am Wilhelm-Leuschner-Platz wird das neue Domizil des Naturkundemuseums werden. Neben seiner besonderen Baugeschichte und der architektonischen Raffinesse, barg auch das Innere des Hauses einige Überraschungen.
 
