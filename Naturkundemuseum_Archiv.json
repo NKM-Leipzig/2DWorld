@@ -68,6 +68,12 @@
          "id":7,
          "name":"AusgangNeuesRathaus",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/digitales-rathaus.github.io\/neuesrathaus\/vorlage.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":35,
