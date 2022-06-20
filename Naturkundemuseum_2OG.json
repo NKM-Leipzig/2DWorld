@@ -473,7 +473,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"videos\/"
+                 "value":"https:\/\/world.naturkunde.museum\/videos\/Hoerspiel-Es-ist-noch-nicht-zu-spaet.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
