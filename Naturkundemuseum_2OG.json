@@ -1813,7 +1813,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"variable",
                  "height":0,
                  "id":1,
                  "name":"chef_door",
@@ -1845,13 +1844,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":387.635135135136,
                  "y":434.864864864864
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":4,
                  "name":"chef",
@@ -1878,6 +1877,7 @@
                          "value":"openSprechblase"
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":178.378378378378,
@@ -1895,7 +1895,6 @@
          "name":"stream",
          "objects":[
                 {
-                 "class":"website",
                  "height":138.804,
                  "id":5,
                  "name":"",
@@ -1906,6 +1905,7 @@
                          "value":"https:\/\/www.youtube-nocookie.com\/embed?v=plE0H8UrFMc&list=UULFr4OfLSV-P7n4lls8ByHJIA"
                         }],
                  "rotation":0,
+                 "type":"website",
                  "visible":true,
                  "width":265.018,
                  "x":651.991,
@@ -4002,6 +4002,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":46
 }

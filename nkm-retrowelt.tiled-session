@@ -1,0 +1,47 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "_site/Naturkundemuseum_2OG.json": {
+            "scale": 1.0652573529411764,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 736.4417601380501,
+                "y": 206.05349439171704
+            }
+        },
+        "_site/Naturkundemuseum_2OG.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#museumsmenschen": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#museumsmenschen_klein": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#poke": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#terMeer": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#terrain_atlas": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "nkm-retrowelt.tiled-project",
+    "recentFiles": [
+    ]
+}
