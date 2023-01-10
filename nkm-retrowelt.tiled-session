@@ -1,0 +1,122 @@
+{
+    "activeFile": "Naturkundemuseum_2OG.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Naturkundemuseum_2OG.json": {
+            "scale": 1.0652573529411764,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1085.653149266609,
+                "y": 664.62812769629
+            }
+        },
+        "Naturkundemuseum_2OG.json#Glashaus": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#Insekten": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#Paintings": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#SF_Inside_B": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#Sprechblase_Chef": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#bird_3_robin": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#butterfly": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#floors": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#interior": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#lpc-doors-animated-1": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#museumsmenschen": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#museumsmenschen_klein": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#nkm_2": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#otters": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#poke": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#terMeer": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#terrain_atlas": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json": {
+            "scale": 1.0652573529411764,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 745.3597929249354,
+                "y": 602.2018981880932
+            }
+        },
+        "_site/Naturkundemuseum_2OG.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#museumsmenschen": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#museumsmenschen_klein": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#poke": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#terMeer": {
+            "scaleInDock": 1
+        },
+        "_site/Naturkundemuseum_2OG.json#terrain_atlas": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "_site/Naturkundemuseum_2OG.json",
+        "Naturkundemuseum_2OG.json"
+    ],
+    "project": "nkm-retrowelt.tiled-project",
+    "recentFiles": [
+        "_site/Naturkundemuseum_2OG.json",
+        "Naturkundemuseum_2OG.json"
+    ]
+}
