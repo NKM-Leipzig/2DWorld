@@ -7,4 +7,4 @@ Fritha Langerman ist eine Künstlerin und Professorin an der Universität von Ka
 
 Beginnend mit Albrecht Dürers Stich eines indischen Nashorns aus dem Jahr 1515, greift die Ausstellung auf eine Geschichte der Tierdarstellungen zurück. Dürer fertige seinen Stich als Abbild eines realen Tieres. In der Ausstellung im Naturkundemuseum ist das Nashorn nur in Bildern zu sehen. Auch kein Präperat ergänzt die Darstellung. Damit zeigt die Künstlerin die Bedrohung des Nashorns - in der Realität sind die Tiere immer seltener anwesend. Die Ausstellung zeigt Reproduktionen von Bildern, Texten und Objekten aus vielen Museumssammlungen, Zoos und öffentlichen Archiven. 
 
-<iframe src="https://www.freightedexhibition.co.za/29-2/" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://www.freightedexhibition.co.za/29-2/" style="border:0px;width:100%;height:900px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
