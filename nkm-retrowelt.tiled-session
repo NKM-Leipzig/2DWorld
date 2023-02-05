@@ -1,14 +1,59 @@
 {
-    "activeFile": "Naturkundemuseum_2OG.json",
+    "activeFile": "",
     "expandedProjectPaths": [
     ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
+        "Dschungel.json": {
+            "scale": 1.769375,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 375.8389261744967,
+                "y": 240.1978099611445
+            }
+        },
+        "Dschungel.json#bird_2_red": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#bone": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#chestnut-002": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#lpccatratdog": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#mountain_landscape": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#pigeon-NESW": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#plant repack": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#poke": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#squirrels-1": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#sultana": {
+            "scaleInDock": 1
+        },
+        "Dschungel.json#terrain": {
+            "scaleInDock": 1
+        },
         "Naturkundemuseum_2OG.json": {
             "scale": 1.0652573529411764,
-            "selectedLayer": 1,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1085.653149266609,
-                "y": 664.62812769629
+                "x": 765.0733390854184,
+                "y": 969.718723037101
             }
         },
         "Naturkundemuseum_2OG.json#Glashaus": {
@@ -78,8 +123,8 @@
             "scale": 1.0652573529411764,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 745.3597929249354,
-                "y": 602.2018981880932
+                "x": 634.1190681622089,
+                "y": 479.6962899050906
             }
         },
         "_site/Naturkundemuseum_2OG.json#bskonf": {
@@ -111,8 +156,6 @@
         }
     },
     "openFiles": [
-        "_site/Naturkundemuseum_2OG.json",
-        "Naturkundemuseum_2OG.json"
     ],
     "project": "nkm-retrowelt.tiled-project",
     "recentFiles": [
