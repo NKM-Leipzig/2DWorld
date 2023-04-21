@@ -23,3 +23,5 @@ Nadine Baum (Sammlungsmanagement), Stefanie Grzybek (Bildung und Vermittlung), M
 **Tierstimmen** Walross (CC BY-SA), Copyright Tierstimmenarchiv | Museum für Naturkunde - Leibniz-Institut für Evolutions- und Biodiversitätsforschung
 
 **Special Thanks** ♥ Für die unentbehrliche Unterstützung bei der Bereitstellung dieser Seiten danken wir den Vereinen [dezentrale e. V.](https://dezentrale.space){:target="_blank"} und [weimarnetz e.V.](https://weimarnetz.de){:target="_blank"}. Für die zusätzliche Zeit und Mühe beim Schneiden unserer Filme herzlichen Dank an [Stephan Dietze (Anders Drehen)](https://www.anders-drehen.de/){:target="_blank"}. ♥
+
+**Externe Links** Unsere Seiten verlinken auch auf Seiten anderer Anbieter. Sollten wir darüber Kenntnis erlangen, dass die dahinterliegenden Inhalte anders als erwartet sind, werden wir die Verlinkung entfernen.
