@@ -31,3 +31,9 @@ Viele Grüße,
 
 euer Team des Naturkundemuseums Leipzig
 
+<br/>
+<br/>
+<p>
+![Landessignet Sachsen]({{ site.url }}{{ site.baseurl }}/img/landessignet_sachsen_gruen.png){: style="width: 3rem; float: left; margin-right: 1rem;"} 
+<small>Dieses Förderprojekt wird mitfinanziert durch Steuermittel auf der Grundlage des von den Abgeordneten des Sächsischen Landtags beschlossenen Haushaltes.</small>
+</p>
