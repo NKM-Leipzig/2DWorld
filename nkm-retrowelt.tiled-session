@@ -1,5 +1,5 @@
 {
-    "activeFile": "Naturkundemuseum_EG.json",
+    "activeFile": "Naturkundemuseum_Vorgarten.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -9,7 +9,7 @@
             "selectedLayer": 10,
             "viewCenter": {
                 "x": 431.79088661250444,
-                "y": 239.91522430236665
+                "y": 240.1978099611445
             }
         },
         "Dschungel.json#bird_2_red": {
@@ -52,8 +52,8 @@
             "scale": 1.0652573529411764,
             "selectedLayer": 16,
             "viewCenter": {
-                "x": 763.665228645384,
-                "y": 968.7799827437445
+                "x": 735.9723899913719,
+                "y": 543.5306298533219
             }
         },
         "Naturkundemuseum_2OG.json#Glashaus": {
@@ -123,8 +123,8 @@
             "scale": 0.7806066176470587,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 364.4601436477099,
-                "y": 504.73566466501836
+                "x": 735.325562227717,
+                "y": 544.4483692452609
             }
         },
         "Naturkundemuseum_EG.json#06_deko": {
@@ -212,8 +212,8 @@
             "scale": 2,
             "selectedLayer": 24,
             "viewCenter": {
-                "x": 557.75,
-                "y": 676
+                "x": 465.5,
+                "y": 675.5
             }
         },
         "Naturkundemuseum_Vorgarten.json#StreetSpriteBright": {
@@ -300,13 +300,15 @@
     "openFiles": [
         "Naturkundemuseum_2OG.json",
         "Dschungel.json",
-        "Naturkundemuseum_EG.json"
+        "Naturkundemuseum_EG.json",
+        "Naturkundemuseum_Vorgarten.json"
     ],
     "project": "nkm-retrowelt.tiled-project",
     "recentFiles": [
         "Naturkundemuseum_2OG.json",
         "Dschungel.json",
         "Naturkundemuseum_EG.json",
+        "Naturkundemuseum_Vorgarten.json",
         "_site/Naturkundemuseum_2OG.json"
     ]
 }
