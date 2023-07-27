@@ -8,8 +8,8 @@
             "scale": 1.769375,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 375.273754856941,
-                "y": 239.63263864358885
+                "x": 431.79088661250444,
+                "y": 239.91522430236665
             }
         },
         "Dschungel.json#bird_2_red": {
@@ -50,10 +50,10 @@
         },
         "Naturkundemuseum_2OG.json": {
             "scale": 1.0652573529411764,
-            "selectedLayer": 8,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 765.0733390854184,
-                "y": 969.718723037101
+                "x": 763.665228645384,
+                "y": 968.7799827437445
             }
         },
         "Naturkundemuseum_2OG.json#Glashaus": {
@@ -121,10 +121,10 @@
         },
         "Naturkundemuseum_EG.json": {
             "scale": 0.7806066176470587,
-            "selectedLayer": 44,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 736.6066172141766,
-                "y": 379.1922759919935
+                "x": 364.4601436477099,
+                "y": 504.73566466501836
             }
         },
         "Naturkundemuseum_EG.json#06_deko": {
@@ -206,6 +206,59 @@
             "scaleInDock": 1
         },
         "Naturkundemuseum_EG.json#tilesets_deviant_milkian_3": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json": {
+            "scale": 2,
+            "selectedLayer": 24,
+            "viewCenter": {
+                "x": 557.75,
+                "y": 676
+            }
+        },
+        "Naturkundemuseum_Vorgarten.json#StreetSpriteBright": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#base_out_atlas": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#lpc-doors-animated-2": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#mountain_landscape": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#nkm_tiles": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#open_sign_neon_01": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#pigeon-NESW": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#poke": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#spider": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#terrain": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#terrain_atlas": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_Vorgarten.json#tilesets_deviant_milkian_2": {
             "scaleInDock": 1
         },
         "_site/Naturkundemuseum_2OG.json": {
