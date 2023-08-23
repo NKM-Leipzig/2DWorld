@@ -185,7 +185,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"Naturkundemuseum_Vorgarten.json#EingangTuer"
                 }],
          "type":"tilelayer",
          "visible":true,
