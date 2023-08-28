@@ -2033,6 +2033,15 @@
                         {
                          "name":"collides",
                          "type":"bool",
+                         "value":false
+                        }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
                          "value":true
                         }]
                 }],
