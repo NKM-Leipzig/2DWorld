@@ -8,13 +8,13 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 *Verantwortlicher*
 
-Andreas Bräu<br/>
-Streustr. 54<br/>
-13086 Berlin
+Mario Graul<br/>
+Lortzingstraße 3<br/>
+04105 Leipzig
 
 *Kontakt*
 
-E-Mail: ab+naturkundemuseum(at)andi95.de
+E-Mail: Mario.Graul@leipzig.de
 
 Arten der verarbeiteten Daten:
 

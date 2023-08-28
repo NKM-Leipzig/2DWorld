@@ -18,6 +18,9 @@
         "Dschungel.json#bone": {
             "scaleInDock": 1
         },
+        "Dschungel.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
         "Dschungel.json#chestnut-002": {
             "scaleInDock": 1
         },
@@ -60,6 +63,9 @@
             "scaleInDock": 1
         },
         "Naturkundemuseum_2OG.json#Insekten": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_2OG.json#NKM_2023": {
             "scaleInDock": 1
         },
         "Naturkundemuseum_2OG.json#Paintings": {
@@ -123,7 +129,7 @@
             "scale": 0.7806066176470587,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 735.325562227717,
+                "x": 736.6066172141766,
                 "y": 544.4483692452609
             }
         },
@@ -134,6 +140,9 @@
             "scaleInDock": 1
         },
         "Naturkundemuseum_EG.json#Muenzen": {
+            "scaleInDock": 1
+        },
+        "Naturkundemuseum_EG.json#NKM_2023": {
             "scaleInDock": 1
         },
         "Naturkundemuseum_EG.json#SF_Inside_B": {
@@ -210,10 +219,10 @@
         },
         "Naturkundemuseum_Vorgarten.json": {
             "scale": 2,
-            "selectedLayer": 24,
+            "selectedLayer": 25,
             "viewCenter": {
-                "x": 465.5,
-                "y": 675.5
+                "x": 90.75,
+                "y": 675
             }
         },
         "Naturkundemuseum_Vorgarten.json#StreetSpriteBright": {
