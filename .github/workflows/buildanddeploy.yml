@@ -35,7 +35,7 @@ jobs:
         run: |
           bundle config path vendor/bundle
           bundle install
-          bundle exec jekyll build -b ${{ github.ref_name }}
+          bundle exec jekyll build -b "/${{ github.ref_name }}"
 
       - name: upload to production
         if: github.event_name == 'push' && github.ref_name == 'main'
