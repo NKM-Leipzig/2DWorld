@@ -2,7 +2,7 @@ name: build page and deploy page and maps
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, hierkommtdiemaus ]
   pull_request:
     branches: [ main ]
 
@@ -23,14 +23,22 @@ jobs:
       - name: Optimize map
         uses: thecodingmachine/map-optimizer-action@master
 
-      # Build jekyll page
-      - run: |
+      - if: github.event_name == 'push' && github.ref_name == 'main'
+        name: build jekyll page for production
+        run: |
           bundle config path vendor/bundle
           bundle install
           bundle exec jekyll build
 
-      - name: upload
-        if: github.event_name == 'push'
+      - if: github.event_name == 'push' && github.ref_name != 'main'
+        name: build jekyll page for preview
+        run: |
+          bundle config path vendor/bundle
+          bundle install
+          bundle exec jekyll build -b ${{ github.ref_name }}
+
+      - name: upload to production
+        if: github.event_name == 'push' && github.ref_name == 'main'
         env:
           SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           SSH_HOST: ${{ secrets.SSH_HOST }}
@@ -41,3 +49,16 @@ jobs:
           mkdir ~/.ssh
           ssh-keyscan -H ${SSH_HOST}  >> ~/.ssh/known_hosts
           scp -r _site/* ${SSH_USER}@${SSH_HOST}:/world.naturkunde.museum/
+
+      - name: upload to preview
+        if: github.event_name == 'push' && github.ref_name != 'main'
+        env:
+          SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+        run: |
+          eval "$(ssh-agent -s)"
+          ssh-add - <<< "${SSH_KEY}"
+          mkdir ~/.ssh
+          ssh-keyscan -H ${SSH_HOST}  >> ~/.ssh/known_hosts
+          scp -r _site/* ${SSH_USER}@${SSH_HOST}:/world.naturkunde.museum/${{ github.ref_name }}
