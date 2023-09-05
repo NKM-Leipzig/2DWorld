@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/maus_bienen"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/mausbienen"
                 }],
          "type":"tilelayer",
          "visible":true,
