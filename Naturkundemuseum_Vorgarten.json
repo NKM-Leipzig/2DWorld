@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/https:\/\/world.naturkunde.museum\/hierkommtdiemaus\/tafeln\/mausbienen\/"
+                 "value":"https:\/\/world.naturkunde.museum\/hierkommtdiemaus\/tafeln\/mausbienen\/"
                 }],
          "type":"tilelayer",
          "visible":true,
