@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-Toll, Du hast eine von sechs Schatzkiste entdeckt. Notiere Dir das Lösungswort und setze es später in die Lücken des Lösungssatzes auf dem Gewinnspielformular ein.
+Toll, du hast eine von sechs Schatzkiste entdeckt. Notiere dir das Lösungswort und setze es später in die Lücken des Lösungssatzes auf dem Gewinnspielformular ein.
 
 Das Lösungswort lautet: 
 **Flüssiges Gold**
