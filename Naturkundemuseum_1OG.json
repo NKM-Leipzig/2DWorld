@@ -36,7 +36,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/home\/moni\/Dokumente\/GitHub\/2DWorld\/_tafeln\/maushai.md"
+                 "value":"https:\/\/world.naturkunde.museum\/hierkommtdiemaus\/tafeln\/maushai.md"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -54,7 +54,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/home\/moni\/Dokumente\/GitHub\/2DWorld\/_tafeln\/mausrobert.md"
+                 "value":"https:\/\/world.naturkunde.museum\/hierkommtdiemaus\/tafeln\/mausrobert.md"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,7 +72,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/home\/moni\/Dokumente\/GitHub\/2DWorld\/_tafeln\/mausjorge.md"
+                 "value":"https:\/\/world.naturkunde.museum\/hierkommtdiemaus\/tafeln\/mausjorge.md"
                 }],
          "type":"tilelayer",
          "visible":true,

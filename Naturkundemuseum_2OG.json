@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/home\/moni\/Dokumente\/GitHub\/2DWorld\/_tafeln\/mauskatja.md"
+                 "value":"https:\/\/world.naturkunde.museum\/hierkommtdiemaus\/tafeln\/mauskatja.md"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/home\/moni\/Dokumente\/GitHub\/2DWorld\/_tafeln\/mausforscher.md"
+                 "value":"https:\/\/world.naturkunde.museum\/hierkommtdiemaus\/tafeln\/mausforscher.md"
                 }],
          "type":"tilelayer",
          "visible":true,
