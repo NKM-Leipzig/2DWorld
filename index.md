@@ -33,12 +33,12 @@ Dein Team des Naturkundemuseums Leipzig
   <summary markdown="span">**Teilnahmebedingungen für das Gewinnspiel „Schatzsuche“ zum Aktionstag „Türen auf mit der Maus“ am 3. Oktober 2023 (bitte klicken)**</summary>
 <br/>
 **§ 1 Veranstalter**
-1. Veranstalter des Gewinnspiels ist das
-	Naturkundemuseum Leipzig
-	Lortzingstraße 3
+1. Veranstalter des Gewinnspiels ist das  
+	Naturkundemuseum Leipzig  
+	Lortzingstraße 3  
 	04105 Leipzig
 
-	Vertreten durch den Direktor:
+	Vertreten durch den Direktor:  
 	Herrn Dr. Ronny Maik Leder
 
 2. Dieses Gewinnspiel steht in keinem Zusammenhang mit anderen Gewinnspielen oder Social Media-Plattformen, auf dem dieses Gewinnspiel gegebenenfalls bekannt gegeben wird.
