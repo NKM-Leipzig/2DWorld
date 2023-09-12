@@ -34,7 +34,6 @@ Dein Team des Naturkundemuseums Leipzig
 <br/>
 **§ 1 Veranstalter**
 1. Veranstalter des Gewinnspiels ist das
-
 	Naturkundemuseum Leipzig
 	Lortzingstraße 3
 	04105 Leipzig

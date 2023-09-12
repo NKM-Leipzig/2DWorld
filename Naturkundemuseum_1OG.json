@@ -32,6 +32,12 @@
          "id":60,
          "name":"Maustag_Robert",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"\/home\/moni\/Dokumente\/GitHub\/2DWorld\/_tafeln\/mausrobert.md"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -44,6 +50,12 @@
          "id":61,
          "name":"Maustag_Jorge",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"\/home\/moni\/Dokumente\/GitHub\/2DWorld\/_tafeln\/mausjorge.md"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -56,6 +68,12 @@
          "id":62,
          "name":"Maustag_Hai",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"\/home\/moni\/Dokumente\/GitHub\/2DWorld\/_tafeln\/maushai.md"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
