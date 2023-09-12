@@ -24,9 +24,8 @@ Dein Team des Naturkundemuseums Leipzig
 * Beachte zunächst die unten genannten Hinweise zum Spiel und der Steuerung.
 * Besuche am 03. Oktober 2023 ab 9 Uhr das Naturkundemuseum 1.0 über den orangefarbigen Button. Gib dir einen Spielnamen (muss nicht dein echter Name sein) und wähle einen WOKA (Avatar) aus, der zu dir passt.
 * Durchstöbere das Museum, finde die Schatzkisten und schaue dir den Schatz genau an.
-* Trage die erscheinenden Lösungsworte korrekt in die Lücken des Lösungssatzes auf dem **Gewinnspielformular** ein.
-* Hast du alle Schätze und die dazugehörigen Lösungsworte gefunden, setze sie passend in den Lückentext ein.
-* Drucke das Gewinnspielformular aus und sende es uns mit allen erforderlichen Angaben bis **20. Oktober 2023** (Posteingang) auf dem Postweg zu. Beachte die unten aufgeführten [**Teilnahmebedingungen**]({{ site.baseurl }}/pdf/Teilnahmebedingungen_Gewinnspiel_Aktionstag.pdf){:target="_blank"}!
+* Hast du alle Schätze und die dazugehörigen Lösungsworte gefunden, setze sie passend in den Lückentext im [**Gewinnspielformular**]({{ site.baseurl }}/pdf/Gewinnspielformular.pdf){:target="_blank"} ein.
+* Drucke das Gewinnspielformular aus und sende es uns mit allen erforderlichen Angaben bis **20. Oktober 2023** (Posteingang) auf dem Postweg zu. Beachte die unten aufgeführten **Teilnahmebedingungen**!
 * Die Gewinnerinnen und Gewinner werden am 10. November 2023 hier in der Retrowelt bekanntgegeben und über die auf dem Gewinnspielformular angegebenen Kontaktdaten, bevorzugt per E-Mail, benachrichtigt.
 * Bei Fragen zum Gewinnspiel kontaktiere [uns](mailto:service.naturkundemuseum@leipzig.de) gerne.
 </details>
@@ -37,13 +36,10 @@ Dein Team des Naturkundemuseums Leipzig
 1. Veranstalter des Gewinnspiels ist das
 
 	Naturkundemuseum Leipzig
-
 	Lortzingstraße 3
-
 	04105 Leipzig
 
 	Vertreten durch den Direktor:
-
 	Herrn Dr. Ronny Maik Leder
 
 2. Dieses Gewinnspiel steht in keinem Zusammenhang mit anderen Gewinnspielen oder Social Media-Plattformen, auf dem dieses Gewinnspiel gegebenenfalls bekannt gegeben wird.
