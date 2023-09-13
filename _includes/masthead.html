@@ -5,7 +5,8 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
-    <a href="/"><img src="{{ '/img/logo_nkm_weiss_neu.png'| relative_url }}" /></a>
+    <div style="float: left;"><a href="/"><img src="{{ '/img/logo_nkm_weiss_neu.png'| relative_url }}" /></a></div>
+    <div class="mauslogo" style="float: right;"><img src="{{ '/img/Tueroeffnertag2023-maus-logo.png'| relative_url }}" alt="Logo Maus Türöffnertag 2023"></div>
 
   </div>
 </header>

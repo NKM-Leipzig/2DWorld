@@ -63,8 +63,15 @@ $footer-background-color: mix(#000, $background-color, 40%);
 $muted-text-color: #fff;
 
 .site-header img {
-  padding-top: 12px;
-  height: 150px;
+  padding-top: 1em;
+  height: 6.8rem;
+}
+
+@media (max-width: 520px) {
+  .site-header img {
+    padding-top: 1em;
+    height: 4.5rem;
+  }
 }
 
 div.fragfinn {
@@ -73,6 +80,15 @@ div.fragfinn {
 
 div.page__footer-follow {
   display: inline-block;
+}
+
+.mauslogo {
+  display: none;
+}
+
+.layout--splash .mauslogo {
+  display: block;
+  padding-right: 1em;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
