@@ -11,7 +11,7 @@ Das Lösungswort lautet:
 **Symbole**
 
 <div class="video">
-  <video id="theplayer" autoplay="autoplay" height="360px" controls="controls" src="https://world.naturkunde.museum/videos/NKM_Reel_Frase_Tontrommel_Final_UT.mov">
+  <video id="theplayer" class="portrait" autoplay="autoplay" controls="controls" src="https://world.naturkunde.museum/videos/NKM_Reel_Frase_Tontrommel_Final_UT.mov">
     <source id="mediasource" type="video/mp4">
       <p>Schade!</p>
       Dein Browser unterstützt leider keine Videowiedergabe.
