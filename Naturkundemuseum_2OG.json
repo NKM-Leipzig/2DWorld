@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/hierkommtdiemaus\/tafeln\/mauskatja.md"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/mauskatja.md"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/hierkommtdiemaus\/tafeln\/mausforscher.md"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/mausforscher.md"
                 }],
          "type":"tilelayer",
          "visible":true,
