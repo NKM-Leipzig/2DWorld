@@ -74,6 +74,19 @@ $muted-text-color: #fff;
   }
 }
 
+div.video .portrait {
+  height: 28rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-height: 700px) {
+  div.video .portrait {
+    height: 24rem;
+  }
+}
+
 div.fragfinn {
   float: right;
 }

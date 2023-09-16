@@ -11,7 +11,7 @@ Das Lösungswort lautet:
 **Flüssiges Gold**
 
 <div class="video">
-  <video id="theplayer" autoplay="autoplay" height="360px" controls="controls" src="https://world.naturkunde.museum/videos/Spotlight_on_Bienen_ohne_Abspann.mp4">
+  <video id="theplayer" class="portrait" autoplay="autoplay" controls="controls" src="https://world.naturkunde.museum/videos/Spotlight_on_Bienen_ohne_Abspann.mp4">
     <source id="mediasource" type="video/mp4">
       <p>Schade!</p>
       Dein Browser unterstützt leider keine Videowiedergabe.
