@@ -36,7 +36,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/maushai.md"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/maushai"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -54,7 +54,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/mausrobert.md"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/mausrobert"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,7 +72,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/mausjorge.md"
+                 "value":"https:\/\/world.naturkunde.museum\/tafeln\/mausjorge"
                 }],
          "type":"tilelayer",
          "visible":true,
