@@ -15,7 +15,7 @@ Schön, dass du den Weg zu uns ins digitale Naturkundemuseum Leipzig gefunden ha
 
 Am 3. Oktober 2023 heißt es bundesweit „Türen auf mit der Maus“! An diesem Aktionstag des WDR unter dem Motto „Wertvolle Schätze“ öffnen wir hier für dich einige unserer Schatzkisten: Darin warten auf dich faszinierende Geschichten aus dem „echten Museum“, sowohl aus der frei zugänglichen Ausstellung als auch in den verborgenen Räumen und Sammlungsarchiven. Aber wo sind die Schatzkisten nur geblieben? Wir haben im Museum so viele Schätze, dass wir manchmal selbst fast den Überblick verlieren. Hilf uns, die Schatzkisten wieder zu finden und eine Botschaft zu formulieren. Nur am Aktionstag kannst du zur Belohnung zusätzlich an unserem Gewinnspiel teilnehmen. Wir verlosen unter den Einsendungen drei Schatzkisten mit Sachpreisen.
 
-Viele Spaß bei der "Schatzsuche"!
+Viel Spaß bei der "Schatzsuche"!
 
 Dein Team des Naturkundemuseums Leipzig
 
