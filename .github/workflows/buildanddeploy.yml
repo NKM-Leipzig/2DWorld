@@ -2,7 +2,7 @@ name: build page and deploy page and maps
 
 on:
   push:
-    branches: [ main, hierkommtdiemaus ]
+    branches: [ main, hierkommtdiemaus, hiergehtdiemaus ]
   pull_request:
     branches: [ main ]
 
