@@ -1751,10 +1751,6 @@
                         {
                          "duration":300,
                          "tileid":862
-                        }, 
-                        {
-                         "duration":300,
-                         "tileid":870
                         }],
                  "id":862,
                  "properties":[
@@ -1769,10 +1765,6 @@
                         {
                          "duration":500,
                          "tileid":863
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":871
                         }],
                  "id":863,
                  "properties":[
